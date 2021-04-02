@@ -8,7 +8,7 @@
             "水"
         ],
         "location": "北海道",
-        "weapon": "弓"
+        "weapon": "bow"
     },
     {
         "id": 2,
@@ -19,7 +19,7 @@
             "水"
         ],
         "location": "北海道",
-        "weapon": "鉄"
+        "weapon": "gun"
     },
     {
         "id": 3,
@@ -29,7 +29,7 @@
             "平山"
         ],
         "location": "東北",
-        "weapon": "槍"
+        "weapon": "spear"
     },
     {
         "id": 4,
@@ -39,7 +39,7 @@
             "平山"
         ],
         "location": "東北",
-        "weapon": "槌"
+        "weapon": "hammer"
     },
     {
         "id": 5,
@@ -49,7 +49,7 @@
             "平山"
         ],
         "location": "東北",
-        "weapon": "槌"
+        "weapon": "hammer"
     },
     {
         "id": 6,
@@ -59,7 +59,7 @@
             "山"
         ],
         "location": "東北",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 7,
@@ -69,7 +69,7 @@
             "平山"
         ],
         "location": "東北",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 8,
@@ -79,7 +79,7 @@
             "平山"
         ],
         "location": "東北",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 9,
@@ -89,7 +89,7 @@
             "平山"
         ],
         "location": "東北",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 10,
@@ -99,7 +99,7 @@
             "平山"
         ],
         "location": "東北",
-        "weapon": "鉄"
+        "weapon": "gun"
     },
     {
         "id": 11,
@@ -109,7 +109,7 @@
             "平"
         ],
         "location": "東北",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 12,
@@ -119,7 +119,7 @@
             "平山"
         ],
         "location": "東北",
-        "weapon": "術"
+        "weapon": "spell"
     },
     {
         "id": 13,
@@ -129,7 +129,7 @@
             "平山"
         ],
         "location": "東北",
-        "weapon": "歌"
+        "weapon": "dancing"
     },
     {
         "id": 14,
@@ -139,7 +139,7 @@
             "平山"
         ],
         "location": "東北",
-        "weapon": "歌"
+        "weapon": "dancing"
     },
     {
         "id": 15,
@@ -149,7 +149,7 @@
             "平"
         ],
         "location": "東北",
-        "weapon": "術"
+        "weapon": "spell"
     },
     {
         "id": 16,
@@ -159,7 +159,7 @@
             "平"
         ],
         "location": "東北",
-        "weapon": "歌"
+        "weapon": "dancing"
     },
     {
         "id": 17,
@@ -169,7 +169,7 @@
             "平山"
         ],
         "location": "関東",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 18,
@@ -179,7 +179,7 @@
             "平山"
         ],
         "location": "関東",
-        "weapon": "石"
+        "weapon": "crossbow"
     },
     {
         "id": 19,
@@ -189,7 +189,7 @@
             "平"
         ],
         "location": "関東",
-        "weapon": "鉄"
+        "weapon": "gun"
     },
     {
         "id": 20,
@@ -199,7 +199,7 @@
             "平"
         ],
         "location": "関東",
-        "weapon": "鉄"
+        "weapon": "gun"
     },
     {
         "id": 21,
@@ -209,7 +209,7 @@
             "平"
         ],
         "location": "関東",
-        "weapon": "鉄"
+        "weapon": "gun"
     },
     {
         "id": 22,
@@ -219,7 +219,7 @@
             "平"
         ],
         "location": "関東",
-        "weapon": "術"
+        "weapon": "spell"
     },
     {
         "id": 23,
@@ -229,7 +229,7 @@
             "平山"
         ],
         "location": "関東",
-        "weapon": "槌"
+        "weapon": "hammer"
     },
     {
         "id": 24,
@@ -239,7 +239,7 @@
             "平山"
         ],
         "location": "関東",
-        "weapon": "槍"
+        "weapon": "spear"
     },
     {
         "id": 25,
@@ -249,7 +249,7 @@
             "平山"
         ],
         "location": "関東",
-        "weapon": "槍"
+        "weapon": "spear"
     },
     {
         "id": 26,
@@ -259,7 +259,7 @@
             "平"
         ],
         "location": "関東",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 27,
@@ -269,7 +269,7 @@
             "平"
         ],
         "location": "関東",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 28,
@@ -279,7 +279,7 @@
             "平山"
         ],
         "location": "関東",
-        "weapon": "石"
+        "weapon": "crossbow"
     },
     {
         "id": 29,
@@ -290,7 +290,7 @@
             "水"
         ],
         "location": "関東",
-        "weapon": "鉄"
+        "weapon": "gun"
     },
     {
         "id": 30,
@@ -301,7 +301,7 @@
             "水"
         ],
         "location": "関東",
-        "weapon": "鉄"
+        "weapon": "gun"
     },
     {
         "id": 31,
@@ -311,7 +311,7 @@
             "平山"
         ],
         "location": "甲信越",
-        "weapon": "槍"
+        "weapon": "spear"
     },
     {
         "id": 32,
@@ -321,7 +321,7 @@
             "平山"
         ],
         "location": "甲信越",
-        "weapon": "弓"
+        "weapon": "bow"
     },
     {
         "id": 33,
@@ -331,7 +331,7 @@
             "平山"
         ],
         "location": "甲信越",
-        "weapon": "槍"
+        "weapon": "spear"
     },
     {
         "id": 34,
@@ -341,7 +341,7 @@
             "平"
         ],
         "location": "東海",
-        "weapon": "弓"
+        "weapon": "bow"
     },
     {
         "id": 35,
@@ -351,7 +351,7 @@
             "平"
         ],
         "location": "東海",
-        "weapon": "弓"
+        "weapon": "bow"
     },
     {
         "id": 36,
@@ -361,7 +361,7 @@
             "平山"
         ],
         "location": "東海",
-        "weapon": "弓"
+        "weapon": "bow"
     },
     {
         "id": 37,
@@ -371,7 +371,7 @@
             "平"
         ],
         "location": "東海",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 38,
@@ -381,7 +381,7 @@
             "平"
         ],
         "location": "東海",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 39,
@@ -391,7 +391,7 @@
             "平"
         ],
         "location": "東海",
-        "weapon": "槌"
+        "weapon": "hammer"
     },
     {
         "id": 40,
@@ -401,7 +401,7 @@
             "山"
         ],
         "location": "東海",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 41,
@@ -411,7 +411,7 @@
             "山"
         ],
         "location": "東海",
-        "weapon": "鉄"
+        "weapon": "gun"
     },
     {
         "id": 42,
@@ -421,7 +421,7 @@
             "山"
         ],
         "location": "東海",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 43,
@@ -431,7 +431,7 @@
             "山"
         ],
         "location": "甲信越",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 44,
@@ -441,7 +441,7 @@
             "平"
         ],
         "location": "北陸",
-        "weapon": "鉄"
+        "weapon": "gun"
     },
     {
         "id": 45,
@@ -451,7 +451,7 @@
             "山"
         ],
         "location": "北陸",
-        "weapon": "槍"
+        "weapon": "spear"
     },
     {
         "id": 46,
@@ -461,7 +461,7 @@
             "平山"
         ],
         "location": "北陸",
-        "weapon": "術"
+        "weapon": "spell"
     },
     {
         "id": 47,
@@ -471,7 +471,7 @@
             "平"
         ],
         "location": "北陸",
-        "weapon": "槍"
+        "weapon": "spear"
     },
     {
         "id": 48,
@@ -481,7 +481,7 @@
             "平"
         ],
         "location": "北陸",
-        "weapon": "槍"
+        "weapon": "spear"
     },
     {
         "id": 49,
@@ -492,7 +492,7 @@
             "水"
         ],
         "location": "北陸",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 50,
@@ -503,7 +503,7 @@
             "水"
         ],
         "location": "北陸",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 51,
@@ -514,7 +514,7 @@
             "水"
         ],
         "location": "近畿",
-        "weapon": "鉄"
+        "weapon": "gun"
     },
     {
         "id": 52,
@@ -524,7 +524,7 @@
             "山"
         ],
         "location": "近畿",
-        "weapon": "槍"
+        "weapon": "spear"
     },
     {
         "id": 53,
@@ -534,7 +534,7 @@
             "平"
         ],
         "location": "近畿",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 54,
@@ -544,7 +544,7 @@
             "平山"
         ],
         "location": "近畿",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 55,
@@ -554,7 +554,7 @@
             "平山"
         ],
         "location": "近畿",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 56,
@@ -564,7 +564,7 @@
             "平"
         ],
         "location": "近畿",
-        "weapon": "鉄"
+        "weapon": "gun"
     },
     {
         "id": 57,
@@ -574,7 +574,7 @@
             "平山"
         ],
         "location": "近畿",
-        "weapon": "弓"
+        "weapon": "bow"
     },
     {
         "id": 58,
@@ -584,7 +584,7 @@
             "山"
         ],
         "location": "近畿",
-        "weapon": "術"
+        "weapon": "spell"
     },
     {
         "id": 59,
@@ -594,7 +594,7 @@
             "平"
         ],
         "location": "近畿",
-        "weapon": "歌"
+        "weapon": "dancing"
     },
     {
         "id": 60,
@@ -604,7 +604,7 @@
             "平"
         ],
         "location": "近畿",
-        "weapon": "歌"
+        "weapon": "dancing"
     },
     {
         "id": 61,
@@ -614,7 +614,7 @@
             "山"
         ],
         "location": "近畿",
-        "weapon": "術"
+        "weapon": "spell"
     },
     {
         "id": 62,
@@ -625,7 +625,7 @@
             "水"
         ],
         "location": "近畿",
-        "weapon": "槌"
+        "weapon": "hammer"
     },
     {
         "id": 63,
@@ -636,7 +636,7 @@
             "水"
         ],
         "location": "近畿",
-        "weapon": "鉄"
+        "weapon": "gun"
     },
     {
         "id": 64,
@@ -646,7 +646,7 @@
             "平山"
         ],
         "location": "近畿",
-        "weapon": "槌"
+        "weapon": "hammer"
     },
     {
         "id": 65,
@@ -656,7 +656,7 @@
             "平山"
         ],
         "location": "中国",
-        "weapon": "弓"
+        "weapon": "bow"
     },
     {
         "id": 66,
@@ -666,7 +666,7 @@
             "平山"
         ],
         "location": "中国",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 67,
@@ -676,7 +676,7 @@
             "平"
         ],
         "location": "中国",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 68,
@@ -687,7 +687,7 @@
             "水"
         ],
         "location": "中国",
-        "weapon": "石"
+        "weapon": "crossbow"
     },
     {
         "id": 69,
@@ -697,7 +697,7 @@
             "水"
         ],
         "location": "中国",
-        "weapon": "弓"
+        "weapon": "bow"
     },
     {
         "id": 70,
@@ -707,7 +707,7 @@
             "平山"
         ],
         "location": "中国",
-        "weapon": "槍"
+        "weapon": "spear"
     },
     {
         "id": 71,
@@ -717,7 +717,7 @@
             "山"
         ],
         "location": "中国",
-        "weapon": "弓"
+        "weapon": "bow"
     },
     {
         "id": 72,
@@ -728,7 +728,7 @@
             "水"
         ],
         "location": "中国",
-        "weapon": "槍"
+        "weapon": "spear"
     },
     {
         "id": 73,
@@ -738,7 +738,7 @@
             "山"
         ],
         "location": "中国",
-        "weapon": "石"
+        "weapon": "crossbow"
     },
     {
         "id": 74,
@@ -748,7 +748,7 @@
             "山"
         ],
         "location": "中国",
-        "weapon": "鉄"
+        "weapon": "gun"
     },
     {
         "id": 75,
@@ -758,7 +758,7 @@
             "水"
         ],
         "location": "中国",
-        "weapon": "鉄"
+        "weapon": "gun"
     },
     {
         "id": 76,
@@ -768,7 +768,7 @@
             "水"
         ],
         "location": "四国",
-        "weapon": "槍"
+        "weapon": "spear"
     },
     {
         "id": 77,
@@ -779,7 +779,7 @@
             "水"
         ],
         "location": "四国",
-        "weapon": "術"
+        "weapon": "spell"
     },
     {
         "id": 78,
@@ -789,7 +789,7 @@
             "平"
         ],
         "location": "四国",
-        "weapon": "鉄"
+        "weapon": "gun"
     },
     {
         "id": 79,
@@ -799,7 +799,7 @@
             "水"
         ],
         "location": "四国",
-        "weapon": "鉄"
+        "weapon": "gun"
     },
     {
         "id": 80,
@@ -809,7 +809,7 @@
             "平山"
         ],
         "location": "四国",
-        "weapon": "槍"
+        "weapon": "spear"
     },
     {
         "id": 81,
@@ -819,7 +819,7 @@
             "平山"
         ],
         "location": "四国",
-        "weapon": "鉄"
+        "weapon": "gun"
     },
     {
         "id": 82,
@@ -829,7 +829,7 @@
             "平"
         ],
         "location": "九州",
-        "weapon": "鉄"
+        "weapon": "gun"
     },
     {
         "id": 83,
@@ -840,7 +840,7 @@
             "水"
         ],
         "location": "九州",
-        "weapon": "石"
+        "weapon": "crossbow"
     },
     {
         "id": 84,
@@ -850,7 +850,7 @@
             "水"
         ],
         "location": "九州",
-        "weapon": "鉄"
+        "weapon": "gun"
     },
     {
         "id": 85,
@@ -861,7 +861,7 @@
             "水"
         ],
         "location": "九州",
-        "weapon": "弓"
+        "weapon": "bow"
     },
     {
         "id": 86,
@@ -871,7 +871,7 @@
             "平"
         ],
         "location": "九州",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 87,
@@ -881,7 +881,7 @@
             "平"
         ],
         "location": "九州",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 88,
@@ -892,7 +892,7 @@
             "水"
         ],
         "location": "九州",
-        "weapon": "槍"
+        "weapon": "spear"
     },
     {
         "id": 89,
@@ -903,7 +903,7 @@
             "水"
         ],
         "location": "九州",
-        "weapon": "術"
+        "weapon": "spell"
     },
     {
         "id": 90,
@@ -913,7 +913,7 @@
             "平山"
         ],
         "location": "九州",
-        "weapon": "弓"
+        "weapon": "bow"
     },
     {
         "id": 91,
@@ -923,7 +923,7 @@
             "平山"
         ],
         "location": "九州",
-        "weapon": "鉄"
+        "weapon": "gun"
     },
     {
         "id": 92,
@@ -933,7 +933,7 @@
             "平山"
         ],
         "location": "九州",
-        "weapon": "弓"
+        "weapon": "bow"
     },
     {
         "id": 93,
@@ -944,7 +944,7 @@
             "水"
         ],
         "location": "九州",
-        "weapon": "鉄"
+        "weapon": "gun"
     },
     {
         "id": 94,
@@ -954,7 +954,7 @@
             "平山"
         ],
         "location": "沖縄",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 95,
@@ -964,7 +964,7 @@
             "山"
         ],
         "location": "沖縄",
-        "weapon": "弓"
+        "weapon": "bow"
     },
     {
         "id": 96,
@@ -974,7 +974,7 @@
             "平山"
         ],
         "location": "四国",
-        "weapon": "槍"
+        "weapon": "spear"
     },
     {
         "id": 97,
@@ -984,7 +984,7 @@
             "山"
         ],
         "location": "近畿",
-        "weapon": "槍"
+        "weapon": "spear"
     },
     {
         "id": 98,
@@ -994,7 +994,7 @@
             "水"
         ],
         "location": "四国",
-        "weapon": "鉄"
+        "weapon": "gun"
     },
     {
         "id": 99,
@@ -1004,7 +1004,7 @@
             "山"
         ],
         "location": "中国",
-        "weapon": "槍"
+        "weapon": "spear"
     },
     {
         "id": 100,
@@ -1015,7 +1015,7 @@
             "水"
         ],
         "location": "東北",
-        "weapon": "槍"
+        "weapon": "spear"
     },
     {
         "id": 101,
@@ -1025,7 +1025,7 @@
             "山"
         ],
         "location": "北陸",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 102,
@@ -1035,7 +1035,7 @@
             "平"
         ],
         "location": "東海",
-        "weapon": "鉄"
+        "weapon": "gun"
     },
     {
         "id": 103,
@@ -1045,7 +1045,7 @@
             "山"
         ],
         "location": "関東",
-        "weapon": "槍"
+        "weapon": "spear"
     },
     {
         "id": 104,
@@ -1055,7 +1055,7 @@
             "平山"
         ],
         "location": "中国",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 105,
@@ -1065,7 +1065,7 @@
             "平山"
         ],
         "location": "九州",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 106,
@@ -1075,7 +1075,7 @@
             "平山"
         ],
         "location": "九州",
-        "weapon": "鉄"
+        "weapon": "gun"
     },
     {
         "id": 107,
@@ -1085,7 +1085,7 @@
             "平山"
         ],
         "location": "近畿",
-        "weapon": "鉄"
+        "weapon": "gun"
     },
     {
         "id": 108,
@@ -1096,7 +1096,7 @@
             "水"
         ],
         "location": "近畿",
-        "weapon": "鉄"
+        "weapon": "gun"
     },
     {
         "id": 109,
@@ -1106,7 +1106,7 @@
             "山"
         ],
         "location": "甲信越",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 110,
@@ -1116,7 +1116,7 @@
             "平山"
         ],
         "location": "近畿",
-        "weapon": "弓"
+        "weapon": "bow"
     },
     {
         "id": 111,
@@ -1126,7 +1126,7 @@
             "平山"
         ],
         "location": "近畿",
-        "weapon": "鉄"
+        "weapon": "gun"
     },
     {
         "id": 112,
@@ -1137,7 +1137,7 @@
             "水"
         ],
         "location": "近畿",
-        "weapon": "術"
+        "weapon": "spell"
     },
     {
         "id": 113,
@@ -1148,7 +1148,7 @@
             "水"
         ],
         "location": "近畿",
-        "weapon": "鉄"
+        "weapon": "gun"
     },
     {
         "id": 114,
@@ -1158,7 +1158,7 @@
             "山"
         ],
         "location": "関東",
-        "weapon": "槍"
+        "weapon": "spear"
     },
     {
         "id": 115,
@@ -1168,7 +1168,7 @@
             "平山"
         ],
         "location": "東北",
-        "weapon": "石"
+        "weapon": "crossbow"
     },
     {
         "id": 116,
@@ -1178,7 +1178,7 @@
             "山"
         ],
         "location": "北陸",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 117,
@@ -1188,7 +1188,7 @@
             "山"
         ],
         "location": "海外",
-        "weapon": "槌"
+        "weapon": "hammer"
     },
     {
         "id": 118,
@@ -1198,7 +1198,7 @@
             "山"
         ],
         "location": "甲信越",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 119,
@@ -1208,7 +1208,7 @@
             "平山"
         ],
         "location": "近畿",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 120,
@@ -1218,7 +1218,7 @@
             "平山"
         ],
         "location": "東北",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 121,
@@ -1228,7 +1228,7 @@
             "平山"
         ],
         "location": "近畿",
-        "weapon": "槍"
+        "weapon": "spear"
     },
     {
         "id": 122,
@@ -1238,7 +1238,7 @@
             "平山"
         ],
         "location": "甲信越",
-        "weapon": "術"
+        "weapon": "spell"
     },
     {
         "id": 123,
@@ -1248,7 +1248,7 @@
             "平"
         ],
         "location": "九州",
-        "weapon": "石"
+        "weapon": "crossbow"
     },
     {
         "id": 124,
@@ -1258,7 +1258,7 @@
             "山"
         ],
         "location": "関東",
-        "weapon": "槍"
+        "weapon": "spear"
     },
     {
         "id": 125,
@@ -1268,7 +1268,7 @@
             "水"
         ],
         "location": "四国",
-        "weapon": "鉄"
+        "weapon": "gun"
     },
     {
         "id": 126,
@@ -1278,7 +1278,7 @@
             "平"
         ],
         "location": "近畿",
-        "weapon": "槍"
+        "weapon": "spear"
     },
     {
         "id": 127,
@@ -1288,7 +1288,7 @@
             "山"
         ],
         "location": "近畿",
-        "weapon": "石"
+        "weapon": "crossbow"
     },
     {
         "id": 128,
@@ -1298,7 +1298,7 @@
             "山"
         ],
         "location": "海外",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 129,
@@ -1309,7 +1309,7 @@
             "水"
         ],
         "location": "中国",
-        "weapon": "鉄"
+        "weapon": "gun"
     },
     {
         "id": 130,
@@ -1319,7 +1319,7 @@
             "山"
         ],
         "location": "四国",
-        "weapon": "弓"
+        "weapon": "bow"
     },
     {
         "id": 131,
@@ -1329,7 +1329,7 @@
             "平山"
         ],
         "location": "北陸",
-        "weapon": "歌"
+        "weapon": "dancing"
     },
     {
         "id": 132,
@@ -1339,7 +1339,7 @@
             "平山"
         ],
         "location": "北陸",
-        "weapon": "槍"
+        "weapon": "spear"
     },
     {
         "id": 133,
@@ -1349,7 +1349,7 @@
             "山"
         ],
         "location": "東海",
-        "weapon": "術"
+        "weapon": "spell"
     },
     {
         "id": 134,
@@ -1359,7 +1359,7 @@
             "山"
         ],
         "location": "東海",
-        "weapon": "槍"
+        "weapon": "spear"
     },
     {
         "id": 135,
@@ -1369,7 +1369,7 @@
             "平"
         ],
         "location": "近畿",
-        "weapon": "歌"
+        "weapon": "dancing"
     },
     {
         "id": 136,
@@ -1379,7 +1379,7 @@
             "平"
         ],
         "location": "甲信越",
-        "weapon": "弓"
+        "weapon": "bow"
     },
     {
         "id": 137,
@@ -1389,7 +1389,7 @@
             "平"
         ],
         "location": "甲信越",
-        "weapon": "石"
+        "weapon": "crossbow"
     },
     {
         "id": 138,
@@ -1399,7 +1399,7 @@
             "平"
         ],
         "location": "中国",
-        "weapon": "石"
+        "weapon": "crossbow"
     },
     {
         "id": 139,
@@ -1409,7 +1409,7 @@
             "平山"
         ],
         "location": "北陸",
-        "weapon": "槍"
+        "weapon": "spear"
     },
     {
         "id": 140,
@@ -1419,7 +1419,7 @@
             "平山"
         ],
         "location": "東北",
-        "weapon": "弓"
+        "weapon": "bow"
     },
     {
         "id": 141,
@@ -1429,7 +1429,7 @@
             "平山"
         ],
         "location": "東北",
-        "weapon": "槍"
+        "weapon": "spear"
     },
     {
         "id": 142,
@@ -1439,7 +1439,7 @@
             "平山"
         ],
         "location": "東北",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 143,
@@ -1449,7 +1449,7 @@
             "平"
         ],
         "location": "九州",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 144,
@@ -1459,7 +1459,7 @@
             "平"
         ],
         "location": "北海道",
-        "weapon": "鉄"
+        "weapon": "gun"
     },
     {
         "id": 145,
@@ -1469,7 +1469,7 @@
             "平"
         ],
         "location": "北海道",
-        "weapon": "大"
+        "weapon": "cannon"
     },
     {
         "id": 146,
@@ -1479,7 +1479,7 @@
             "平山"
         ],
         "location": "北陸",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 147,
@@ -1490,7 +1490,7 @@
             "水"
         ],
         "location": "海外",
-        "weapon": "大"
+        "weapon": "cannon"
     },
     {
         "id": 148,
@@ -1501,7 +1501,7 @@
             "水"
         ],
         "location": "海外",
-        "weapon": "鉄"
+        "weapon": "gun"
     },
     {
         "id": 149,
@@ -1512,7 +1512,7 @@
             "水"
         ],
         "location": "海外",
-        "weapon": "鉄"
+        "weapon": "gun"
     },
     {
         "id": 150,
@@ -1522,7 +1522,7 @@
             "山"
         ],
         "location": "近畿",
-        "weapon": "大"
+        "weapon": "cannon"
     },
     {
         "id": 151,
@@ -1533,7 +1533,7 @@
             "水"
         ],
         "location": "九州",
-        "weapon": "弓"
+        "weapon": "bow"
     },
     {
         "id": 152,
@@ -1544,7 +1544,7 @@
             "水"
         ],
         "location": "九州",
-        "weapon": "鉄"
+        "weapon": "gun"
     },
     {
         "id": 153,
@@ -1555,7 +1555,7 @@
             "水"
         ],
         "location": "海外",
-        "weapon": "鉄"
+        "weapon": "gun"
     },
     {
         "id": 154,
@@ -1565,7 +1565,7 @@
             "平山"
         ],
         "location": "東北",
-        "weapon": "弓"
+        "weapon": "bow"
     },
     {
         "id": 155,
@@ -1575,7 +1575,7 @@
             "山"
         ],
         "location": "中国",
-        "weapon": "弓"
+        "weapon": "bow"
     },
     {
         "id": 156,
@@ -1585,7 +1585,7 @@
             "山"
         ],
         "location": "近畿",
-        "weapon": "術"
+        "weapon": "spell"
     },
     {
         "id": 157,
@@ -1595,7 +1595,7 @@
             "山"
         ],
         "location": "東海",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 158,
@@ -1605,7 +1605,7 @@
             "山"
         ],
         "location": "海外",
-        "weapon": "盾"
+        "weapon": "shield"
     },
     {
         "id": 159,
@@ -1615,7 +1615,7 @@
             "平"
         ],
         "location": "東北",
-        "weapon": "槍"
+        "weapon": "spear"
     },
     {
         "id": 160,
@@ -1625,7 +1625,7 @@
             "平"
         ],
         "location": "東北",
-        "weapon": "術"
+        "weapon": "spell"
     },
     {
         "id": 161,
@@ -1635,7 +1635,7 @@
             "平"
         ],
         "location": "東北",
-        "weapon": "術"
+        "weapon": "spell"
     },
     {
         "id": 162,
@@ -1645,7 +1645,7 @@
             "平"
         ],
         "location": "甲信越",
-        "weapon": "槌"
+        "weapon": "hammer"
     },
     {
         "id": 163,
@@ -1655,7 +1655,7 @@
             "平"
         ],
         "location": "東海",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 164,
@@ -1665,7 +1665,7 @@
             "平"
         ],
         "location": "近畿",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 165,
@@ -1675,7 +1675,7 @@
             "平"
         ],
         "location": "近畿",
-        "weapon": "槌"
+        "weapon": "hammer"
     },
     {
         "id": 166,
@@ -1685,7 +1685,7 @@
             "平山"
         ],
         "location": "東海",
-        "weapon": "大"
+        "weapon": "cannon"
     },
     {
         "id": 167,
@@ -1695,7 +1695,7 @@
             "平"
         ],
         "location": "海外",
-        "weapon": "盾"
+        "weapon": "shield"
     },
     {
         "id": 168,
@@ -1705,7 +1705,7 @@
             "山"
         ],
         "location": "中国",
-        "weapon": "鉄"
+        "weapon": "gun"
     },
     {
         "id": 169,
@@ -1716,7 +1716,7 @@
             "水"
         ],
         "location": "四国",
-        "weapon": "大"
+        "weapon": "cannon"
     },
     {
         "id": 170,
@@ -1726,7 +1726,7 @@
             "平山"
         ],
         "location": "東北",
-        "weapon": "弓"
+        "weapon": "bow"
     },
     {
         "id": 171,
@@ -1736,7 +1736,7 @@
             "平山"
         ],
         "location": "四国",
-        "weapon": "槍"
+        "weapon": "spear"
     },
     {
         "id": 172,
@@ -1746,7 +1746,7 @@
             "平"
         ],
         "location": "近畿",
-        "weapon": "弓"
+        "weapon": "bow"
     },
     {
         "id": 173,
@@ -1756,7 +1756,7 @@
             "山"
         ],
         "location": "九州",
-        "weapon": "石"
+        "weapon": "crossbow"
     },
     {
         "id": 174,
@@ -1767,7 +1767,7 @@
             "水"
         ],
         "location": "九州",
-        "weapon": "鉄"
+        "weapon": "gun"
     },
     {
         "id": 175,
@@ -1778,7 +1778,7 @@
             "水"
         ],
         "location": "九州",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 176,
@@ -1788,7 +1788,7 @@
             "平山"
         ],
         "location": "東海",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 177,
@@ -1798,7 +1798,7 @@
             "平山"
         ],
         "location": "海外",
-        "weapon": "盾"
+        "weapon": "shield"
     },
     {
         "id": 178,
@@ -1809,7 +1809,7 @@
             "水"
         ],
         "location": "中国",
-        "weapon": "槍"
+        "weapon": "spear"
     },
     {
         "id": 179,
@@ -1820,7 +1820,7 @@
             "水"
         ],
         "location": "近畿",
-        "weapon": "術"
+        "weapon": "spell"
     },
     {
         "id": 180,
@@ -1830,7 +1830,7 @@
             "山"
         ],
         "location": "北海道",
-        "weapon": "槌"
+        "weapon": "hammer"
     },
     {
         "id": 181,
@@ -1841,7 +1841,7 @@
             "水"
         ],
         "location": "四国",
-        "weapon": "大"
+        "weapon": "cannon"
     },
     {
         "id": 182,
@@ -1851,7 +1851,7 @@
             "平山"
         ],
         "location": "四国",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 183,
@@ -1861,7 +1861,7 @@
             "平山"
         ],
         "location": "九州",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 184,
@@ -1871,7 +1871,7 @@
             "平山"
         ],
         "location": "九州",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 185,
@@ -1881,7 +1881,7 @@
             "平山"
         ],
         "location": "九州",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 186,
@@ -1891,7 +1891,7 @@
             "平山"
         ],
         "location": "北陸",
-        "weapon": "術"
+        "weapon": "spell"
     },
     {
         "id": 187,
@@ -1901,7 +1901,7 @@
             "平山"
         ],
         "location": "近畿",
-        "weapon": "鈴"
+        "weapon": "bell"
     },
     {
         "id": 188,
@@ -1912,7 +1912,7 @@
             "水"
         ],
         "location": "海外",
-        "weapon": "盾"
+        "weapon": "shield"
     },
     {
         "id": 189,
@@ -1923,7 +1923,7 @@
             "水"
         ],
         "location": "海外",
-        "weapon": "盾"
+        "weapon": "shield"
     },
     {
         "id": 190,
@@ -1934,7 +1934,7 @@
             "水"
         ],
         "location": "近畿",
-        "weapon": "槌"
+        "weapon": "hammer"
     },
     {
         "id": 191,
@@ -1944,7 +1944,7 @@
             "平"
         ],
         "location": "九州",
-        "weapon": "石"
+        "weapon": "crossbow"
     },
     {
         "id": 192,
@@ -1954,7 +1954,7 @@
             "平山"
         ],
         "location": "海外",
-        "weapon": "石"
+        "weapon": "crossbow"
     },
     {
         "id": 193,
@@ -1964,7 +1964,7 @@
             "山"
         ],
         "location": "東海",
-        "weapon": "弓"
+        "weapon": "bow"
     },
     {
         "id": 194,
@@ -1975,7 +1975,7 @@
             "水"
         ],
         "location": "九州",
-        "weapon": "大"
+        "weapon": "cannon"
     },
     {
         "id": 195,
@@ -1985,7 +1985,7 @@
             "平山"
         ],
         "location": "中国",
-        "weapon": "槌"
+        "weapon": "hammer"
     },
     {
         "id": 196,
@@ -1996,7 +1996,7 @@
             "水"
         ],
         "location": "海外",
-        "weapon": "盾"
+        "weapon": "shield"
     },
     {
         "id": 197,
@@ -2006,7 +2006,7 @@
             "平山"
         ],
         "location": "近畿",
-        "weapon": "術"
+        "weapon": "spell"
     },
     {
         "id": 198,
@@ -2016,7 +2016,7 @@
             "平"
         ],
         "location": "海外",
-        "weapon": "杖"
+        "weapon": "staff"
     },
     {
         "id": 199,
@@ -2026,7 +2026,7 @@
             "山"
         ],
         "location": "中国",
-        "weapon": "石"
+        "weapon": "crossbow"
     },
     {
         "id": 200,
@@ -2036,7 +2036,7 @@
             "平山"
         ],
         "location": "中国",
-        "weapon": "鈴"
+        "weapon": "bell"
     },
     {
         "id": 201,
@@ -2046,7 +2046,7 @@
             "平"
         ],
         "location": "甲信越",
-        "weapon": "槍"
+        "weapon": "spear"
     },
     {
         "id": 202,
@@ -2056,7 +2056,7 @@
             "平"
         ],
         "location": "近畿",
-        "weapon": "槍"
+        "weapon": "spear"
     },
     {
         "id": 203,
@@ -2066,7 +2066,7 @@
             "平山"
         ],
         "location": "近畿",
-        "weapon": "鉄"
+        "weapon": "gun"
     },
     {
         "id": 204,
@@ -2076,7 +2076,7 @@
             "平山"
         ],
         "location": "近畿",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 205,
@@ -2086,7 +2086,7 @@
             "山"
         ],
         "location": "甲信越",
-        "weapon": "術"
+        "weapon": "spell"
     },
     {
         "id": 206,
@@ -2097,7 +2097,7 @@
             "水"
         ],
         "location": "海外",
-        "weapon": "杖"
+        "weapon": "staff"
     },
     {
         "id": 207,
@@ -2107,7 +2107,7 @@
             "山"
         ],
         "location": "東海",
-        "weapon": "槌"
+        "weapon": "hammer"
     },
     {
         "id": 208,
@@ -2117,7 +2117,7 @@
             "平山"
         ],
         "location": "東海",
-        "weapon": "槍"
+        "weapon": "spear"
     },
     {
         "id": 209,
@@ -2127,7 +2127,7 @@
             "平山"
         ],
         "location": "海外",
-        "weapon": "杖"
+        "weapon": "staff"
     },
     {
         "id": 210,
@@ -2137,7 +2137,7 @@
             "平山"
         ],
         "location": "東北",
-        "weapon": "石"
+        "weapon": "crossbow"
     },
     {
         "id": 211,
@@ -2148,7 +2148,7 @@
             "水"
         ],
         "location": "海外",
-        "weapon": "鈴"
+        "weapon": "bell"
     },
     {
         "id": 212,
@@ -2158,7 +2158,7 @@
             "山"
         ],
         "location": "中国",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 213,
@@ -2168,7 +2168,7 @@
             "平"
         ],
         "location": "北海道",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 214,
@@ -2178,7 +2178,7 @@
             "平"
         ],
         "location": "海外",
-        "weapon": "拳"
+        "weapon": "gaunlets"
     },
     {
         "id": 215,
@@ -2189,7 +2189,7 @@
             "水"
         ],
         "location": "東海",
-        "weapon": "槌"
+        "weapon": "hammer"
     },
     {
         "id": 216,
@@ -2199,7 +2199,7 @@
             "平山"
         ],
         "location": "海外",
-        "weapon": "杖"
+        "weapon": "staff"
     },
     {
         "id": 217,
@@ -2210,7 +2210,7 @@
             "水"
         ],
         "location": "九州",
-        "weapon": "弓"
+        "weapon": "bow"
     },
     {
         "id": 218,
@@ -2220,7 +2220,7 @@
             "平山"
         ],
         "location": "海外",
-        "weapon": "拳"
+        "weapon": "gaunlets"
     },
     {
         "id": 219,
@@ -2230,7 +2230,7 @@
             "平"
         ],
         "location": "近畿",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 220,
@@ -2241,7 +2241,7 @@
             "水"
         ],
         "location": "関東",
-        "weapon": "石"
+        "weapon": "crossbow"
     },
     {
         "id": 221,
@@ -2251,7 +2251,7 @@
             "平山"
         ],
         "location": "海外",
-        "weapon": "槌"
+        "weapon": "hammer"
     },
     {
         "id": 222,
@@ -2262,7 +2262,7 @@
             "水"
         ],
         "location": "中国",
-        "weapon": "槍"
+        "weapon": "spear"
     },
     {
         "id": 223,
@@ -2272,7 +2272,7 @@
             "平山"
         ],
         "location": "東海",
-        "weapon": "大"
+        "weapon": "cannon"
     },
     {
         "id": 224,
@@ -2282,7 +2282,7 @@
             "平山"
         ],
         "location": "近畿",
-        "weapon": "鈴"
+        "weapon": "bell"
     },
     {
         "id": 225,
@@ -2292,7 +2292,7 @@
             "平"
         ],
         "location": "東海",
-        "weapon": "槌"
+        "weapon": "hammer"
     },
     {
         "id": 226,
@@ -2302,7 +2302,7 @@
             "山"
         ],
         "location": "東海",
-        "weapon": "鉄"
+        "weapon": "gun"
     },
     {
         "id": 227,
@@ -2312,7 +2312,7 @@
             "山"
         ],
         "location": "関東",
-        "weapon": "鈴"
+        "weapon": "bell"
     },
     {
         "id": 228,
@@ -2322,7 +2322,7 @@
             "山"
         ],
         "location": "近畿",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 229,
@@ -2332,7 +2332,7 @@
             "山"
         ],
         "location": "海外",
-        "weapon": "大"
+        "weapon": "cannon"
     },
     {
         "id": 230,
@@ -2342,7 +2342,7 @@
             "平山"
         ],
         "location": "海外",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 231,
@@ -2352,7 +2352,7 @@
             "平山"
         ],
         "location": "東北",
-        "weapon": "鉄"
+        "weapon": "gun"
     },
     {
         "id": 232,
@@ -2362,7 +2362,7 @@
             "平山"
         ],
         "location": "九州",
-        "weapon": "槍"
+        "weapon": "spear"
     },
     {
         "id": 233,
@@ -2372,7 +2372,7 @@
             "平山"
         ],
         "location": "海外",
-        "weapon": "盾"
+        "weapon": "shield"
     },
     {
         "id": 234,
@@ -2382,7 +2382,7 @@
             "水"
         ],
         "location": "海外",
-        "weapon": "杖"
+        "weapon": "staff"
     },
     {
         "id": 235,
@@ -2392,7 +2392,7 @@
             "平山"
         ],
         "location": "甲信越",
-        "weapon": "術"
+        "weapon": "spell"
     },
     {
         "id": 236,
@@ -2402,7 +2402,7 @@
             "平"
         ],
         "location": "東海",
-        "weapon": "鉄"
+        "weapon": "gun"
     },
     {
         "id": 237,
@@ -2412,7 +2412,7 @@
             "平山"
         ],
         "location": "海外",
-        "weapon": "盾"
+        "weapon": "shield"
     },
     {
         "id": 238,
@@ -2422,7 +2422,7 @@
             "平山"
         ],
         "location": "海外",
-        "weapon": "鈴"
+        "weapon": "bell"
     },
     {
         "id": 239,
@@ -2433,7 +2433,7 @@
             "水"
         ],
         "location": "近畿",
-        "weapon": "大"
+        "weapon": "cannon"
     },
     {
         "id": 240,
@@ -2443,7 +2443,7 @@
             "平"
         ],
         "location": "東北",
-        "weapon": "弓"
+        "weapon": "bow"
     },
     {
         "id": 241,
@@ -2453,7 +2453,7 @@
             "山"
         ],
         "location": "海外",
-        "weapon": "盾"
+        "weapon": "shield"
     },
     {
         "id": 242,
@@ -2464,7 +2464,7 @@
             "水"
         ],
         "location": "四国",
-        "weapon": "槌"
+        "weapon": "hammer"
     },
     {
         "id": 243,
@@ -2474,7 +2474,7 @@
             "平"
         ],
         "location": "海外",
-        "weapon": "拳"
+        "weapon": "gaunlets"
     },
     {
         "id": 244,
@@ -2484,7 +2484,7 @@
             "平山"
         ],
         "location": "海外",
-        "weapon": "歌"
+        "weapon": "dancing"
     },
     {
         "id": 245,
@@ -2494,7 +2494,7 @@
             "平"
         ],
         "location": "海外",
-        "weapon": "杖"
+        "weapon": "staff"
     },
     {
         "id": 246,
@@ -2505,7 +2505,7 @@
             "水"
         ],
         "location": "甲信越",
-        "weapon": "鈴"
+        "weapon": "bell"
     },
     {
         "id": 247,
@@ -2516,7 +2516,7 @@
             "水"
         ],
         "location": "海外",
-        "weapon": "鉄"
+        "weapon": "gun"
     },
     {
         "id": 248,
@@ -2527,7 +2527,7 @@
             "水"
         ],
         "location": "九州",
-        "weapon": "大"
+        "weapon": "cannon"
     },
     {
         "id": 249,
@@ -2537,7 +2537,7 @@
             "山"
         ],
         "location": "海外",
-        "weapon": "杖"
+        "weapon": "staff"
     },
     {
         "id": 250,
@@ -2547,7 +2547,7 @@
             "平"
         ],
         "location": "近畿",
-        "weapon": "槌"
+        "weapon": "hammer"
     },
     {
         "id": 251,
@@ -2557,7 +2557,7 @@
             "平"
         ],
         "location": "近畿",
-        "weapon": "術"
+        "weapon": "spell"
     },
     {
         "id": 252,
@@ -2568,7 +2568,7 @@
             "水"
         ],
         "location": "中国",
-        "weapon": "弓"
+        "weapon": "bow"
     },
     {
         "id": 253,
@@ -2578,7 +2578,7 @@
             "平山"
         ],
         "location": "近畿",
-        "weapon": "術"
+        "weapon": "spell"
     },
     {
         "id": 254,
@@ -2589,7 +2589,7 @@
             "水"
         ],
         "location": "海外",
-        "weapon": "弓"
+        "weapon": "bow"
     },
     {
         "id": 255,
@@ -2600,7 +2600,7 @@
             "水"
         ],
         "location": "海外",
-        "weapon": "槍"
+        "weapon": "spear"
     },
     {
         "id": 256,
@@ -2611,7 +2611,7 @@
             "水"
         ],
         "location": "海外",
-        "weapon": "盾"
+        "weapon": "shield"
     },
     {
         "id": 257,
@@ -2621,7 +2621,7 @@
             "平"
         ],
         "location": "関東",
-        "weapon": "弓"
+        "weapon": "bow"
     },
     {
         "id": 258,
@@ -2631,7 +2631,7 @@
             "平"
         ],
         "location": "東北",
-        "weapon": "鉄"
+        "weapon": "gun"
     },
     {
         "id": 259,
@@ -2641,7 +2641,7 @@
             "平山"
         ],
         "location": "九州",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 260,
@@ -2651,7 +2651,7 @@
             "山"
         ],
         "location": "近畿",
-        "weapon": "大"
+        "weapon": "cannon"
     },
     {
         "id": 261,
@@ -2661,7 +2661,7 @@
             "平山"
         ],
         "location": "海外",
-        "weapon": "石"
+        "weapon": "crossbow"
     },
     {
         "id": 262,
@@ -2671,7 +2671,7 @@
             "平山"
         ],
         "location": "関東",
-        "weapon": "歌"
+        "weapon": "dancing"
     },
     {
         "id": 263,
@@ -2681,7 +2681,7 @@
             "山"
         ],
         "location": "海外",
-        "weapon": "杖"
+        "weapon": "staff"
     },
     {
         "id": 264,
@@ -2691,7 +2691,7 @@
             "山"
         ],
         "location": "中国",
-        "weapon": "歌"
+        "weapon": "dancing"
     },
     {
         "id": 265,
@@ -2702,7 +2702,7 @@
             "水"
         ],
         "location": "近畿",
-        "weapon": "槌"
+        "weapon": "hammer"
     },
     {
         "id": 266,
@@ -2712,7 +2712,7 @@
             "水"
         ],
         "location": "海外",
-        "weapon": "歌"
+        "weapon": "dancing"
     },
     {
         "id": 267,
@@ -2723,7 +2723,7 @@
             "水"
         ],
         "location": "海外",
-        "weapon": "鈴"
+        "weapon": "bell"
     },
     {
         "id": 268,
@@ -2734,7 +2734,7 @@
             "水"
         ],
         "location": "海外",
-        "weapon": "拳"
+        "weapon": "gaunlets"
     },
     {
         "id": 269,
@@ -2745,7 +2745,7 @@
             "水"
         ],
         "location": "近畿",
-        "weapon": "弓"
+        "weapon": "bow"
     },
     {
         "id": 270,
@@ -2755,7 +2755,7 @@
             "山"
         ],
         "location": "東北",
-        "weapon": "鈴"
+        "weapon": "bell"
     },
     {
         "id": 271,
@@ -2765,7 +2765,7 @@
             "平"
         ],
         "location": "海外",
-        "weapon": "杖"
+        "weapon": "staff"
     },
     {
         "id": 272,
@@ -2775,7 +2775,7 @@
             "山"
         ],
         "location": "海外",
-        "weapon": "槌"
+        "weapon": "hammer"
     },
     {
         "id": 273,
@@ -2785,7 +2785,7 @@
             "平"
         ],
         "location": "甲信越",
-        "weapon": "鈴"
+        "weapon": "bell"
     },
     {
         "id": 274,
@@ -2795,7 +2795,7 @@
             "山"
         ],
         "location": "関東",
-        "weapon": "弓"
+        "weapon": "bow"
     },
     {
         "id": 275,
@@ -2805,7 +2805,7 @@
             "水"
         ],
         "location": "関東",
-        "weapon": "大"
+        "weapon": "cannon"
     },
     {
         "id": 276,
@@ -2815,7 +2815,7 @@
             "平"
         ],
         "location": "甲信越",
-        "weapon": "術"
+        "weapon": "spell"
     },
     {
         "id": 277,
@@ -2826,7 +2826,7 @@
             "水"
         ],
         "location": "海外",
-        "weapon": "杖"
+        "weapon": "staff"
     },
     {
         "id": 278,
@@ -2836,7 +2836,7 @@
             "山"
         ],
         "location": "その他",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 279,
@@ -2846,7 +2846,7 @@
             "平山"
         ],
         "location": "近畿",
-        "weapon": "大"
+        "weapon": "cannon"
     },
     {
         "id": 280,
@@ -2856,7 +2856,7 @@
             "平"
         ],
         "location": "海外",
-        "weapon": "拳"
+        "weapon": "gaunlets"
     },
     {
         "id": 281,
@@ -2867,7 +2867,7 @@
             "水"
         ],
         "location": "近畿",
-        "weapon": "歌"
+        "weapon": "dancing"
     },
     {
         "id": 282,
@@ -2878,7 +2878,7 @@
             "水"
         ],
         "location": "海外",
-        "weapon": "杖"
+        "weapon": "staff"
     },
     {
         "id": 283,
@@ -2889,7 +2889,7 @@
             "水"
         ],
         "location": "九州",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 284,
@@ -2899,7 +2899,7 @@
             "平山"
         ],
         "location": "海外",
-        "weapon": "杖"
+        "weapon": "staff"
     },
     {
         "id": 285,
@@ -2909,7 +2909,7 @@
             "平山"
         ],
         "location": "東北",
-        "weapon": "石"
+        "weapon": "crossbow"
     },
     {
         "id": 286,
@@ -2920,7 +2920,7 @@
             "水"
         ],
         "location": "海外",
-        "weapon": "槌"
+        "weapon": "hammer"
     },
     {
         "id": 287,
@@ -2931,7 +2931,7 @@
             "水"
         ],
         "location": "海外",
-        "weapon": "盾"
+        "weapon": "shield"
     },
     {
         "id": 288,
@@ -2941,7 +2941,7 @@
             "山"
         ],
         "location": "東海",
-        "weapon": "槌"
+        "weapon": "hammer"
     },
     {
         "id": 289,
@@ -2951,7 +2951,7 @@
             "山"
         ],
         "location": "近畿",
-        "weapon": "歌"
+        "weapon": "dancing"
     },
     {
         "id": 290,
@@ -2962,7 +2962,7 @@
             "水"
         ],
         "location": "近畿",
-        "weapon": "大"
+        "weapon": "cannon"
     },
     {
         "id": 291,
@@ -2972,7 +2972,7 @@
             "山"
         ],
         "location": "東海",
-        "weapon": "槍"
+        "weapon": "spear"
     },
     {
         "id": 292,
@@ -2982,7 +2982,7 @@
             "山"
         ],
         "location": "近畿",
-        "weapon": "術"
+        "weapon": "spell"
     },
     {
         "id": 293,
@@ -2992,7 +2992,7 @@
             "平"
         ],
         "location": "海外",
-        "weapon": "石"
+        "weapon": "crossbow"
     },
     {
         "id": 294,
@@ -3003,7 +3003,7 @@
             "水"
         ],
         "location": "海外",
-        "weapon": "鈴"
+        "weapon": "bell"
     },
     {
         "id": 295,
@@ -3013,7 +3013,7 @@
             "平"
         ],
         "location": "海外",
-        "weapon": "歌"
+        "weapon": "dancing"
     },
     {
         "id": 296,
@@ -3023,7 +3023,7 @@
             "平"
         ],
         "location": "四国",
-        "weapon": "投"
+        "weapon": "throwing"
     },
     {
         "id": 297,
@@ -3033,7 +3033,7 @@
             "平"
         ],
         "location": "関東",
-        "weapon": "槍"
+        "weapon": "spear"
     },
     {
         "id": 298,
@@ -3044,7 +3044,7 @@
             "水"
         ],
         "location": "海外",
-        "weapon": "弓"
+        "weapon": "bow"
     },
     {
         "id": 299,
@@ -3054,7 +3054,7 @@
             "平山"
         ],
         "location": "関東",
-        "weapon": "槌"
+        "weapon": "hammer"
     },
     {
         "id": 300,
@@ -3064,7 +3064,7 @@
             "平山"
         ],
         "location": "東北",
-        "weapon": "大"
+        "weapon": "cannon"
     },
     {
         "id": 301,
@@ -3074,7 +3074,7 @@
             "山"
         ],
         "location": "東北",
-        "weapon": "歌"
+        "weapon": "dancing"
     },
     {
         "id": 302,
@@ -3084,7 +3084,7 @@
             "山"
         ],
         "location": "海外",
-        "weapon": "投"
+        "weapon": "throwing"
     },
     {
         "id": 303,
@@ -3094,7 +3094,7 @@
             "平山"
         ],
         "location": "東北",
-        "weapon": "弓"
+        "weapon": "bow"
     },
     {
         "id": 304,
@@ -3104,7 +3104,7 @@
             "平山"
         ],
         "location": "海外",
-        "weapon": "歌"
+        "weapon": "dancing"
     },
     {
         "id": 305,
@@ -3114,7 +3114,7 @@
             "平"
         ],
         "location": "東北",
-        "weapon": "弓"
+        "weapon": "bow"
     },
     {
         "id": 306,
@@ -3125,7 +3125,7 @@
             "水"
         ],
         "location": "関東",
-        "weapon": "石"
+        "weapon": "crossbow"
     },
     {
         "id": 307,
@@ -3136,7 +3136,7 @@
             "水"
         ],
         "location": "海外",
-        "weapon": "投"
+        "weapon": "throwing"
     },
     {
         "id": 308,
@@ -3146,7 +3146,7 @@
             "山"
         ],
         "location": "東海",
-        "weapon": "槍"
+        "weapon": "spear"
     },
     {
         "id": 309,
@@ -3156,7 +3156,7 @@
             "山"
         ],
         "location": "海外",
-        "weapon": "盾"
+        "weapon": "shield"
     },
     {
         "id": 310,
@@ -3166,7 +3166,7 @@
             "山"
         ],
         "location": "九州",
-        "weapon": "槌"
+        "weapon": "hammer"
     },
     {
         "id": 311,
@@ -3176,7 +3176,7 @@
             "平山"
         ],
         "location": "海外",
-        "weapon": "拳"
+        "weapon": "gaunlets"
     },
     {
         "id": 312,
@@ -3186,7 +3186,7 @@
             "平山"
         ],
         "location": "海外",
-        "weapon": "杖"
+        "weapon": "staff"
     },
     {
         "id": 313,
@@ -3196,7 +3196,7 @@
             "平"
         ],
         "location": "関東",
-        "weapon": "鈴"
+        "weapon": "bell"
     },
     {
         "id": 314,
@@ -3206,7 +3206,7 @@
             "平山"
         ],
         "location": "東海",
-        "weapon": "石"
+        "weapon": "crossbow"
     },
     {
         "id": 315,
@@ -3216,7 +3216,7 @@
             "平"
         ],
         "location": "海外",
-        "weapon": "拳"
+        "weapon": "gaunlets"
     },
     {
         "id": 316,
@@ -3226,7 +3226,7 @@
             "山"
         ],
         "location": "海外",
-        "weapon": "杖"
+        "weapon": "staff"
     },
     {
         "id": 317,
@@ -3237,7 +3237,7 @@
             "水"
         ],
         "location": "九州",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 318,
@@ -3247,7 +3247,7 @@
             "山"
         ],
         "location": "近畿",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 319,
@@ -3258,7 +3258,7 @@
             "水"
         ],
         "location": "近畿",
-        "weapon": "槌"
+        "weapon": "hammer"
     },
     {
         "id": 320,
@@ -3268,7 +3268,7 @@
             "平"
         ],
         "location": "海外",
-        "weapon": "投"
+        "weapon": "throwing"
     },
     {
         "id": 321,
@@ -3278,7 +3278,7 @@
             "水"
         ],
         "location": "近畿",
-        "weapon": "槍"
+        "weapon": "spear"
     },
     {
         "id": 322,
@@ -3288,7 +3288,7 @@
             "平山"
         ],
         "location": "近畿",
-        "weapon": "槍"
+        "weapon": "spear"
     },
     {
         "id": 323,
@@ -3298,7 +3298,7 @@
             "平山"
         ],
         "location": "沖縄",
-        "weapon": "拳"
+        "weapon": "gaunlets"
     },
     {
         "id": 324,
@@ -3308,7 +3308,7 @@
             "水"
         ],
         "location": "海外",
-        "weapon": "石"
+        "weapon": "crossbow"
     },
     {
         "id": 325,
@@ -3318,7 +3318,7 @@
             "平"
         ],
         "location": "海外",
-        "weapon": "盾"
+        "weapon": "shield"
     },
     {
         "id": 326,
@@ -3329,7 +3329,7 @@
             "水"
         ],
         "location": "近畿",
-        "weapon": "歌"
+        "weapon": "dancing"
     },
     {
         "id": 327,
@@ -3339,7 +3339,7 @@
             "平"
         ],
         "location": "近畿",
-        "weapon": "歌"
+        "weapon": "dancing"
     },
     {
         "id": 328,
@@ -3349,7 +3349,7 @@
             "平山"
         ],
         "location": "近畿",
-        "weapon": "鉄"
+        "weapon": "gun"
     },
     {
         "id": 329,
@@ -3359,7 +3359,7 @@
             "山"
         ],
         "location": "沖縄",
-        "weapon": "拳"
+        "weapon": "gaunlets"
     },
     {
         "id": 330,
@@ -3369,7 +3369,7 @@
             "水"
         ],
         "location": "その他",
-        "weapon": "槍"
+        "weapon": "spear"
     },
     {
         "id": 331,
@@ -3379,7 +3379,7 @@
             "平"
         ],
         "location": "東北",
-        "weapon": "石"
+        "weapon": "crossbow"
     },
     {
         "id": 332,
@@ -3390,7 +3390,7 @@
             "水"
         ],
         "location": "近畿",
-        "weapon": "術"
+        "weapon": "spell"
     },
     {
         "id": 333,
@@ -3400,7 +3400,7 @@
             "平"
         ],
         "location": "海外",
-        "weapon": "歌"
+        "weapon": "dancing"
     },
     {
         "id": 334,
@@ -3410,7 +3410,7 @@
             "平山"
         ],
         "location": "近畿",
-        "weapon": "投"
+        "weapon": "throwing"
     },
     {
         "id": 335,
@@ -3420,7 +3420,7 @@
             "平山"
         ],
         "location": "近畿",
-        "weapon": "弓"
+        "weapon": "bow"
     },
     {
         "id": 336,
@@ -3430,7 +3430,7 @@
             "山"
         ],
         "location": "東海",
-        "weapon": "祓"
+        "weapon": "oonusa"
     },
     {
         "id": 337,
@@ -3440,7 +3440,7 @@
             "山"
         ],
         "location": "近畿",
-        "weapon": "術"
+        "weapon": "spell"
     },
     {
         "id": 338,
@@ -3450,7 +3450,7 @@
             "山"
         ],
         "location": "九州",
-        "weapon": "歌"
+        "weapon": "dancing"
     },
     {
         "id": 339,
@@ -3461,7 +3461,7 @@
             "水"
         ],
         "location": "海外",
-        "weapon": "鈴"
+        "weapon": "bell"
     },
     {
         "id": 340,
@@ -3471,7 +3471,7 @@
             "山"
         ],
         "location": "関東",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 341,
@@ -3481,7 +3481,7 @@
             "平"
         ],
         "location": "関東",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 342,
@@ -3491,7 +3491,7 @@
             "平"
         ],
         "location": "東海",
-        "weapon": "大"
+        "weapon": "cannon"
     },
     {
         "id": 343,
@@ -3501,7 +3501,7 @@
             "平"
         ],
         "location": "関東",
-        "weapon": "槍"
+        "weapon": "spear"
     },
     {
         "id": 344,
@@ -3511,7 +3511,7 @@
             "水"
         ],
         "location": "四国",
-        "weapon": "拳"
+        "weapon": "gaunlets"
     },
     {
         "id": 345,
@@ -3521,7 +3521,7 @@
             "山"
         ],
         "location": "近畿",
-        "weapon": "槌"
+        "weapon": "hammer"
     },
     {
         "id": 346,
@@ -3532,7 +3532,7 @@
             "水"
         ],
         "location": "近畿",
-        "weapon": "祓"
+        "weapon": "oonusa"
     },
     {
         "id": 347,
@@ -3542,7 +3542,7 @@
             "山"
         ],
         "location": "海外",
-        "weapon": "杖"
+        "weapon": "staff"
     },
     {
         "id": 348,
@@ -3553,7 +3553,7 @@
             "水"
         ],
         "location": "関東",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 349,
@@ -3564,7 +3564,7 @@
             "水"
         ],
         "location": "関東",
-        "weapon": "投"
+        "weapon": "throwing"
     },
     {
         "id": 350,
@@ -3574,7 +3574,7 @@
             "平山"
         ],
         "location": "関東",
-        "weapon": "鉄"
+        "weapon": "gun"
     },
     {
         "id": 351,
@@ -3584,7 +3584,7 @@
             "平"
         ],
         "location": "甲信越",
-        "weapon": "大"
+        "weapon": "cannon"
     },
     {
         "id": 352,
@@ -3594,7 +3594,7 @@
             "山"
         ],
         "location": "海外",
-        "weapon": "盾"
+        "weapon": "shield"
     },
     {
         "id": 353,
@@ -3604,7 +3604,7 @@
             "平"
         ],
         "location": "海外",
-        "weapon": "盾"
+        "weapon": "shield"
     },
     {
         "id": 354,
@@ -3614,7 +3614,7 @@
             "平山"
         ],
         "location": "東海",
-        "weapon": "術"
+        "weapon": "spell"
     },
     {
         "id": 355,
@@ -3624,7 +3624,7 @@
             "山"
         ],
         "location": "関東",
-        "weapon": "槍"
+        "weapon": "spear"
     },
     {
         "id": 356,
@@ -3634,7 +3634,7 @@
             "山"
         ],
         "location": "近畿",
-        "weapon": "弓"
+        "weapon": "bow"
     },
     {
         "id": 357,
@@ -3644,7 +3644,7 @@
             "山"
         ],
         "location": "沖縄",
-        "weapon": "拳"
+        "weapon": "gaunlets"
     },
     {
         "id": 358,
@@ -3654,7 +3654,7 @@
             "平山"
         ],
         "location": "九州",
-        "weapon": "鈴"
+        "weapon": "bell"
     },
     {
         "id": 359,
@@ -3664,7 +3664,7 @@
             "平山"
         ],
         "location": "東北",
-        "weapon": "弓"
+        "weapon": "bow"
     },
     {
         "id": 360,
@@ -3674,7 +3674,7 @@
             "平"
         ],
         "location": "海外",
-        "weapon": "石"
+        "weapon": "crossbow"
     },
     {
         "id": 361,
@@ -3684,7 +3684,7 @@
             "平山"
         ],
         "location": "海外",
-        "weapon": "盾"
+        "weapon": "shield"
     },
     {
         "id": 362,
@@ -3694,7 +3694,7 @@
             "地"
         ],
         "location": "その他",
-        "weapon": "術"
+        "weapon": "spell"
     },
     {
         "id": 363,
@@ -3704,7 +3704,7 @@
             "平"
         ],
         "location": "九州",
-        "weapon": "祓"
+        "weapon": "oonusa"
     },
     {
         "id": 364,
@@ -3715,7 +3715,7 @@
             "水"
         ],
         "location": "四国",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 365,
@@ -3725,7 +3725,7 @@
             "平"
         ],
         "location": "北陸",
-        "weapon": "鉄"
+        "weapon": "gun"
     },
     {
         "id": 366,
@@ -3735,7 +3735,7 @@
             "平"
         ],
         "location": "海外",
-        "weapon": "杖"
+        "weapon": "staff"
     },
     {
         "id": 367,
@@ -3745,7 +3745,7 @@
             "山"
         ],
         "location": "近畿",
-        "weapon": "弓"
+        "weapon": "bow"
     },
     {
         "id": 368,
@@ -3755,7 +3755,7 @@
             "水"
         ],
         "location": "海外",
-        "weapon": "杖"
+        "weapon": "staff"
     },
     {
         "id": 369,
@@ -3765,7 +3765,7 @@
             "水"
         ],
         "location": "四国",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 370,
@@ -3775,7 +3775,7 @@
             "山"
         ],
         "location": "沖縄",
-        "weapon": "弓"
+        "weapon": "bow"
     },
     {
         "id": 371,
@@ -3785,7 +3785,7 @@
             "平"
         ],
         "location": "近畿",
-        "weapon": "弓"
+        "weapon": "bow"
     },
     {
         "id": 372,
@@ -3795,7 +3795,7 @@
             "平"
         ],
         "location": "近畿",
-        "weapon": "槍"
+        "weapon": "spear"
     },
     {
         "id": 373,
@@ -3805,7 +3805,7 @@
             "平"
         ],
         "location": "北陸",
-        "weapon": "鉄"
+        "weapon": "gun"
     },
     {
         "id": 374,
@@ -3815,7 +3815,7 @@
             "山"
         ],
         "location": "東海",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 375,
@@ -3826,7 +3826,7 @@
             "水"
         ],
         "location": "中国",
-        "weapon": "槍"
+        "weapon": "spear"
     },
     {
         "id": 376,
@@ -3836,7 +3836,7 @@
             "平山"
         ],
         "location": "北陸",
-        "weapon": "術"
+        "weapon": "spell"
     },
     {
         "id": 377,
@@ -3846,7 +3846,7 @@
             "山"
         ],
         "location": "関東",
-        "weapon": "槍"
+        "weapon": "spear"
     },
     {
         "id": 378,
@@ -3856,7 +3856,7 @@
             "平山"
         ],
         "location": "東北",
-        "weapon": "祓"
+        "weapon": "oonusa"
     },
     {
         "id": 379,
@@ -3866,7 +3866,7 @@
             "平"
         ],
         "location": "近畿",
-        "weapon": "槍"
+        "weapon": "spear"
     },
     {
         "id": 380,
@@ -3876,7 +3876,7 @@
             "水"
         ],
         "location": "海外",
-        "weapon": "杖"
+        "weapon": "staff"
     },
     {
         "id": 381,
@@ -3886,7 +3886,7 @@
             "平山"
         ],
         "location": "海外",
-        "weapon": "歌"
+        "weapon": "dancing"
     },
     {
         "id": 382,
@@ -3896,7 +3896,7 @@
             "山"
         ],
         "location": "海外",
-        "weapon": "大"
+        "weapon": "cannon"
     },
     {
         "id": 383,
@@ -3907,7 +3907,7 @@
             "水"
         ],
         "location": "九州",
-        "weapon": "槌"
+        "weapon": "hammer"
     },
     {
         "id": 384,
@@ -3917,7 +3917,7 @@
             "平"
         ],
         "location": "近畿",
-        "weapon": "鈴"
+        "weapon": "bell"
     },
     {
         "id": 385,
@@ -3927,7 +3927,7 @@
             "平山"
         ],
         "location": "九州",
-        "weapon": "歌"
+        "weapon": "dancing"
     },
     {
         "id": 386,
@@ -3937,7 +3937,7 @@
             "平山"
         ],
         "location": "東北",
-        "weapon": "術"
+        "weapon": "spell"
     },
     {
         "id": 387,
@@ -3947,7 +3947,7 @@
             "山"
         ],
         "location": "四国",
-        "weapon": "祓"
+        "weapon": "oonusa"
     },
     {
         "id": 388,
@@ -3957,7 +3957,7 @@
             "平山"
         ],
         "location": "海外",
-        "weapon": "石"
+        "weapon": "crossbow"
     },
     {
         "id": 389,
@@ -3968,7 +3968,7 @@
             "水"
         ],
         "location": "海外",
-        "weapon": "盾"
+        "weapon": "shield"
     },
     {
         "id": 390,
@@ -3978,7 +3978,7 @@
             "山"
         ],
         "location": "海外",
-        "weapon": "槌"
+        "weapon": "hammer"
     },
     {
         "id": 391,
@@ -3988,7 +3988,7 @@
             "平山"
         ],
         "location": "海外",
-        "weapon": "盾"
+        "weapon": "shield"
     },
     {
         "id": 392,
@@ -3998,7 +3998,7 @@
             "平"
         ],
         "location": "東海",
-        "weapon": "弓"
+        "weapon": "bow"
     },
     {
         "id": 393,
@@ -4008,7 +4008,7 @@
             "平山"
         ],
         "location": "海外",
-        "weapon": "杖"
+        "weapon": "staff"
     },
     {
         "id": 394,
@@ -4018,7 +4018,7 @@
             "平山"
         ],
         "location": "関東",
-        "weapon": "槍"
+        "weapon": "spear"
     },
     {
         "id": 395,
@@ -4029,7 +4029,7 @@
             "水"
         ],
         "location": "海外",
-        "weapon": "大"
+        "weapon": "cannon"
     },
     {
         "id": 396,
@@ -4040,7 +4040,7 @@
             "水"
         ],
         "location": "海外",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 397,
@@ -4051,7 +4051,7 @@
             "水"
         ],
         "location": "九州",
-        "weapon": "投"
+        "weapon": "throwing"
     },
     {
         "id": 398,
@@ -4061,7 +4061,7 @@
             "平"
         ],
         "location": "甲信越",
-        "weapon": "槍"
+        "weapon": "spear"
     },
     {
         "id": 399,
@@ -4071,7 +4071,7 @@
             "平"
         ],
         "location": "関東",
-        "weapon": "術"
+        "weapon": "spell"
     },
     {
         "id": 400,
@@ -4081,7 +4081,7 @@
             "平山"
         ],
         "location": "海外",
-        "weapon": "盾"
+        "weapon": "shield"
     },
     {
         "id": 401,
@@ -4091,7 +4091,7 @@
             "平"
         ],
         "location": "近畿",
-        "weapon": "石"
+        "weapon": "crossbow"
     },
     {
         "id": 402,
@@ -4101,7 +4101,7 @@
             "平"
         ],
         "location": "海外",
-        "weapon": "歌"
+        "weapon": "dancing"
     },
     {
         "id": 403,
@@ -4112,7 +4112,7 @@
             "水"
         ],
         "location": "海外",
-        "weapon": "弓"
+        "weapon": "bow"
     },
     {
         "id": 404,
@@ -4122,7 +4122,7 @@
             "水"
         ],
         "location": "海外",
-        "weapon": "歌"
+        "weapon": "dancing"
     },
     {
         "id": 405,
@@ -4133,7 +4133,7 @@
             "水"
         ],
         "location": "海外",
-        "weapon": "投"
+        "weapon": "throwing"
     },
     {
         "id": 406,
@@ -4143,7 +4143,7 @@
             "山"
         ],
         "location": "中国",
-        "weapon": "石"
+        "weapon": "crossbow"
     },
     {
         "id": 407,
@@ -4153,7 +4153,7 @@
             "山"
         ],
         "location": "近畿",
-        "weapon": "鉄"
+        "weapon": "gun"
     },
     {
         "id": 408,
@@ -4164,7 +4164,7 @@
             "水"
         ],
         "location": "近畿",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 409,
@@ -4174,7 +4174,7 @@
             "平山"
         ],
         "location": "関東",
-        "weapon": "槍"
+        "weapon": "spear"
     },
     {
         "id": 410,
@@ -4184,7 +4184,7 @@
             "平山"
         ],
         "location": "九州",
-        "weapon": "槌"
+        "weapon": "hammer"
     },
     {
         "id": 411,
@@ -4194,7 +4194,7 @@
             "平山"
         ],
         "location": "海外",
-        "weapon": "盾"
+        "weapon": "shield"
     },
     {
         "id": 412,
@@ -4204,7 +4204,7 @@
             "山"
         ],
         "location": "中国",
-        "weapon": "拳"
+        "weapon": "gaunlets"
     },
     {
         "id": 413,
@@ -4214,7 +4214,7 @@
             "平山"
         ],
         "location": "近畿",
-        "weapon": "投"
+        "weapon": "throwing"
     },
     {
         "id": 414,
@@ -4224,7 +4224,7 @@
             "平山"
         ],
         "location": "東北",
-        "weapon": "弓"
+        "weapon": "bow"
     },
     {
         "id": 415,
@@ -4234,7 +4234,7 @@
             "山"
         ],
         "location": "近畿",
-        "weapon": "鉄"
+        "weapon": "gun"
     },
     {
         "id": 416,
@@ -4244,7 +4244,7 @@
             "山"
         ],
         "location": "関東",
-        "weapon": "石"
+        "weapon": "crossbow"
     },
     {
         "id": 417,
@@ -4254,7 +4254,7 @@
             "山"
         ],
         "location": "近畿",
-        "weapon": "大"
+        "weapon": "cannon"
     },
     {
         "id": 418,
@@ -4264,7 +4264,7 @@
             "平山"
         ],
         "location": "甲信越",
-        "weapon": "歌"
+        "weapon": "dancing"
     },
     {
         "id": 419,
@@ -4274,7 +4274,7 @@
             "平山"
         ],
         "location": "関東",
-        "weapon": "術"
+        "weapon": "spell"
     },
     {
         "id": 420,
@@ -4284,7 +4284,7 @@
             "平"
         ],
         "location": "東北",
-        "weapon": "鈴"
+        "weapon": "bell"
     },
     {
         "id": 421,
@@ -4294,7 +4294,7 @@
             "平山"
         ],
         "location": "九州",
-        "weapon": "杖"
+        "weapon": "staff"
     },
     {
         "id": 422,
@@ -4304,7 +4304,7 @@
             "山"
         ],
         "location": "中国",
-        "weapon": "祓"
+        "weapon": "oonusa"
     },
     {
         "id": 423,
@@ -4314,7 +4314,7 @@
             "平"
         ],
         "location": "北海道",
-        "weapon": "大"
+        "weapon": "cannon"
     },
     {
         "id": 424,
@@ -4324,7 +4324,7 @@
             "平"
         ],
         "location": "関東",
-        "weapon": "術"
+        "weapon": "spell"
     },
     {
         "id": 425,
@@ -4335,7 +4335,7 @@
             "水"
         ],
         "location": "関東",
-        "weapon": "鉄"
+        "weapon": "gun"
     },
     {
         "id": 426,
@@ -4345,7 +4345,7 @@
             "山"
         ],
         "location": "近畿",
-        "weapon": "術"
+        "weapon": "spell"
     },
     {
         "id": 427,
@@ -4355,7 +4355,7 @@
             "平"
         ],
         "location": "九州",
-        "weapon": "石"
+        "weapon": "crossbow"
     },
     {
         "id": 428,
@@ -4365,7 +4365,7 @@
             "山"
         ],
         "location": "九州",
-        "weapon": "歌"
+        "weapon": "dancing"
     },
     {
         "id": 429,
@@ -4375,7 +4375,7 @@
             "平"
         ],
         "location": "東北",
-        "weapon": "術"
+        "weapon": "spell"
     },
     {
         "id": 430,
@@ -4385,7 +4385,7 @@
             "平"
         ],
         "location": "近畿",
-        "weapon": "槍"
+        "weapon": "spear"
     },
     {
         "id": 431,
@@ -4395,7 +4395,7 @@
             "山"
         ],
         "location": "近畿",
-        "weapon": "槌"
+        "weapon": "hammer"
     },
     {
         "id": 432,
@@ -4405,7 +4405,7 @@
             "地"
         ],
         "location": "その他",
-        "weapon": "投"
+        "weapon": "throwing"
     },
     {
         "id": 433,
@@ -4415,7 +4415,7 @@
             "水"
         ],
         "location": "海外",
-        "weapon": "大"
+        "weapon": "cannon"
     },
     {
         "id": 434,
@@ -4425,7 +4425,7 @@
             "山"
         ],
         "location": "海外",
-        "weapon": "本"
+        "weapon": "book"
     },
     {
         "id": 435,
@@ -4435,7 +4435,7 @@
             "平"
         ],
         "location": "北陸",
-        "weapon": "石"
+        "weapon": "crossbow"
     },
     {
         "id": 436,
@@ -4446,7 +4446,7 @@
             "水"
         ],
         "location": "中国",
-        "weapon": "槌"
+        "weapon": "hammer"
     },
     {
         "id": 437,
@@ -4457,7 +4457,7 @@
             "水"
         ],
         "location": "海外",
-        "weapon": "槍"
+        "weapon": "spear"
     },
     {
         "id": 438,
@@ -4467,7 +4467,7 @@
             "平山"
         ],
         "location": "海外",
-        "weapon": "盾"
+        "weapon": "shield"
     },
     {
         "id": 439,
@@ -4478,7 +4478,7 @@
             "水"
         ],
         "location": "九州",
-        "weapon": "大"
+        "weapon": "cannon"
     },
     {
         "id": 440,
@@ -4489,7 +4489,7 @@
             "水"
         ],
         "location": "甲信越",
-        "weapon": "鈴"
+        "weapon": "bell"
     },
     {
         "id": 441,
@@ -4499,7 +4499,7 @@
             "平"
         ],
         "location": "東北",
-        "weapon": "石"
+        "weapon": "crossbow"
     },
     {
         "id": 442,
@@ -4509,7 +4509,7 @@
             "山"
         ],
         "location": "海外",
-        "weapon": "杖"
+        "weapon": "staff"
     },
     {
         "id": 443,
@@ -4519,7 +4519,7 @@
             "山"
         ],
         "location": "甲信越",
-        "weapon": "石"
+        "weapon": "crossbow"
     },
     {
         "id": 444,
@@ -4529,7 +4529,7 @@
             "平山"
         ],
         "location": "関東",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 445,
@@ -4539,7 +4539,7 @@
             "平"
         ],
         "location": "関東",
-        "weapon": "本"
+        "weapon": "book"
     },
     {
         "id": 446,
@@ -4549,7 +4549,7 @@
             "山"
         ],
         "location": "その他",
-        "weapon": "大"
+        "weapon": "cannon"
     },
     {
         "id": 447,
@@ -4559,7 +4559,7 @@
             "平"
         ],
         "location": "東海",
-        "weapon": "槍"
+        "weapon": "spear"
     },
     {
         "id": 448,
@@ -4569,7 +4569,7 @@
             "山"
         ],
         "location": "甲信越",
-        "weapon": "槌"
+        "weapon": "hammer"
     },
     {
         "id": 449,
@@ -4579,7 +4579,7 @@
             "平山"
         ],
         "location": "甲信越",
-        "weapon": "本"
+        "weapon": "book"
     },
     {
         "id": 450,
@@ -4589,7 +4589,7 @@
             "平"
         ],
         "location": "東海",
-        "weapon": "祓"
+        "weapon": "oonusa"
     },
     {
         "id": 451,
@@ -4599,7 +4599,7 @@
             "山"
         ],
         "location": "関東",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 452,
@@ -4609,7 +4609,7 @@
             "山"
         ],
         "location": "中国",
-        "weapon": "術"
+        "weapon": "spell"
     },
     {
         "id": 453,
@@ -4619,7 +4619,7 @@
             "平山"
         ],
         "location": "関東",
-        "weapon": "歌"
+        "weapon": "dancing"
     },
     {
         "id": 454,
@@ -4630,7 +4630,7 @@
             "水"
         ],
         "location": "関東",
-        "weapon": "石"
+        "weapon": "crossbow"
     },
     {
         "id": 455,
@@ -4640,7 +4640,7 @@
             "山"
         ],
         "location": "中国",
-        "weapon": "投"
+        "weapon": "throwing"
     },
     {
         "id": 456,
@@ -4650,7 +4650,7 @@
             "水"
         ],
         "location": "東海",
-        "weapon": "拳"
+        "weapon": "gaunlets"
     },
     {
         "id": 457,
@@ -4661,7 +4661,7 @@
             "水"
         ],
         "location": "海外",
-        "weapon": "歌"
+        "weapon": "dancing"
     },
     {
         "id": 458,
@@ -4672,7 +4672,7 @@
             "水"
         ],
         "location": "東海",
-        "weapon": "槍"
+        "weapon": "spear"
     },
     {
         "id": 459,
@@ -4682,7 +4682,7 @@
             "山"
         ],
         "location": "その他",
-        "weapon": "鉄"
+        "weapon": "gun"
     },
     {
         "id": 460,
@@ -4692,7 +4692,7 @@
             "平"
         ],
         "location": "海外",
-        "weapon": "槌"
+        "weapon": "hammer"
     },
     {
         "id": 461,
@@ -4702,7 +4702,7 @@
             "山"
         ],
         "location": "海外",
-        "weapon": "本"
+        "weapon": "book"
     },
     {
         "id": 462,
@@ -4713,7 +4713,7 @@
             "水"
         ],
         "location": "海外",
-        "weapon": "大"
+        "weapon": "cannon"
     },
     {
         "id": 463,
@@ -4723,7 +4723,7 @@
             "山"
         ],
         "location": "九州",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 464,
@@ -4733,7 +4733,7 @@
             "平山"
         ],
         "location": "四国",
-        "weapon": "術"
+        "weapon": "spell"
     },
     {
         "id": 465,
@@ -4743,7 +4743,7 @@
             "平山"
         ],
         "location": "九州",
-        "weapon": "本"
+        "weapon": "book"
     },
     {
         "id": 466,
@@ -4753,7 +4753,7 @@
             "平"
         ],
         "location": "海外",
-        "weapon": "本"
+        "weapon": "book"
     },
     {
         "id": 467,
@@ -4763,7 +4763,7 @@
             "平山"
         ],
         "location": "海外",
-        "weapon": "盾"
+        "weapon": "shield"
     },
     {
         "id": 468,
@@ -4773,7 +4773,7 @@
             "水"
         ],
         "location": "海外",
-        "weapon": "鈴"
+        "weapon": "bell"
     },
     {
         "id": 469,
@@ -4783,7 +4783,7 @@
             "平"
         ],
         "location": "海外",
-        "weapon": "鞭"
+        "weapon": "whip"
     },
     {
         "id": 470,
@@ -4793,7 +4793,7 @@
             "平"
         ],
         "location": "東北",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 471,
@@ -4803,7 +4803,7 @@
             "平"
         ],
         "location": "海外",
-        "weapon": "投"
+        "weapon": "throwing"
     },
     {
         "id": 472,
@@ -4814,7 +4814,7 @@
             "水"
         ],
         "location": "中国",
-        "weapon": "鉄"
+        "weapon": "gun"
     },
     {
         "id": 473,
@@ -4824,7 +4824,7 @@
             "山"
         ],
         "location": "関東",
-        "weapon": "鈴"
+        "weapon": "bell"
     },
     {
         "id": 474,
@@ -4834,7 +4834,7 @@
             "水"
         ],
         "location": "海外",
-        "weapon": "杖"
+        "weapon": "staff"
     },
     {
         "id": 475,
@@ -4844,7 +4844,7 @@
             "平山"
         ],
         "location": "沖縄",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 476,
@@ -4854,7 +4854,7 @@
             "水"
         ],
         "location": "四国",
-        "weapon": "拳"
+        "weapon": "gaunlets"
     },
     {
         "id": 477,
@@ -4865,7 +4865,7 @@
             "水"
         ],
         "location": "海外",
-        "weapon": "鉄"
+        "weapon": "gun"
     },
     {
         "id": 478,
@@ -4875,7 +4875,7 @@
             "平"
         ],
         "location": "海外",
-        "weapon": "拳"
+        "weapon": "gaunlets"
     },
     {
         "id": 479,
@@ -4886,7 +4886,7 @@
             "水"
         ],
         "location": "九州",
-        "weapon": "鉄"
+        "weapon": "gun"
     },
     {
         "id": 480,
@@ -4896,7 +4896,7 @@
             "山"
         ],
         "location": "九州",
-        "weapon": "歌"
+        "weapon": "dancing"
     },
     {
         "id": 481,
@@ -4906,7 +4906,7 @@
             "平"
         ],
         "location": "九州",
-        "weapon": "石"
+        "weapon": "crossbow"
     },
     {
         "id": 482,
@@ -4916,7 +4916,7 @@
             "平山"
         ],
         "location": "九州",
-        "weapon": "鈴"
+        "weapon": "bell"
     },
     {
         "id": 483,
@@ -4927,7 +4927,7 @@
             "水"
         ],
         "location": "北陸",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 484,
@@ -4937,7 +4937,7 @@
             "平山"
         ],
         "location": "近畿",
-        "weapon": "投"
+        "weapon": "throwing"
     },
     {
         "id": 485,
@@ -4947,7 +4947,7 @@
             "山"
         ],
         "location": "北陸",
-        "weapon": "石"
+        "weapon": "crossbow"
     },
     {
         "id": 486,
@@ -4957,7 +4957,7 @@
             "平山"
         ],
         "location": "関東",
-        "weapon": "鈴"
+        "weapon": "bell"
     },
     {
         "id": 487,
@@ -4968,7 +4968,7 @@
             "水"
         ],
         "location": "海外",
-        "weapon": "拳"
+        "weapon": "gaunlets"
     },
     {
         "id": 488,
@@ -4978,7 +4978,7 @@
             "山"
         ],
         "location": "海外",
-        "weapon": "鞭"
+        "weapon": "whip"
     },
     {
         "id": 489,
@@ -4989,7 +4989,7 @@
             "水"
         ],
         "location": "九州",
-        "weapon": "術"
+        "weapon": "spell"
     },
     {
         "id": 490,
@@ -4999,7 +4999,7 @@
             "平山"
         ],
         "location": "近畿",
-        "weapon": "槌"
+        "weapon": "hammer"
     },
     {
         "id": 491,
@@ -5009,7 +5009,7 @@
             "平"
         ],
         "location": "関東",
-        "weapon": "術"
+        "weapon": "spell"
     },
     {
         "id": 492,
@@ -5019,7 +5019,7 @@
             "平"
         ],
         "location": "関東",
-        "weapon": "鈴"
+        "weapon": "bell"
     },
     {
         "id": 493,
@@ -5030,7 +5030,7 @@
             "水"
         ],
         "location": "九州",
-        "weapon": "術"
+        "weapon": "spell"
     },
     {
         "id": 494,
@@ -5040,7 +5040,7 @@
             "平山"
         ],
         "location": "東北",
-        "weapon": "槍"
+        "weapon": "spear"
     },
     {
         "id": 495,
@@ -5050,7 +5050,7 @@
             "平山"
         ],
         "location": "近畿",
-        "weapon": "投"
+        "weapon": "throwing"
     },
     {
         "id": 496,
@@ -5060,7 +5060,7 @@
             "水"
         ],
         "location": "海外",
-        "weapon": "大"
+        "weapon": "cannon"
     },
     {
         "id": 497,
@@ -5070,7 +5070,7 @@
             "山"
         ],
         "location": "海外",
-        "weapon": "盾"
+        "weapon": "shield"
     },
     {
         "id": 498,
@@ -5080,7 +5080,7 @@
             "平山"
         ],
         "location": "海外",
-        "weapon": "鞭"
+        "weapon": "whip"
     },
     {
         "id": 499,
@@ -5091,7 +5091,7 @@
             "水"
         ],
         "location": "近畿",
-        "weapon": "槌"
+        "weapon": "hammer"
     },
     {
         "id": 500,
@@ -5101,7 +5101,7 @@
             "平"
         ],
         "location": "東北",
-        "weapon": "鉄"
+        "weapon": "gun"
     },
     {
         "id": 501,
@@ -5111,7 +5111,7 @@
             "水"
         ],
         "location": "近畿",
-        "weapon": "槍"
+        "weapon": "spear"
     },
     {
         "id": 502,
@@ -5121,7 +5121,7 @@
             "平"
         ],
         "location": "中国",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 503,
@@ -5131,7 +5131,7 @@
             "平"
         ],
         "location": "その他",
-        "weapon": "弓"
+        "weapon": "bow"
     },
     {
         "id": 504,
@@ -5141,7 +5141,7 @@
             "平山"
         ],
         "location": "近畿",
-        "weapon": "術"
+        "weapon": "spell"
     },
     {
         "id": 505,
@@ -5151,7 +5151,7 @@
             "平"
         ],
         "location": "近畿",
-        "weapon": "槌"
+        "weapon": "hammer"
     },
     {
         "id": 506,
@@ -5162,7 +5162,7 @@
             "水"
         ],
         "location": "海外",
-        "weapon": "本"
+        "weapon": "book"
     },
     {
         "id": 507,
@@ -5172,7 +5172,7 @@
             "平山"
         ],
         "location": "東海",
-        "weapon": "祓"
+        "weapon": "oonusa"
     },
     {
         "id": 508,
@@ -5182,7 +5182,7 @@
             "山"
         ],
         "location": "九州",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 509,
@@ -5192,7 +5192,7 @@
             "平"
         ],
         "location": "海外",
-        "weapon": "拳"
+        "weapon": "gaunlets"
     },
     {
         "id": 510,
@@ -5202,7 +5202,7 @@
             "山"
         ],
         "location": "海外",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 511,
@@ -5212,7 +5212,7 @@
             "平"
         ],
         "location": "海外",
-        "weapon": "杖"
+        "weapon": "staff"
     },
     {
         "id": 512,
@@ -5223,7 +5223,7 @@
             "水"
         ],
         "location": "海外",
-        "weapon": "大"
+        "weapon": "cannon"
     },
     {
         "id": 513,
@@ -5233,7 +5233,7 @@
             "山"
         ],
         "location": "海外",
-        "weapon": "槍"
+        "weapon": "spear"
     },
     {
         "id": 514,
@@ -5244,7 +5244,7 @@
             "水"
         ],
         "location": "海外",
-        "weapon": "本"
+        "weapon": "book"
     },
     {
         "id": 515,
@@ -5254,7 +5254,7 @@
             "平"
         ],
         "location": "海外",
-        "weapon": "鞭"
+        "weapon": "whip"
     },
     {
         "id": 516,
@@ -5264,7 +5264,7 @@
             "平山"
         ],
         "location": "海外",
-        "weapon": "鞭"
+        "weapon": "whip"
     },
     {
         "id": 517,
@@ -5275,7 +5275,7 @@
             "水"
         ],
         "location": "海外",
-        "weapon": "鈴"
+        "weapon": "bell"
     },
     {
         "id": 518,
@@ -5285,7 +5285,7 @@
             "平山"
         ],
         "location": "関東",
-        "weapon": "拳"
+        "weapon": "gaunlets"
     },
     {
         "id": 519,
@@ -5295,7 +5295,7 @@
             "山"
         ],
         "location": "九州",
-        "weapon": "祓"
+        "weapon": "oonusa"
     },
     {
         "id": 520,
@@ -5305,7 +5305,7 @@
             "平"
         ],
         "location": "東北",
-        "weapon": "術"
+        "weapon": "spell"
     },
     {
         "id": 521,
@@ -5315,7 +5315,7 @@
             "山"
         ],
         "location": "海外",
-        "weapon": "本"
+        "weapon": "book"
     },
     {
         "id": 522,
@@ -5326,7 +5326,7 @@
             "水"
         ],
         "location": "九州",
-        "weapon": "杖"
+        "weapon": "staff"
     },
     {
         "id": 523,
@@ -5336,7 +5336,7 @@
             "平"
         ],
         "location": "北海道",
-        "weapon": "鉄"
+        "weapon": "gun"
     },
     {
         "id": 524,
@@ -5346,7 +5346,7 @@
             "平山"
         ],
         "location": "海外",
-        "weapon": "杖"
+        "weapon": "staff"
     },
     {
         "id": 525,
@@ -5356,7 +5356,7 @@
             "平山"
         ],
         "location": "海外",
-        "weapon": "杖"
+        "weapon": "staff"
     },
     {
         "id": 526,
@@ -5367,7 +5367,7 @@
             "水"
         ],
         "location": "海外",
-        "weapon": "鈴"
+        "weapon": "bell"
     },
     {
         "id": 527,
@@ -5377,7 +5377,7 @@
             "平"
         ],
         "location": "近畿",
-        "weapon": "歌"
+        "weapon": "dancing"
     },
     {
         "id": 528,
@@ -5388,7 +5388,7 @@
             "水"
         ],
         "location": "九州",
-        "weapon": "石"
+        "weapon": "crossbow"
     },
     {
         "id": 529,
@@ -5398,7 +5398,7 @@
             "山"
         ],
         "location": "近畿",
-        "weapon": "槍"
+        "weapon": "spear"
     },
     {
         "id": 530,
@@ -5408,7 +5408,7 @@
             "平山"
         ],
         "location": "東北",
-        "weapon": "拳"
+        "weapon": "gaunlets"
     },
     {
         "id": 531,
@@ -5418,7 +5418,7 @@
             "平山"
         ],
         "location": "中国",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 532,
@@ -5428,7 +5428,7 @@
             "平山"
         ],
         "location": "甲信越",
-        "weapon": "歌"
+        "weapon": "dancing"
     },
     {
         "id": 533,
@@ -5438,7 +5438,7 @@
             "平山"
         ],
         "location": "甲信越",
-        "weapon": "本"
+        "weapon": "book"
     },
     {
         "id": 534,
@@ -5449,7 +5449,7 @@
             "水"
         ],
         "location": "関東",
-        "weapon": "投"
+        "weapon": "throwing"
     },
     {
         "id": 535,
@@ -5459,7 +5459,7 @@
             "山"
         ],
         "location": "東北",
-        "weapon": "鈴"
+        "weapon": "bell"
     },
     {
         "id": 536,
@@ -5469,7 +5469,7 @@
             "山"
         ],
         "location": "海外",
-        "weapon": "歌"
+        "weapon": "dancing"
     },
     {
         "id": 537,
@@ -5479,7 +5479,7 @@
             "山"
         ],
         "location": "北海道",
-        "weapon": "拳"
+        "weapon": "gaunlets"
     },
     {
         "id": 538,
@@ -5490,7 +5490,7 @@
             "水"
         ],
         "location": "関東",
-        "weapon": "投"
+        "weapon": "throwing"
     },
     {
         "id": 539,
@@ -5501,7 +5501,7 @@
             "水"
         ],
         "location": "その他",
-        "weapon": "槌"
+        "weapon": "hammer"
     },
     {
         "id": 540,
@@ -5512,7 +5512,7 @@
             "水"
         ],
         "location": "海外",
-        "weapon": "鞭"
+        "weapon": "whip"
     },
     {
         "id": 541,
@@ -5522,7 +5522,7 @@
             "山"
         ],
         "location": "甲信越",
-        "weapon": "刀"
+        "weapon": "sword"
     },
     {
         "id": 542,
@@ -5532,7 +5532,7 @@
             "平"
         ],
         "location": "四国",
-        "weapon": "投"
+        "weapon": "throwing"
     },
     {
         "id": 543,
@@ -5542,7 +5542,7 @@
             "平山"
         ],
         "location": "海外",
-        "weapon": "拳"
+        "weapon": "gaunlets"
     },
     {
         "id": 544,
@@ -5553,7 +5553,7 @@
             "水"
         ],
         "location": "海外",
-        "weapon": "杖"
+        "weapon": "staff"
     },
     {
         "id": 545,
@@ -5564,7 +5564,7 @@
             "水"
         ],
         "location": "北陸",
-        "weapon": "槍"
+        "weapon": "spear"
     },
     {
         "id": 546,
@@ -5574,7 +5574,7 @@
             "山"
         ],
         "location": "海外",
-        "weapon": "鞭"
+        "weapon": "whip"
     },
     {
         "id": 547,
@@ -5584,7 +5584,7 @@
             "山"
         ],
         "location": "甲信越",
-        "weapon": "祓"
+        "weapon": "oonusa"
     },
     {
         "id": 548,
@@ -5594,7 +5594,7 @@
             "平"
         ],
         "location": "関東",
-        "weapon": "本"
+        "weapon": "book"
     },
     {
         "id": 549,
@@ -5604,7 +5604,7 @@
             "平山"
         ],
         "location": "四国",
-        "weapon": "槍"
+        "weapon": "spear"
     },
     {
         "id": 550,
@@ -5615,7 +5615,7 @@
             "水"
         ],
         "location": "東海",
-        "weapon": "鉄"
+        "weapon": "gun"
     },
     {
         "id": 551,
@@ -5625,7 +5625,7 @@
             "平"
         ],
         "location": "関東",
-        "weapon": "祓"
+        "weapon": "oonusa"
     },
     {
         "id": 552,
@@ -5635,7 +5635,7 @@
             "平"
         ],
         "location": "関東",
-        "weapon": "鞭"
+        "weapon": "whip"
     },
     {
         "id": 553,
@@ -5645,7 +5645,7 @@
             "平山"
         ],
         "location": "近畿",
-        "weapon": "鎌"
+        "weapon": "scythe"
     },
     {
         "id": 801,
@@ -5655,7 +5655,7 @@
             "無"
         ],
         "location": "北陸",
-        "weapon": "槍"
+        "weapon": "spear"
     },
     {
         "id": 802,
@@ -5665,7 +5665,7 @@
             "無"
         ],
         "location": "九州",
-        "weapon": "大"
+        "weapon": "cannon"
     },
     {
         "id": 901,
@@ -5675,7 +5675,7 @@
             "無"
         ],
         "location": "異界",
-        "weapon": "魔"
+        "weapon": "other"
     },
     {
         "id": 902,
@@ -5685,7 +5685,7 @@
             "無"
         ],
         "location": "異界",
-        "weapon": "魔"
+        "weapon": "other"
     },
     {
         "id": 903,
@@ -5695,7 +5695,7 @@
             "無"
         ],
         "location": "異界",
-        "weapon": "魔"
+        "weapon": "other"
     },
     {
         "id": 904,
@@ -5705,7 +5705,7 @@
             "無"
         ],
         "location": "異界",
-        "weapon": "魔"
+        "weapon": "other"
     },
     {
         "id": 905,
@@ -5715,7 +5715,7 @@
             "無"
         ],
         "location": "異界",
-        "weapon": "魔"
+        "weapon": "other"
     },
     {
         "id": 906,
@@ -5725,7 +5725,7 @@
             "無"
         ],
         "location": "異界",
-        "weapon": "冒"
+        "weapon": "other"
     },
     {
         "id": 907,
@@ -5735,7 +5735,7 @@
             "無"
         ],
         "location": "異界",
-        "weapon": "冒"
+        "weapon": "other"
     },
     {
         "id": 908,
@@ -5745,7 +5745,7 @@
             "無"
         ],
         "location": "異界",
-        "weapon": "冒"
+        "weapon": "other"
     },
     {
         "id": 909,
@@ -5755,7 +5755,7 @@
             "無"
         ],
         "location": "異界",
-        "weapon": "冒"
+        "weapon": "other"
     },
     {
         "id": 910,
@@ -5765,7 +5765,7 @@
             "無"
         ],
         "location": "異界",
-        "weapon": "冒"
+        "weapon": "other"
     },
     {
         "id": 911,
@@ -5775,7 +5775,7 @@
             "無"
         ],
         "location": "異界",
-        "weapon": "騎"
+        "weapon": "other"
     },
     {
         "id": 912,
@@ -5785,7 +5785,7 @@
             "無"
         ],
         "location": "異界",
-        "weapon": "騎"
+        "weapon": "other"
     },
     {
         "id": 913,
@@ -5795,7 +5795,7 @@
             "無"
         ],
         "location": "異界",
-        "weapon": "騎"
+        "weapon": "other"
     },
     {
         "id": 914,
@@ -5805,7 +5805,7 @@
             "無"
         ],
         "location": "異界",
-        "weapon": "ラ"
+        "weapon": "other"
     },
     {
         "id": 915,
@@ -5815,7 +5815,7 @@
             "無"
         ],
         "location": "異界",
-        "weapon": "ラ"
+        "weapon": "other"
     },
     {
         "id": 916,
@@ -5825,6 +5825,6 @@
             "無"
         ],
         "location": "異界",
-        "weapon": "ラ"
+        "weapon": "other"
     }
 ]

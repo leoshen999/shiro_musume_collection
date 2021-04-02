@@ -24,8 +24,8 @@ export default function ShiroMusumeItem({ musume }) {
   }
 
   let type = "other";
-  if (musume.weapon in context.weaponNameToTypeMapping)
-    type = context.weaponNameToTypeMapping[musume.weapon];
+  if (musume.weapon in context.weaponIdToTypeMapping)
+    type = context.weaponIdToTypeMapping[musume.weapon];
 
   const idStr = paddingStr(musume.id, 4);
 

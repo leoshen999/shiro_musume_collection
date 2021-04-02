@@ -9,7 +9,7 @@ interface GlobalContextType {
   terrains: Array<string>;
   weapons: Array<any>;
   musumes: Array<any>;
-  weaponNameToTypeMapping: any;
+  weaponIdToTypeMapping: any;
   owns: Array<number>;
   onChangeOwn: (number, boolean) => void;
 }
@@ -18,7 +18,7 @@ export const GlobalContext = React.createContext<GlobalContextType>({
   terrains: [],
   weapons: [],
   musumes: [],
-  weaponNameToTypeMapping: {},
+  weaponIdToTypeMapping: {},
   owns: [],
   onChangeOwn: () => {},
 });
@@ -38,7 +38,7 @@ export function GlobalContextProvider({ children }: Props) {
   const [terrains, setTerrains] = useState<Array<string>>([]);
   const [weapons, setWeapons] = useState<Array<any>>([]);
   const [musumes, setMusumes] = useState<Array<any>>([]);
-  const [weaponNameToTypeMapping, setWeaponNameToTypeMapping] = useState<any>({});
+  const [weaponIdToTypeMapping, setWeaponIdToTypeMapping] = useState<any>({});
   const [owns, setOwns] = useState<Array<number>>([]);
 
   useEffect(() => {
@@ -49,9 +49,9 @@ export function GlobalContextProvider({ children }: Props) {
       setWeapons(wps);
       const mapping = {};
       wps.forEach(wp => {
-        mapping[wp.name] = wp.type;
+        mapping[wp.id] = wp.type;
       });
-      setWeaponNameToTypeMapping(mapping);
+      setWeaponIdToTypeMapping(mapping);
       setOwns(await fetchJson(`${process.env.NEXT_PUBLIC_BACKEND_BASE}/get_all_owns.php`));
       setMusumes(await fetchJson("/musumes.json"));
     })();
@@ -88,7 +88,7 @@ export function GlobalContextProvider({ children }: Props) {
         locations,
         terrains,
         weapons,
-        weaponNameToTypeMapping,
+        weaponIdToTypeMapping,
         musumes,
         owns,
         onChangeOwn: handleChangeOwn,
