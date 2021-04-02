@@ -1,10 +1,16 @@
 [
-  "北海道", "東北",
-  "関東", "甲信越",
-  "北陸", "東海",
-  "近畿",
-  "中国", "四国",
-  "九州", "沖縄",
-  "海外", "その他",
-  "異界"
+  {"id": "hokkaido", "name": "北海道", "group": 0},
+  {"id": "touhoku", "name": "東北", "group": 0},
+  {"id": "kantou", "name": "関東", "group": 1},
+  {"id": "koushinetsu", "name": "甲信越", "group": 1},
+  {"id": "hokuriku", "name": "北陸", "group": 2},
+  {"id": "toukai", "name": "東海", "group": 2},
+  {"id": "kinki", "name": "近畿", "group": 3},
+  {"id": "chuugoku", "name": "中国", "group": 4},
+  {"id": "shigoku", "name": "四国", "group": 4},
+  {"id": "kyuushuu", "name": "九州", "group": 5},
+  {"id": "okinawa", "name": "沖縄", "group": 5},
+  {"id": "kaigai", "name": "海外", "group": 6},
+  {"id": "sonohoka", "name": "その他", "group": 6},
+  {"id": "ikai", "name": "異界", "group": 7}
 ]
