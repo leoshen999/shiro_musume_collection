@@ -70,7 +70,7 @@ const useStyles = makeStyles({
     borderColor: "gray",
     borderWidth: "1px",
     borderRadius: "4px",
-    margin: "5px",
+    margin: "3px",
     overflow: "hidden",
   },
   musumeIcon: {
@@ -78,6 +78,7 @@ const useStyles = makeStyles({
     height: "72px",
     cursor: "pointer",
     filter: "grayscale(75%) brightness(30%)",
+    transitionDuration: "0.3s",
   },
   musumeIconOwn: {
     filter: "none",
@@ -87,7 +88,9 @@ const useStyles = makeStyles({
     flexDirection: "column",
     alignItems: "center",
     width: "100%",
+    padding: "2px",
     filter: "grayscale(40%) brightness(70%)",
+    transitionDuration: "0.3s",
   },
   textContainerOwn: {
     filter: "none",
@@ -104,11 +107,7 @@ const useStyles = makeStyles({
   textContainerOther: {
     backgroundColor: "rgb(255, 255, 160)",
   },
-  musumeId: {
-    fontSize: "10px",
-  },
   musumeName: {
-    fontSize: "10px",
     textAlign: "center",
   },
 });
