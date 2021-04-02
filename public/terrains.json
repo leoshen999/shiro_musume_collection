@@ -1,3 +1,8 @@
 [
-  "平", "水", "山", "平山", "地", "無"
+  {"id": "plain", "name": "平"},
+  {"id": "water", "name": "水"},
+  {"id": "mountain", "name": "山"},
+  {"id": "hill", "name": "平山"},
+  {"id": "hell", "name": "地"},
+  {"id": "none", "name": "無"}
 ]

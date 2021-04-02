@@ -4,8 +4,8 @@
         "name": "福山館",
         "rarity": 1,
         "terrains": [
-            "平山",
-            "水"
+            "hill",
+            "water"
         ],
         "location": "北海道",
         "weapon": "bow"
@@ -15,8 +15,8 @@
         "name": "松前城",
         "rarity": 4,
         "terrains": [
-            "平山",
-            "水"
+            "hill",
+            "water"
         ],
         "location": "北海道",
         "weapon": "gun"
@@ -26,7 +26,7 @@
         "name": "根城",
         "rarity": 2,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "東北",
         "weapon": "spear"
@@ -36,7 +36,7 @@
         "name": "不来方城",
         "rarity": 2,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "東北",
         "weapon": "hammer"
@@ -46,7 +46,7 @@
         "name": "盛岡城",
         "rarity": 4,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "東北",
         "weapon": "hammer"
@@ -56,7 +56,7 @@
         "name": "千代城",
         "rarity": 2,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "東北",
         "weapon": "sword"
@@ -66,7 +66,7 @@
         "name": "仙台城",
         "rarity": 5,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "東北",
         "weapon": "sword"
@@ -76,7 +76,7 @@
         "name": "東黒川館",
         "rarity": 1,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "東北",
         "weapon": "sword"
@@ -86,7 +86,7 @@
         "name": "黒川城",
         "rarity": 2,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "東北",
         "weapon": "sword"
@@ -96,7 +96,7 @@
         "name": "会津若松城",
         "rarity": 4,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "東北",
         "weapon": "gun"
@@ -106,7 +106,7 @@
         "name": "山形城",
         "rarity": 4,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "東北",
         "weapon": "sword"
@@ -116,7 +116,7 @@
         "name": "矢留ノ城",
         "rarity": 1,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "東北",
         "weapon": "spell"
@@ -126,7 +126,7 @@
         "name": "窪田城",
         "rarity": 1,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "東北",
         "weapon": "dancing"
@@ -136,7 +136,7 @@
         "name": "久保田城",
         "rarity": 2,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "東北",
         "weapon": "dancing"
@@ -146,7 +146,7 @@
         "name": "大宝寺城",
         "rarity": 2,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "東北",
         "weapon": "spell"
@@ -156,7 +156,7 @@
         "name": "鶴ヶ岡城",
         "rarity": 3,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "東北",
         "weapon": "dancing"
@@ -166,7 +166,7 @@
         "name": "馬場城",
         "rarity": 1,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "関東",
         "weapon": "sword"
@@ -176,7 +176,7 @@
         "name": "水戸城",
         "rarity": 4,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "関東",
         "weapon": "crossbow"
@@ -186,7 +186,7 @@
         "name": "石倉城",
         "rarity": 1,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "関東",
         "weapon": "gun"
@@ -196,7 +196,7 @@
         "name": "厩橋城",
         "rarity": 2,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "関東",
         "weapon": "gun"
@@ -206,7 +206,7 @@
         "name": "前橋城",
         "rarity": 3,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "関東",
         "weapon": "gun"
@@ -216,7 +216,7 @@
         "name": "宇都宮城",
         "rarity": 4,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "関東",
         "weapon": "spell"
@@ -226,7 +226,7 @@
         "name": "飛山城",
         "rarity": 1,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "関東",
         "weapon": "hammer"
@@ -236,7 +236,7 @@
         "name": "小田喜城",
         "rarity": 1,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "関東",
         "weapon": "spear"
@@ -246,7 +246,7 @@
         "name": "大多喜城",
         "rarity": 3,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "関東",
         "weapon": "spear"
@@ -256,7 +256,7 @@
         "name": "忍城",
         "rarity": 4,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "関東",
         "weapon": "sword"
@@ -266,7 +266,7 @@
         "name": "本庄城",
         "rarity": 1,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "関東",
         "weapon": "sword"
@@ -276,7 +276,7 @@
         "name": "滝山城",
         "rarity": 2,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "関東",
         "weapon": "crossbow"
@@ -286,8 +286,8 @@
         "name": "小田原城",
         "rarity": 6,
         "terrains": [
-            "平山",
-            "水"
+            "hill",
+            "water"
         ],
         "location": "関東",
         "weapon": "gun"
@@ -297,8 +297,8 @@
         "name": "三崎城",
         "rarity": 1,
         "terrains": [
-            "平山",
-            "水"
+            "hill",
+            "water"
         ],
         "location": "関東",
         "weapon": "gun"
@@ -308,7 +308,7 @@
         "name": "新府城",
         "rarity": 2,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "甲信越",
         "weapon": "spear"
@@ -318,7 +318,7 @@
         "name": "鍋蓋城",
         "rarity": 1,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "甲信越",
         "weapon": "bow"
@@ -328,7 +328,7 @@
         "name": "小諸城",
         "rarity": 4,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "甲信越",
         "weapon": "spear"
@@ -338,7 +338,7 @@
         "name": "今川館",
         "rarity": 1,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "東海",
         "weapon": "bow"
@@ -348,7 +348,7 @@
         "name": "駿府城",
         "rarity": 5,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "東海",
         "weapon": "bow"
@@ -358,7 +358,7 @@
         "name": "小牧山城",
         "rarity": 4,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "東海",
         "weapon": "bow"
@@ -368,7 +368,7 @@
         "name": "柳之丸",
         "rarity": 1,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "東海",
         "weapon": "sword"
@@ -378,7 +378,7 @@
         "name": "那古野城",
         "rarity": 2,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "東海",
         "weapon": "sword"
@@ -388,7 +388,7 @@
         "name": "名古屋城",
         "rarity": 7,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "東海",
         "weapon": "hammer"
@@ -398,7 +398,7 @@
         "name": "稲葉山城",
         "rarity": 3,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "東海",
         "weapon": "sword"
@@ -408,7 +408,7 @@
         "name": "岐阜城",
         "rarity": 5,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "東海",
         "weapon": "gun"
@@ -418,7 +418,7 @@
         "name": "苗木城",
         "rarity": 3,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "東海",
         "weapon": "sword"
@@ -428,7 +428,7 @@
         "name": "坂戸城",
         "rarity": 2,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "甲信越",
         "weapon": "sword"
@@ -438,7 +438,7 @@
         "name": "富山城",
         "rarity": 2,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "北陸",
         "weapon": "gun"
@@ -448,7 +448,7 @@
         "name": "七尾城",
         "rarity": 4,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "北陸",
         "weapon": "spear"
@@ -458,7 +458,7 @@
         "name": "大聖寺城",
         "rarity": 2,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "北陸",
         "weapon": "spell"
@@ -468,7 +468,7 @@
         "name": "北ノ庄城",
         "rarity": 3,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "北陸",
         "weapon": "spear"
@@ -478,7 +478,7 @@
         "name": "福井城",
         "rarity": 4,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "北陸",
         "weapon": "spear"
@@ -488,8 +488,8 @@
         "name": "津留賀城",
         "rarity": 1,
         "terrains": [
-            "山",
-            "水"
+            "mountain",
+            "water"
         ],
         "location": "北陸",
         "weapon": "sword"
@@ -499,8 +499,8 @@
         "name": "金ヶ崎城",
         "rarity": 2,
         "terrains": [
-            "山",
-            "水"
+            "mountain",
+            "water"
         ],
         "location": "北陸",
         "weapon": "sword"
@@ -510,8 +510,8 @@
         "name": "坂本城",
         "rarity": 5,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "近畿",
         "weapon": "gun"
@@ -521,7 +521,7 @@
         "name": "佐和山城",
         "rarity": 6,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "近畿",
         "weapon": "spear"
@@ -531,7 +531,7 @@
         "name": "水口城",
         "rarity": 1,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "近畿",
         "weapon": "sword"
@@ -541,7 +541,7 @@
         "name": "仁木館",
         "rarity": 2,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "近畿",
         "weapon": "sword"
@@ -551,7 +551,7 @@
         "name": "伊賀上野城",
         "rarity": 4,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "近畿",
         "weapon": "sword"
@@ -561,7 +561,7 @@
         "name": "二条城",
         "rarity": 5,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "近畿",
         "weapon": "gun"
@@ -571,7 +571,7 @@
         "name": "多聞山城",
         "rarity": 3,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "近畿",
         "weapon": "bow"
@@ -581,7 +581,7 @@
         "name": "龍王山城",
         "rarity": 2,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "近畿",
         "weapon": "spell"
@@ -591,7 +591,7 @@
         "name": "石山御坊",
         "rarity": 6,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "近畿",
         "weapon": "dancing"
@@ -601,7 +601,7 @@
         "name": "大坂城",
         "rarity": 7,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "近畿",
         "weapon": "dancing"
@@ -611,7 +611,7 @@
         "name": "飯盛山城",
         "rarity": 2,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "近畿",
         "weapon": "spell"
@@ -621,8 +621,8 @@
         "name": "鬼ヶ城",
         "rarity": 2,
         "terrains": [
-            "山",
-            "水"
+            "mountain",
+            "water"
         ],
         "location": "近畿",
         "weapon": "hammer"
@@ -632,8 +632,8 @@
         "name": "雑賀城",
         "rarity": 3,
         "terrains": [
-            "平山",
-            "水"
+            "hill",
+            "water"
         ],
         "location": "近畿",
         "weapon": "gun"
@@ -643,7 +643,7 @@
         "name": "三木城",
         "rarity": 2,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "近畿",
         "weapon": "hammer"
@@ -653,7 +653,7 @@
         "name": "石山城",
         "rarity": 1,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "中国",
         "weapon": "bow"
@@ -663,7 +663,7 @@
         "name": "岡山城",
         "rarity": 4,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "中国",
         "weapon": "sword"
@@ -673,7 +673,7 @@
         "name": "備中高松城",
         "rarity": 3,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "中国",
         "weapon": "sword"
@@ -683,8 +683,8 @@
         "name": "三原城",
         "rarity": 3,
         "terrains": [
-            "平山",
-            "水"
+            "hill",
+            "water"
         ],
         "location": "中国",
         "weapon": "crossbow"
@@ -694,7 +694,7 @@
         "name": "桜尾城",
         "rarity": 2,
         "terrains": [
-            "水"
+            "water"
         ],
         "location": "中国",
         "weapon": "bow"
@@ -704,7 +704,7 @@
         "name": "鹿野城",
         "rarity": 3,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "中国",
         "weapon": "spear"
@@ -714,7 +714,7 @@
         "name": "鳥取城",
         "rarity": 4,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "中国",
         "weapon": "bow"
@@ -724,8 +724,8 @@
         "name": "防己尾城",
         "rarity": 1,
         "terrains": [
-            "平山",
-            "水"
+            "hill",
+            "water"
         ],
         "location": "中国",
         "weapon": "spear"
@@ -735,7 +735,7 @@
         "name": "三本松城",
         "rarity": 2,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "中国",
         "weapon": "crossbow"
@@ -745,7 +745,7 @@
         "name": "津和野城",
         "rarity": 3,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "中国",
         "weapon": "gun"
@@ -755,7 +755,7 @@
         "name": "上関城",
         "rarity": 2,
         "terrains": [
-            "水"
+            "water"
         ],
         "location": "中国",
         "weapon": "gun"
@@ -765,7 +765,7 @@
         "name": "高松城",
         "rarity": 3,
         "terrains": [
-            "水"
+            "water"
         ],
         "location": "四国",
         "weapon": "spear"
@@ -775,8 +775,8 @@
         "name": "引田城",
         "rarity": 2,
         "terrains": [
-            "平山",
-            "水"
+            "hill",
+            "water"
         ],
         "location": "四国",
         "weapon": "spell"
@@ -786,7 +786,7 @@
         "name": "勝瑞城",
         "rarity": 1,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "四国",
         "weapon": "gun"
@@ -796,7 +796,7 @@
         "name": "来島城",
         "rarity": 1,
         "terrains": [
-            "水"
+            "water"
         ],
         "location": "四国",
         "weapon": "gun"
@@ -806,7 +806,7 @@
         "name": "大高坂山城",
         "rarity": 1,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "四国",
         "weapon": "spear"
@@ -816,7 +816,7 @@
         "name": "高知城",
         "rarity": 5,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "四国",
         "weapon": "gun"
@@ -826,7 +826,7 @@
         "name": "鶴崎城",
         "rarity": 1,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "九州",
         "weapon": "gun"
@@ -836,8 +836,8 @@
         "name": "福岡城",
         "rarity": 4,
         "terrains": [
-            "平山",
-            "水"
+            "hill",
+            "water"
         ],
         "location": "九州",
         "weapon": "crossbow"
@@ -847,7 +847,7 @@
         "name": "若松城",
         "rarity": 2,
         "terrains": [
-            "水"
+            "water"
         ],
         "location": "九州",
         "weapon": "gun"
@@ -857,8 +857,8 @@
         "name": "島原城",
         "rarity": 3,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "九州",
         "weapon": "bow"
@@ -868,7 +868,7 @@
         "name": "村中城",
         "rarity": 1,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "九州",
         "weapon": "sword"
@@ -878,7 +878,7 @@
         "name": "佐賀城",
         "rarity": 3,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "九州",
         "weapon": "sword"
@@ -888,8 +888,8 @@
         "name": "日之嶽城",
         "rarity": 1,
         "terrains": [
-            "平山",
-            "水"
+            "hill",
+            "water"
         ],
         "location": "九州",
         "weapon": "spear"
@@ -899,8 +899,8 @@
         "name": "平戸城",
         "rarity": 3,
         "terrains": [
-            "平山",
-            "水"
+            "hill",
+            "water"
         ],
         "location": "九州",
         "weapon": "spell"
@@ -910,7 +910,7 @@
         "name": "宇土古城",
         "rarity": 2,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "九州",
         "weapon": "bow"
@@ -920,7 +920,7 @@
         "name": "宇土城",
         "rarity": 4,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "九州",
         "weapon": "gun"
@@ -930,7 +930,7 @@
         "name": "飫肥城",
         "rarity": 2,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "九州",
         "weapon": "bow"
@@ -940,8 +940,8 @@
         "name": "鹿児島城",
         "rarity": 2,
         "terrains": [
-            "平山",
-            "水"
+            "hill",
+            "water"
         ],
         "location": "九州",
         "weapon": "gun"
@@ -951,7 +951,7 @@
         "name": "首里城",
         "rarity": 6,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "沖縄",
         "weapon": "sword"
@@ -961,7 +961,7 @@
         "name": "浦添城",
         "rarity": 2,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "沖縄",
         "weapon": "bow"
@@ -971,7 +971,7 @@
         "name": "丸亀城",
         "rarity": 5,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "四国",
         "weapon": "spear"
@@ -981,7 +981,7 @@
         "name": "小谷城",
         "rarity": 5,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "近畿",
         "weapon": "spear"
@@ -991,7 +991,7 @@
         "name": "能島城",
         "rarity": 3,
         "terrains": [
-            "水"
+            "water"
         ],
         "location": "四国",
         "weapon": "gun"
@@ -1001,7 +1001,7 @@
         "name": "月山富田城",
         "rarity": 3,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "中国",
         "weapon": "spear"
@@ -1011,8 +1011,8 @@
         "name": "脇本城",
         "rarity": 2,
         "terrains": [
-            "山",
-            "水"
+            "mountain",
+            "water"
         ],
         "location": "東北",
         "weapon": "spear"
@@ -1022,7 +1022,7 @@
         "name": "一乗谷城",
         "rarity": 4,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "北陸",
         "weapon": "sword"
@@ -1032,7 +1032,7 @@
         "name": "墨俣城",
         "rarity": 3,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "東海",
         "weapon": "gun"
@@ -1042,7 +1042,7 @@
         "name": "岩櫃城",
         "rarity": 3,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "関東",
         "weapon": "spear"
@@ -1052,7 +1052,7 @@
         "name": "福山城",
         "rarity": 5,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "中国",
         "weapon": "sword"
@@ -1062,7 +1062,7 @@
         "name": "志自岐原城",
         "rarity": 1,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "九州",
         "weapon": "sword"
@@ -1072,7 +1072,7 @@
         "name": "原城",
         "rarity": 2,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "九州",
         "weapon": "gun"
@@ -1082,7 +1082,7 @@
         "name": "根来城",
         "rarity": 3,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "近畿",
         "weapon": "gun"
@@ -1092,8 +1092,8 @@
         "name": "鳥羽城",
         "rarity": 4,
         "terrains": [
-            "平山",
-            "水"
+            "hill",
+            "water"
         ],
         "location": "近畿",
         "weapon": "gun"
@@ -1103,7 +1103,7 @@
         "name": "春日山城",
         "rarity": 5,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "甲信越",
         "weapon": "sword"
@@ -1113,7 +1113,7 @@
         "name": "丹波横山城",
         "rarity": 2,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "近畿",
         "weapon": "bow"
@@ -1123,7 +1123,7 @@
         "name": "福知山城",
         "rarity": 6,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "近畿",
         "weapon": "gun"
@@ -1133,8 +1133,8 @@
         "name": "今浜城",
         "rarity": 1,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "近畿",
         "weapon": "spell"
@@ -1144,8 +1144,8 @@
         "name": "長浜城",
         "rarity": 4,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "近畿",
         "weapon": "gun"
@@ -1155,7 +1155,7 @@
         "name": "八王子城",
         "rarity": 3,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "関東",
         "weapon": "spear"
@@ -1165,7 +1165,7 @@
         "name": "多賀城",
         "rarity": 5,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "東北",
         "weapon": "crossbow"
@@ -1175,7 +1175,7 @@
         "name": "松倉城",
         "rarity": 2,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "北陸",
         "weapon": "sword"
@@ -1185,7 +1185,7 @@
         "name": "フランケンシュタイン城",
         "rarity": 5,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "海外",
         "weapon": "hammer"
@@ -1195,7 +1195,7 @@
         "name": "与板城",
         "rarity": 3,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "甲信越",
         "weapon": "sword"
@@ -1205,7 +1205,7 @@
         "name": "和歌山城",
         "rarity": 6,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "近畿",
         "weapon": "sword"
@@ -1215,7 +1215,7 @@
         "name": "久慈城",
         "rarity": 2,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "東北",
         "weapon": "sword"
@@ -1225,7 +1225,7 @@
         "name": "彦根城",
         "rarity": 7,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "近畿",
         "weapon": "spear"
@@ -1235,7 +1235,7 @@
         "name": "乙女城",
         "rarity": 1,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "甲信越",
         "weapon": "spell"
@@ -1245,7 +1245,7 @@
         "name": "柳川城",
         "rarity": 3,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "九州",
         "weapon": "crossbow"
@@ -1255,7 +1255,7 @@
         "name": "石垣山城",
         "rarity": 3,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "関東",
         "weapon": "spear"
@@ -1265,7 +1265,7 @@
         "name": "今治城",
         "rarity": 4,
         "terrains": [
-            "水"
+            "water"
         ],
         "location": "四国",
         "weapon": "gun"
@@ -1275,7 +1275,7 @@
         "name": "真田丸",
         "rarity": 4,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "近畿",
         "weapon": "spear"
@@ -1285,7 +1285,7 @@
         "name": "観音寺城",
         "rarity": 5,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "近畿",
         "weapon": "crossbow"
@@ -1295,7 +1295,7 @@
         "name": "ブラン城",
         "rarity": 6,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "海外",
         "weapon": "sword"
@@ -1305,8 +1305,8 @@
         "name": "萩城",
         "rarity": 5,
         "terrains": [
-            "平山",
-            "水"
+            "hill",
+            "water"
         ],
         "location": "中国",
         "weapon": "gun"
@@ -1316,7 +1316,7 @@
         "name": "岡豊城",
         "rarity": 5,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "四国",
         "weapon": "bow"
@@ -1326,7 +1326,7 @@
         "name": "尾山御坊",
         "rarity": 2,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "北陸",
         "weapon": "dancing"
@@ -1336,7 +1336,7 @@
         "name": "佐久間金沢城",
         "rarity": 4,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "北陸",
         "weapon": "spear"
@@ -1346,7 +1346,7 @@
         "name": "菩提山城",
         "rarity": 4,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "東海",
         "weapon": "spell"
@@ -1356,7 +1356,7 @@
         "name": "岩手山城",
         "rarity": 2,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "東海",
         "weapon": "spear"
@@ -1366,7 +1366,7 @@
         "name": "山科本願寺",
         "rarity": 3,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "近畿",
         "weapon": "dancing"
@@ -1376,7 +1376,7 @@
         "name": "深志城",
         "rarity": 3,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "甲信越",
         "weapon": "bow"
@@ -1386,7 +1386,7 @@
         "name": "松本城",
         "rarity": 5,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "甲信越",
         "weapon": "crossbow"
@@ -1396,7 +1396,7 @@
         "name": "広島城",
         "rarity": 6,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "中国",
         "weapon": "crossbow"
@@ -1406,7 +1406,7 @@
         "name": "尾山城",
         "rarity": 5,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "北陸",
         "weapon": "spear"
@@ -1416,7 +1416,7 @@
         "name": "天神西舘",
         "rarity": 1,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "東北",
         "weapon": "bow"
@@ -1426,7 +1426,7 @@
         "name": "中村舘",
         "rarity": 2,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "東北",
         "weapon": "spear"
@@ -1436,7 +1436,7 @@
         "name": "相馬中村城",
         "rarity": 4,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "東北",
         "weapon": "sword"
@@ -1446,7 +1446,7 @@
         "name": "吉野ヶ里",
         "rarity": 6,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "九州",
         "weapon": "sword"
@@ -1456,7 +1456,7 @@
         "name": "四稜郭",
         "rarity": 3,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "北海道",
         "weapon": "gun"
@@ -1466,7 +1466,7 @@
         "name": "五稜郭",
         "rarity": 7,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "北海道",
         "weapon": "cannon"
@@ -1476,7 +1476,7 @@
         "name": "前田金沢城",
         "rarity": 6,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "北陸",
         "weapon": "sword"
@@ -1486,8 +1486,8 @@
         "name": "安平古堡",
         "rarity": 3,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "海外",
         "weapon": "cannon"
@@ -1497,8 +1497,8 @@
         "name": "オレンジ城",
         "rarity": 3,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "海外",
         "weapon": "gun"
@@ -1508,8 +1508,8 @@
         "name": "ゼーランディア城",
         "rarity": 5,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "海外",
         "weapon": "gun"
@@ -1519,7 +1519,7 @@
         "name": "信貴山城",
         "rarity": 5,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "近畿",
         "weapon": "cannon"
@@ -1529,8 +1529,8 @@
         "name": "笹原城",
         "rarity": 2,
         "terrains": [
-            "平山",
-            "水"
+            "hill",
+            "water"
         ],
         "location": "九州",
         "weapon": "bow"
@@ -1540,8 +1540,8 @@
         "name": "久留米城",
         "rarity": 3,
         "terrains": [
-            "平山",
-            "水"
+            "hill",
+            "water"
         ],
         "location": "九州",
         "weapon": "gun"
@@ -1551,8 +1551,8 @@
         "name": "安平城",
         "rarity": 7,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "海外",
         "weapon": "gun"
@@ -1562,7 +1562,7 @@
         "name": "高岡城",
         "rarity": 5,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "東北",
         "weapon": "bow"
@@ -1572,7 +1572,7 @@
         "name": "吉田郡山城",
         "rarity": 5,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "中国",
         "weapon": "bow"
@@ -1582,7 +1582,7 @@
         "name": "竹田城",
         "rarity": 6,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "近畿",
         "weapon": "spell"
@@ -1592,7 +1592,7 @@
         "name": "帰雲城",
         "rarity": 5,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "東海",
         "weapon": "sword"
@@ -1602,7 +1602,7 @@
         "name": "ノイシュヴァンシュタイン城",
         "rarity": 7,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "海外",
         "weapon": "shield"
@@ -1612,7 +1612,7 @@
         "name": "大仏城",
         "rarity": 1,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "東北",
         "weapon": "spear"
@@ -1622,7 +1622,7 @@
         "name": "杉目城",
         "rarity": 2,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "東北",
         "weapon": "spell"
@@ -1632,7 +1632,7 @@
         "name": "福島城",
         "rarity": 4,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "東北",
         "weapon": "spell"
@@ -1642,7 +1642,7 @@
         "name": "躑躅ヶ崎館",
         "rarity": 6,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "甲信越",
         "weapon": "hammer"
@@ -1652,7 +1652,7 @@
         "name": "清洲城",
         "rarity": 5,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "東海",
         "weapon": "sword"
@@ -1662,7 +1662,7 @@
         "name": "伊丹城",
         "rarity": 3,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "近畿",
         "weapon": "sword"
@@ -1672,7 +1672,7 @@
         "name": "有岡城",
         "rarity": 5,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "近畿",
         "weapon": "hammer"
@@ -1682,7 +1682,7 @@
         "name": "犬山城",
         "rarity": 6,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "東海",
         "weapon": "cannon"
@@ -1692,7 +1692,7 @@
         "name": "サンタンジェロ城",
         "rarity": 5,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "海外",
         "weapon": "shield"
@@ -1702,7 +1702,7 @@
         "name": "備中松山城",
         "rarity": 5,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "中国",
         "weapon": "gun"
@@ -1712,8 +1712,8 @@
         "name": "板島丸串城",
         "rarity": 4,
         "terrains": [
-            "平山",
-            "水"
+            "hill",
+            "water"
         ],
         "location": "四国",
         "weapon": "cannon"
@@ -1723,7 +1723,7 @@
         "name": "弘前城",
         "rarity": 6,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "東北",
         "weapon": "bow"
@@ -1733,7 +1733,7 @@
         "name": "伊予松山城",
         "rarity": 6,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "四国",
         "weapon": "spear"
@@ -1743,7 +1743,7 @@
         "name": "聚楽第",
         "rarity": 7,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "近畿",
         "weapon": "bow"
@@ -1753,7 +1753,7 @@
         "name": "岡城",
         "rarity": 5,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "九州",
         "weapon": "crossbow"
@@ -1763,8 +1763,8 @@
         "name": "中津城",
         "rarity": 5,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "九州",
         "weapon": "gun"
@@ -1774,8 +1774,8 @@
         "name": "丸山城",
         "rarity": 3,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "九州",
         "weapon": "sword"
@@ -1785,7 +1785,7 @@
         "name": "浜松城",
         "rarity": 6,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "東海",
         "weapon": "sword"
@@ -1795,7 +1795,7 @@
         "name": "ガイヤール城",
         "rarity": 5,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "海外",
         "weapon": "shield"
@@ -1805,8 +1805,8 @@
         "name": "亀居城",
         "rarity": 4,
         "terrains": [
-            "平山",
-            "水"
+            "hill",
+            "water"
         ],
         "location": "中国",
         "weapon": "spear"
@@ -1816,8 +1816,8 @@
         "name": "安土城",
         "rarity": 7,
         "terrains": [
-            "平山",
-            "水"
+            "hill",
+            "water"
         ],
         "location": "近畿",
         "weapon": "spell"
@@ -1827,7 +1827,7 @@
         "name": "ユクエピラチャシ",
         "rarity": 5,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "北海道",
         "weapon": "hammer"
@@ -1837,8 +1837,8 @@
         "name": "宇和島城",
         "rarity": 6,
         "terrains": [
-            "平山",
-            "水"
+            "hill",
+            "water"
         ],
         "location": "四国",
         "weapon": "cannon"
@@ -1848,7 +1848,7 @@
         "name": "徳島城",
         "rarity": 5,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "四国",
         "weapon": "sword"
@@ -1858,7 +1858,7 @@
         "name": "肥後千葉城",
         "rarity": 3,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "九州",
         "weapon": "sword"
@@ -1868,7 +1868,7 @@
         "name": "隈本城",
         "rarity": 5,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "九州",
         "weapon": "sword"
@@ -1878,7 +1878,7 @@
         "name": "熊本城",
         "rarity": 7,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "九州",
         "weapon": "sword"
@@ -1888,7 +1888,7 @@
         "name": "丸岡城",
         "rarity": 6,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "北陸",
         "weapon": "spell"
@@ -1898,7 +1898,7 @@
         "name": "指月伏見城",
         "rarity": 7,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "近畿",
         "weapon": "bell"
@@ -1908,8 +1908,8 @@
         "name": "コンウィ城",
         "rarity": 2,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "海外",
         "weapon": "shield"
@@ -1919,8 +1919,8 @@
         "name": "カーナーヴォン城",
         "rarity": 4,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "海外",
         "weapon": "shield"
@@ -1930,8 +1930,8 @@
         "name": "淀城",
         "rarity": 5,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "近畿",
         "weapon": "hammer"
@@ -1941,7 +1941,7 @@
         "name": "内城",
         "rarity": 6,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "九州",
         "weapon": "crossbow"
@@ -1951,7 +1951,7 @@
         "name": "万里の長城",
         "rarity": 7,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "海外",
         "weapon": "crossbow"
@@ -1961,7 +1961,7 @@
         "name": "井伊谷城",
         "rarity": 5,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "東海",
         "weapon": "bow"
@@ -1971,8 +1971,8 @@
         "name": "臼杵城",
         "rarity": 5,
         "terrains": [
-            "平山",
-            "水"
+            "hill",
+            "water"
         ],
         "location": "九州",
         "weapon": "cannon"
@@ -1982,7 +1982,7 @@
         "name": "津山城",
         "rarity": 5,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "中国",
         "weapon": "hammer"
@@ -1992,8 +1992,8 @@
         "name": "マルボルク城",
         "rarity": 6,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "海外",
         "weapon": "shield"
@@ -2003,7 +2003,7 @@
         "name": "大和郡山城",
         "rarity": 5,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "近畿",
         "weapon": "spell"
@@ -2013,7 +2013,7 @@
         "name": "ユッセ城",
         "rarity": 6,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "海外",
         "weapon": "staff"
@@ -2023,7 +2023,7 @@
         "name": "村尾城",
         "rarity": 4,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "中国",
         "weapon": "crossbow"
@@ -2033,7 +2033,7 @@
         "name": "浜田城",
         "rarity": 5,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "中国",
         "weapon": "bell"
@@ -2043,7 +2043,7 @@
         "name": "上田城",
         "rarity": 6,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "甲信越",
         "weapon": "spear"
@@ -2053,7 +2053,7 @@
         "name": "聚楽城",
         "rarity": 6,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "近畿",
         "weapon": "spear"
@@ -2063,7 +2063,7 @@
         "name": "姫路城",
         "rarity": 7,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "近畿",
         "weapon": "gun"
@@ -2073,7 +2073,7 @@
         "name": "丹波亀山城",
         "rarity": 5,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "近畿",
         "weapon": "sword"
@@ -2083,7 +2083,7 @@
         "name": "岩殿山城",
         "rarity": 5,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "甲信越",
         "weapon": "spell"
@@ -2093,8 +2093,8 @@
         "name": "シュノンソー城",
         "rarity": 6,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "海外",
         "weapon": "staff"
@@ -2104,7 +2104,7 @@
         "name": "山中城",
         "rarity": 5,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "東海",
         "weapon": "hammer"
@@ -2114,7 +2114,7 @@
         "name": "曳馬城",
         "rarity": 4,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "東海",
         "weapon": "spear"
@@ -2124,7 +2124,7 @@
         "name": "プラハ城",
         "rarity": 7,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "海外",
         "weapon": "staff"
@@ -2134,7 +2134,7 @@
         "name": "白河小峰城",
         "rarity": 6,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "東北",
         "weapon": "crossbow"
@@ -2144,8 +2144,8 @@
         "name": "アンボワーズ城",
         "rarity": 6,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "海外",
         "weapon": "bell"
@@ -2155,7 +2155,7 @@
         "name": "岩国城",
         "rarity": 5,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "中国",
         "weapon": "sword"
@@ -2165,7 +2165,7 @@
         "name": "亀田御役所土塁",
         "rarity": 6,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "北海道",
         "weapon": "sword"
@@ -2175,7 +2175,7 @@
         "name": "紫禁城",
         "rarity": 7,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "海外",
         "weapon": "gaunlets"
@@ -2185,8 +2185,8 @@
         "name": "大垣城",
         "rarity": 6,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "東海",
         "weapon": "hammer"
@@ -2196,7 +2196,7 @@
         "name": "ホーエンザルツブルク城",
         "rarity": 6,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "海外",
         "weapon": "staff"
@@ -2206,8 +2206,8 @@
         "name": "杵築城",
         "rarity": 4,
         "terrains": [
-            "平山",
-            "水"
+            "hill",
+            "water"
         ],
         "location": "九州",
         "weapon": "bow"
@@ -2217,7 +2217,7 @@
         "name": "長安城",
         "rarity": 6,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "海外",
         "weapon": "gaunlets"
@@ -2227,7 +2227,7 @@
         "name": "徳川大坂城",
         "rarity": 7,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "近畿",
         "weapon": "sword"
@@ -2237,8 +2237,8 @@
         "name": "古河城",
         "rarity": 5,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "関東",
         "weapon": "crossbow"
@@ -2248,7 +2248,7 @@
         "name": "カステル・デル・モンテ",
         "rarity": 6,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "海外",
         "weapon": "hammer"
@@ -2258,8 +2258,8 @@
         "name": "松江城",
         "rarity": 6,
         "terrains": [
-            "平山",
-            "水"
+            "hill",
+            "water"
         ],
         "location": "中国",
         "weapon": "spear"
@@ -2269,7 +2269,7 @@
         "name": "［夏］犬山城",
         "rarity": 6,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "東海",
         "weapon": "cannon"
@@ -2279,7 +2279,7 @@
         "name": "［夏］指月伏見城",
         "rarity": 6,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "近畿",
         "weapon": "bell"
@@ -2289,7 +2289,7 @@
         "name": "［夏］名古屋城",
         "rarity": 6,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "東海",
         "weapon": "hammer"
@@ -2299,7 +2299,7 @@
         "name": "高天神城",
         "rarity": 6,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "東海",
         "weapon": "gun"
@@ -2309,7 +2309,7 @@
         "name": "新田金山城",
         "rarity": 6,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "関東",
         "weapon": "bell"
@@ -2319,7 +2319,7 @@
         "name": "柳生城",
         "rarity": 5,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "近畿",
         "weapon": "sword"
@@ -2329,7 +2329,7 @@
         "name": "エディンバラ城",
         "rarity": 6,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "海外",
         "weapon": "cannon"
@@ -2339,7 +2339,7 @@
         "name": "ウィンザー城",
         "rarity": 7,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "海外",
         "weapon": "sword"
@@ -2349,7 +2349,7 @@
         "name": "青葉城",
         "rarity": 6,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "東北",
         "weapon": "gun"
@@ -2359,7 +2359,7 @@
         "name": "銀杏城",
         "rarity": 6,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "九州",
         "weapon": "spear"
@@ -2369,7 +2369,7 @@
         "name": "シノン城",
         "rarity": 5,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "海外",
         "weapon": "shield"
@@ -2379,7 +2379,7 @@
         "name": "アイリーン・ドナン城",
         "rarity": 4,
         "terrains": [
-            "水"
+            "water"
         ],
         "location": "海外",
         "weapon": "staff"
@@ -2389,7 +2389,7 @@
         "name": "高遠城",
         "rarity": 6,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "甲信越",
         "weapon": "spell"
@@ -2399,7 +2399,7 @@
         "name": "長篠城",
         "rarity": 6,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "東海",
         "weapon": "gun"
@@ -2409,7 +2409,7 @@
         "name": "城塞都市カルカソンヌ",
         "rarity": 7,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "海外",
         "weapon": "shield"
@@ -2419,7 +2419,7 @@
         "name": "城塞都市ルクセンブルク",
         "rarity": 6,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "海外",
         "weapon": "bell"
@@ -2429,8 +2429,8 @@
         "name": "明石城",
         "rarity": 5,
         "terrains": [
-            "平山",
-            "水"
+            "hill",
+            "water"
         ],
         "location": "近畿",
         "weapon": "cannon"
@@ -2440,7 +2440,7 @@
         "name": "柳之御所",
         "rarity": 6,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "東北",
         "weapon": "bow"
@@ -2450,7 +2450,7 @@
         "name": "ヴァルトブルク城",
         "rarity": 6,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "海外",
         "weapon": "shield"
@@ -2460,8 +2460,8 @@
         "name": "大洲城",
         "rarity": 5,
         "terrains": [
-            "平山",
-            "水"
+            "hill",
+            "water"
         ],
         "location": "四国",
         "weapon": "hammer"
@@ -2471,7 +2471,7 @@
         "name": "平遥古城",
         "rarity": 5,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "海外",
         "weapon": "gaunlets"
@@ -2481,7 +2481,7 @@
         "name": "シェーンブルン宮殿",
         "rarity": 7,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "海外",
         "weapon": "dancing"
@@ -2491,7 +2491,7 @@
         "name": "［ハロウィン］ユッセ城",
         "rarity": 6,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "海外",
         "weapon": "staff"
@@ -2501,8 +2501,8 @@
         "name": "高島城",
         "rarity": 4,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "甲信越",
         "weapon": "bell"
@@ -2512,8 +2512,8 @@
         "name": "クロンボー城",
         "rarity": 6,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "海外",
         "weapon": "gun"
@@ -2523,8 +2523,8 @@
         "name": "小倉城",
         "rarity": 6,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "九州",
         "weapon": "cannon"
@@ -2534,7 +2534,7 @@
         "name": "セゴビアのアルカサル",
         "rarity": 6,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "海外",
         "weapon": "staff"
@@ -2544,7 +2544,7 @@
         "name": "津城",
         "rarity": 5,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "近畿",
         "weapon": "hammer"
@@ -2554,7 +2554,7 @@
         "name": "錦城",
         "rarity": 7,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "近畿",
         "weapon": "spell"
@@ -2564,8 +2564,8 @@
         "name": "長門指月城",
         "rarity": 6,
         "terrains": [
-            "平山",
-            "水"
+            "hill",
+            "water"
         ],
         "location": "中国",
         "weapon": "bow"
@@ -2575,7 +2575,7 @@
         "name": "新宮城",
         "rarity": 5,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "近畿",
         "weapon": "spell"
@@ -2585,8 +2585,8 @@
         "name": "リーズ城",
         "rarity": 6,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "海外",
         "weapon": "bow"
@@ -2596,8 +2596,8 @@
         "name": "シャンボール城",
         "rarity": 7,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "海外",
         "weapon": "spear"
@@ -2607,8 +2607,8 @@
         "name": "ウォリック城",
         "rarity": 6,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "海外",
         "weapon": "shield"
@@ -2618,7 +2618,7 @@
         "name": "江戸氏館",
         "rarity": 4,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "関東",
         "weapon": "bow"
@@ -2628,7 +2628,7 @@
         "name": "湊城",
         "rarity": 3,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "東北",
         "weapon": "gun"
@@ -2638,7 +2638,7 @@
         "name": "［正月］熊本城",
         "rarity": 7,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "九州",
         "weapon": "sword"
@@ -2648,7 +2648,7 @@
         "name": "［正月］信貴山城",
         "rarity": 6,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "近畿",
         "weapon": "cannon"
@@ -2658,7 +2658,7 @@
         "name": "フォンテーヌブロー宮殿",
         "rarity": 6,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "海外",
         "weapon": "crossbow"
@@ -2668,7 +2668,7 @@
         "name": "水府城",
         "rarity": 6,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "関東",
         "weapon": "dancing"
@@ -2678,7 +2678,7 @@
         "name": "ペーナ宮殿",
         "rarity": 6,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "海外",
         "weapon": "staff"
@@ -2688,7 +2688,7 @@
         "name": "鬼ノ城",
         "rarity": 4,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "中国",
         "weapon": "dancing"
@@ -2698,8 +2698,8 @@
         "name": "［節分］鬼ヶ城",
         "rarity": 5,
         "terrains": [
-            "山",
-            "水"
+            "mountain",
+            "water"
         ],
         "location": "近畿",
         "weapon": "hammer"
@@ -2709,7 +2709,7 @@
         "name": "モン・サン＝ミッシェル",
         "rarity": 7,
         "terrains": [
-            "水"
+            "water"
         ],
         "location": "海外",
         "weapon": "dancing"
@@ -2719,8 +2719,8 @@
         "name": "ウェストミンスター宮殿",
         "rarity": 6,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "海外",
         "weapon": "bell"
@@ -2730,8 +2730,8 @@
         "name": "洛陽城",
         "rarity": 6,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "海外",
         "weapon": "gaunlets"
@@ -2741,8 +2741,8 @@
         "name": "篠山城",
         "rarity": 6,
         "terrains": [
-            "平山",
-            "水"
+            "hill",
+            "water"
         ],
         "location": "近畿",
         "weapon": "bow"
@@ -2752,7 +2752,7 @@
         "name": "天童城",
         "rarity": 5,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "東北",
         "weapon": "bell"
@@ -2762,7 +2762,7 @@
         "name": "ヴェルサイユ宮殿",
         "rarity": 7,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "海外",
         "weapon": "staff"
@@ -2772,7 +2772,7 @@
         "name": "城塞都市アビラ",
         "rarity": 6,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "海外",
         "weapon": "hammer"
@@ -2782,7 +2782,7 @@
         "name": "烏城",
         "rarity": 7,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "甲信越",
         "weapon": "bell"
@@ -2792,7 +2792,7 @@
         "name": "鎌倉城",
         "rarity": 7,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "関東",
         "weapon": "bow"
@@ -2802,7 +2802,7 @@
         "name": "品川台場",
         "rarity": 5,
         "terrains": [
-            "水"
+            "water"
         ],
         "location": "関東",
         "weapon": "cannon"
@@ -2812,7 +2812,7 @@
         "name": "松代城",
         "rarity": 6,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "甲信越",
         "weapon": "spell"
@@ -2822,8 +2822,8 @@
         "name": "リンドス・アクロポリス",
         "rarity": 6,
         "terrains": [
-            "平山",
-            "水"
+            "hill",
+            "water"
         ],
         "location": "海外",
         "weapon": "staff"
@@ -2833,7 +2833,7 @@
         "name": "キャメロット城",
         "rarity": 7,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "その他",
         "weapon": "sword"
@@ -2843,7 +2843,7 @@
         "name": "金亀城",
         "rarity": 7,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "近畿",
         "weapon": "cannon"
@@ -2853,7 +2853,7 @@
         "name": "邯鄲",
         "rarity": 4,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "海外",
         "weapon": "gaunlets"
@@ -2863,8 +2863,8 @@
         "name": "勝竜寺城",
         "rarity": 6,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "近畿",
         "weapon": "dancing"
@@ -2874,8 +2874,8 @@
         "name": "ネスヴィジ城",
         "rarity": 6,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "海外",
         "weapon": "staff"
@@ -2885,8 +2885,8 @@
         "name": "府内城",
         "rarity": 6,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "九州",
         "weapon": "sword"
@@ -2896,7 +2896,7 @@
         "name": "スピシュ城",
         "rarity": 5,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "海外",
         "weapon": "staff"
@@ -2906,7 +2906,7 @@
         "name": "［端午］多賀城",
         "rarity": 6,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "東北",
         "weapon": "crossbow"
@@ -2916,8 +2916,8 @@
         "name": "ペテルゴフ宮殿",
         "rarity": 7,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "海外",
         "weapon": "hammer"
@@ -2927,8 +2927,8 @@
         "name": "ケルフィリー城",
         "rarity": 6,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "海外",
         "weapon": "shield"
@@ -2938,7 +2938,7 @@
         "name": "郡上八幡城",
         "rarity": 5,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "東海",
         "weapon": "hammer"
@@ -2948,7 +2948,7 @@
         "name": "近江八幡城",
         "rarity": 5,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "近畿",
         "weapon": "dancing"
@@ -2958,8 +2958,8 @@
         "name": "兵庫城",
         "rarity": 6,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "近畿",
         "weapon": "cannon"
@@ -2969,7 +2969,7 @@
         "name": "金華山城",
         "rarity": 6,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "東海",
         "weapon": "spear"
@@ -2979,7 +2979,7 @@
         "name": "高取城",
         "rarity": 5,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "近畿",
         "weapon": "spell"
@@ -2989,7 +2989,7 @@
         "name": "ロンドン塔",
         "rarity": 7,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "海外",
         "weapon": "crossbow"
@@ -2999,8 +2999,8 @@
         "name": "［花嫁衣装］アンボワーズ城",
         "rarity": 6,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "海外",
         "weapon": "bell"
@@ -3010,7 +3010,7 @@
         "name": "カゼルタ宮殿",
         "rarity": 6,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "海外",
         "weapon": "dancing"
@@ -3020,7 +3020,7 @@
         "name": "十河城",
         "rarity": 6,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "四国",
         "weapon": "throwing"
@@ -3030,7 +3030,7 @@
         "name": "高崎城",
         "rarity": 4,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "関東",
         "weapon": "spear"
@@ -3040,8 +3040,8 @@
         "name": "ダノター城",
         "rarity": 7,
         "terrains": [
-            "平山",
-            "水"
+            "hill",
+            "water"
         ],
         "location": "海外",
         "weapon": "bow"
@@ -3051,7 +3051,7 @@
         "name": "鉢形城",
         "rarity": 6,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "関東",
         "weapon": "hammer"
@@ -3061,7 +3061,7 @@
         "name": "二本松城",
         "rarity": 6,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "東北",
         "weapon": "cannon"
@@ -3071,7 +3071,7 @@
         "name": "長谷堂城",
         "rarity": 5,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "東北",
         "weapon": "dancing"
@@ -3081,7 +3081,7 @@
         "name": "城塞都市アンベール",
         "rarity": 6,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "海外",
         "weapon": "throwing"
@@ -3091,7 +3091,7 @@
         "name": "秋田城",
         "rarity": 5,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "東北",
         "weapon": "bow"
@@ -3101,7 +3101,7 @@
         "name": "［夏］シェーンブルン宮殿",
         "rarity": 7,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "海外",
         "weapon": "dancing"
@@ -3111,7 +3111,7 @@
         "name": "［夏］柳之御所",
         "rarity": 6,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "東北",
         "weapon": "bow"
@@ -3121,8 +3121,8 @@
         "name": "［夏］古河城",
         "rarity": 5,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "関東",
         "weapon": "crossbow"
@@ -3132,8 +3132,8 @@
         "name": "城塞都市トレド",
         "rarity": 6,
         "terrains": [
-            "平山",
-            "水"
+            "hill",
+            "water"
         ],
         "location": "海外",
         "weapon": "throwing"
@@ -3143,7 +3143,7 @@
         "name": "岩村城",
         "rarity": 5,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "東海",
         "weapon": "spear"
@@ -3153,7 +3153,7 @@
         "name": "マルクスブルク城",
         "rarity": 5,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "海外",
         "weapon": "shield"
@@ -3163,7 +3163,7 @@
         "name": "佐土原城",
         "rarity": 4,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "九州",
         "weapon": "hammer"
@@ -3173,7 +3173,7 @@
         "name": "成都城",
         "rarity": 7,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "海外",
         "weapon": "gaunlets"
@@ -3183,7 +3183,7 @@
         "name": "城塞都市アッシジ",
         "rarity": 6,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "海外",
         "weapon": "staff"
@@ -3193,7 +3193,7 @@
         "name": "川越城",
         "rarity": 6,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "関東",
         "weapon": "bell"
@@ -3203,7 +3203,7 @@
         "name": "掛川城",
         "rarity": 6,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "東海",
         "weapon": "crossbow"
@@ -3213,7 +3213,7 @@
         "name": "麗江古城",
         "rarity": 5,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "海外",
         "weapon": "gaunlets"
@@ -3223,7 +3223,7 @@
         "name": "ウチヒサル城",
         "rarity": 7,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "海外",
         "weapon": "staff"
@@ -3233,8 +3233,8 @@
         "name": "人吉城",
         "rarity": 6,
         "terrains": [
-            "平山",
-            "水"
+            "hill",
+            "water"
         ],
         "location": "九州",
         "weapon": "sword"
@@ -3244,7 +3244,7 @@
         "name": "上赤坂城",
         "rarity": 5,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "近畿",
         "weapon": "sword"
@@ -3254,8 +3254,8 @@
         "name": "尼崎城",
         "rarity": 4,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "近畿",
         "weapon": "hammer"
@@ -3265,7 +3265,7 @@
         "name": "チャンドラ・マハル",
         "rarity": 7,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "海外",
         "weapon": "throwing"
@@ -3275,7 +3275,7 @@
         "name": "膳所城",
         "rarity": 6,
         "terrains": [
-            "水"
+            "water"
         ],
         "location": "近畿",
         "weapon": "spear"
@@ -3285,7 +3285,7 @@
         "name": "松坂城",
         "rarity": 5,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "近畿",
         "weapon": "spear"
@@ -3295,7 +3295,7 @@
         "name": "琉球御城",
         "rarity": 7,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "沖縄",
         "weapon": "gaunlets"
@@ -3305,7 +3305,7 @@
         "name": "モーリッツブルク城",
         "rarity": 6,
         "terrains": [
-            "水"
+            "water"
         ],
         "location": "海外",
         "weapon": "crossbow"
@@ -3315,7 +3315,7 @@
         "name": "［聖夜］サンタンジェロ城",
         "rarity": 6,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "海外",
         "weapon": "shield"
@@ -3325,8 +3325,8 @@
         "name": "伊勢長島城",
         "rarity": 4,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "近畿",
         "weapon": "dancing"
@@ -3336,7 +3336,7 @@
         "name": "［正月］大坂城",
         "rarity": 7,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "近畿",
         "weapon": "dancing"
@@ -3346,7 +3346,7 @@
         "name": "［正月］姫路城",
         "rarity": 7,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "近畿",
         "weapon": "gun"
@@ -3356,7 +3356,7 @@
         "name": "今帰仁城",
         "rarity": 5,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "沖縄",
         "weapon": "gaunlets"
@@ -3366,7 +3366,7 @@
         "name": "竜宮城",
         "rarity": 7,
         "terrains": [
-            "水"
+            "water"
         ],
         "location": "その他",
         "weapon": "spear"
@@ -3376,7 +3376,7 @@
         "name": "米沢城",
         "rarity": 6,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "東北",
         "weapon": "crossbow"
@@ -3386,8 +3386,8 @@
         "name": "［バレンタイン］安土城",
         "rarity": 7,
         "terrains": [
-            "平山",
-            "水"
+            "hill",
+            "water"
         ],
         "location": "近畿",
         "weapon": "spell"
@@ -3397,7 +3397,7 @@
         "name": "エステンセ城",
         "rarity": 6,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "海外",
         "weapon": "dancing"
@@ -3407,7 +3407,7 @@
         "name": "百地丹波城",
         "rarity": 5,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "近畿",
         "weapon": "throwing"
@@ -3417,7 +3417,7 @@
         "name": "木幡山伏見城",
         "rarity": 7,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "近畿",
         "weapon": "bow"
@@ -3427,7 +3427,7 @@
         "name": "久能山城",
         "rarity": 6,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "東海",
         "weapon": "oonusa"
@@ -3437,7 +3437,7 @@
         "name": "芥川山城",
         "rarity": 6,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "近畿",
         "weapon": "spell"
@@ -3447,7 +3447,7 @@
         "name": "立花山城",
         "rarity": 6,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "九州",
         "weapon": "dancing"
@@ -3457,8 +3457,8 @@
         "name": "フレデリクスボー城",
         "rarity": 5,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "海外",
         "weapon": "bell"
@@ -3468,7 +3468,7 @@
         "name": "館山城",
         "rarity": 6,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "関東",
         "weapon": "sword"
@@ -3478,7 +3478,7 @@
         "name": "江戸城",
         "rarity": 7,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "関東",
         "weapon": "sword"
@@ -3488,7 +3488,7 @@
         "name": "金鯱城",
         "rarity": 7,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "東海",
         "weapon": "cannon"
@@ -3498,7 +3498,7 @@
         "name": "千代田城",
         "rarity": 6,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "関東",
         "weapon": "spear"
@@ -3508,7 +3508,7 @@
         "name": "甘崎城",
         "rarity": 5,
         "terrains": [
-            "水"
+            "water"
         ],
         "location": "四国",
         "weapon": "gaunlets"
@@ -3518,7 +3518,7 @@
         "name": "虎臥城",
         "rarity": 7,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "近畿",
         "weapon": "hammer"
@@ -3528,8 +3528,8 @@
         "name": "室町第",
         "rarity": 6,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "近畿",
         "weapon": "oonusa"
@@ -3539,7 +3539,7 @@
         "name": "ホーエンツォレルン城",
         "rarity": 5,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "海外",
         "weapon": "staff"
@@ -3549,8 +3549,8 @@
         "name": "菖蒲城",
         "rarity": 4,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "関東",
         "weapon": "sword"
@@ -3560,8 +3560,8 @@
         "name": "小峯城",
         "rarity": 7,
         "terrains": [
-            "平山",
-            "水"
+            "hill",
+            "water"
         ],
         "location": "関東",
         "weapon": "throwing"
@@ -3571,7 +3571,7 @@
         "name": "佐竹城",
         "rarity": 6,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "関東",
         "weapon": "gun"
@@ -3581,7 +3581,7 @@
         "name": "龍岡城",
         "rarity": 5,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "甲信越",
         "weapon": "cannon"
@@ -3591,7 +3591,7 @@
         "name": "コッヘム・ライヒスブルク城",
         "rarity": 5,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "海外",
         "weapon": "shield"
@@ -3601,7 +3601,7 @@
         "name": "許昌城",
         "rarity": 7,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "海外",
         "weapon": "shield"
@@ -3611,7 +3611,7 @@
         "name": "岡崎城",
         "rarity": 6,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "東海",
         "weapon": "spell"
@@ -3621,7 +3621,7 @@
         "name": "名胡桃城",
         "rarity": 5,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "関東",
         "weapon": "spear"
@@ -3631,7 +3631,7 @@
         "name": "千早城",
         "rarity": 7,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "近畿",
         "weapon": "bow"
@@ -3641,7 +3641,7 @@
         "name": "中城城",
         "rarity": 6,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "沖縄",
         "weapon": "gaunlets"
@@ -3651,7 +3651,7 @@
         "name": "延岡城",
         "rarity": 5,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "九州",
         "weapon": "bell"
@@ -3661,7 +3661,7 @@
         "name": "［花嫁衣装］秋田城",
         "rarity": 5,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "東北",
         "weapon": "bow"
@@ -3671,7 +3671,7 @@
         "name": "［花嫁衣装］ロンドン塔",
         "rarity": 7,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "海外",
         "weapon": "crossbow"
@@ -3681,7 +3681,7 @@
         "name": "［花嫁衣装］シノン城",
         "rarity": 6,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "海外",
         "weapon": "shield"
@@ -3691,7 +3691,7 @@
         "name": "閻魔庁",
         "rarity": 7,
         "terrains": [
-            "地"
+            "hell"
         ],
         "location": "その他",
         "weapon": "spell"
@@ -3701,7 +3701,7 @@
         "name": "大宰府",
         "rarity": 7,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "九州",
         "weapon": "oonusa"
@@ -3711,8 +3711,8 @@
         "name": "鶴島城",
         "rarity": 6,
         "terrains": [
-            "平山",
-            "水"
+            "hill",
+            "water"
         ],
         "location": "四国",
         "weapon": "sword"
@@ -3722,7 +3722,7 @@
         "name": "越中高岡城",
         "rarity": 5,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "北陸",
         "weapon": "gun"
@@ -3732,7 +3732,7 @@
         "name": "スフォルツェスコ城",
         "rarity": 5,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "海外",
         "weapon": "staff"
@@ -3742,7 +3742,7 @@
         "name": "山崎城",
         "rarity": 6,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "近畿",
         "weapon": "bow"
@@ -3752,7 +3752,7 @@
         "name": "オラヴィ城",
         "rarity": 7,
         "terrains": [
-            "水"
+            "water"
         ],
         "location": "海外",
         "weapon": "staff"
@@ -3762,7 +3762,7 @@
         "name": "吹揚城",
         "rarity": 6,
         "terrains": [
-            "水"
+            "water"
         ],
         "location": "四国",
         "weapon": "sword"
@@ -3772,7 +3772,7 @@
         "name": "［夏］浦添城",
         "rarity": 5,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "沖縄",
         "weapon": "bow"
@@ -3782,7 +3782,7 @@
         "name": "［夏］聚楽第",
         "rarity": 7,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "近畿",
         "weapon": "bow"
@@ -3792,7 +3792,7 @@
         "name": "［夏］真田丸",
         "rarity": 6,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "近畿",
         "weapon": "spear"
@@ -3802,7 +3802,7 @@
         "name": "［夏］富山城",
         "rarity": 5,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "北陸",
         "weapon": "gun"
@@ -3812,7 +3812,7 @@
         "name": "［肝試し］帰雲城",
         "rarity": 5,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "東海",
         "weapon": "sword"
@@ -3822,8 +3822,8 @@
         "name": "［肝試し］松江城",
         "rarity": 7,
         "terrains": [
-            "平山",
-            "水"
+            "hill",
+            "water"
         ],
         "location": "中国",
         "weapon": "spear"
@@ -3833,7 +3833,7 @@
         "name": "［肝試し］丸岡城",
         "rarity": 6,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "北陸",
         "weapon": "spell"
@@ -3843,7 +3843,7 @@
         "name": "［肝試し］八王子城",
         "rarity": 5,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "関東",
         "weapon": "spear"
@@ -3853,7 +3853,7 @@
         "name": "白石城",
         "rarity": 4,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "東北",
         "weapon": "oonusa"
@@ -3863,7 +3863,7 @@
         "name": "平安京",
         "rarity": 7,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "近畿",
         "weapon": "spear"
@@ -3873,7 +3873,7 @@
         "name": "スワローズ・ネスト",
         "rarity": 6,
         "terrains": [
-            "水"
+            "water"
         ],
         "location": "海外",
         "weapon": "staff"
@@ -3883,7 +3883,7 @@
         "name": "ハイデルベルク城",
         "rarity": 5,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "海外",
         "weapon": "dancing"
@@ -3893,7 +3893,7 @@
         "name": "サン・レーオ城",
         "rarity": 7,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "海外",
         "weapon": "cannon"
@@ -3903,8 +3903,8 @@
         "name": "鶴丸城",
         "rarity": 6,
         "terrains": [
-            "平山",
-            "水"
+            "hill",
+            "water"
         ],
         "location": "九州",
         "weapon": "hammer"
@@ -3914,7 +3914,7 @@
         "name": "平城京",
         "rarity": 7,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "近畿",
         "weapon": "bell"
@@ -3924,7 +3924,7 @@
         "name": "肥前名護屋城",
         "rarity": 7,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "九州",
         "weapon": "dancing"
@@ -3934,7 +3934,7 @@
         "name": "鶴ヶ城",
         "rarity": 6,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "東北",
         "weapon": "spell"
@@ -3944,7 +3944,7 @@
         "name": "阿波一宮城",
         "rarity": 5,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "四国",
         "weapon": "oonusa"
@@ -3954,7 +3954,7 @@
         "name": "［ハロウィン］万里の長城",
         "rarity": 7,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "海外",
         "weapon": "crossbow"
@@ -3964,8 +3964,8 @@
         "name": "［ハロウィン］ケルフィリー城",
         "rarity": 6,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "海外",
         "weapon": "shield"
@@ -3975,7 +3975,7 @@
         "name": "［ハロウィン］フランケンシュタイン城",
         "rarity": 5,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "海外",
         "weapon": "hammer"
@@ -3985,7 +3985,7 @@
         "name": "レーヴェンブルク城",
         "rarity": 5,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "海外",
         "weapon": "shield"
@@ -3995,7 +3995,7 @@
         "name": "駿河田中城",
         "rarity": 5,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "東海",
         "weapon": "bow"
@@ -4005,7 +4005,7 @@
         "name": "城塞都市ニュールンベルク",
         "rarity": 7,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "海外",
         "weapon": "staff"
@@ -4015,7 +4015,7 @@
         "name": "平井城",
         "rarity": 6,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "関東",
         "weapon": "spear"
@@ -4025,8 +4025,8 @@
         "name": "ドーヴァー城",
         "rarity": 5,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "海外",
         "weapon": "cannon"
@@ -4036,8 +4036,8 @@
         "name": "コンシェルジュリー",
         "rarity": 7,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "海外",
         "weapon": "sword"
@@ -4047,8 +4047,8 @@
         "name": "扇城",
         "rarity": 6,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "九州",
         "weapon": "throwing"
@@ -4058,7 +4058,7 @@
         "name": "新発田城",
         "rarity": 5,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "甲信越",
         "weapon": "spear"
@@ -4068,7 +4068,7 @@
         "name": "足利氏館",
         "rarity": 7,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "関東",
         "weapon": "spell"
@@ -4078,7 +4078,7 @@
         "name": "ハーレック城",
         "rarity": 6,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "海外",
         "weapon": "shield"
@@ -4088,7 +4088,7 @@
         "name": "岸和田城",
         "rarity": 5,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "近畿",
         "weapon": "crossbow"
@@ -4098,7 +4098,7 @@
         "name": "［聖夜］エステンセ城",
         "rarity": 5,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "海外",
         "weapon": "dancing"
@@ -4108,8 +4108,8 @@
         "name": "［聖夜］ダノター城",
         "rarity": 7,
         "terrains": [
-            "平山",
-            "水"
+            "hill",
+            "water"
         ],
         "location": "海外",
         "weapon": "bow"
@@ -4119,7 +4119,7 @@
         "name": "［聖夜］モン・サン＝ミッシェル",
         "rarity": 7,
         "terrains": [
-            "水"
+            "water"
         ],
         "location": "海外",
         "weapon": "dancing"
@@ -4129,8 +4129,8 @@
         "name": "［聖夜］城塞都市トレド",
         "rarity": 6,
         "terrains": [
-            "平山",
-            "水"
+            "hill",
+            "water"
         ],
         "location": "海外",
         "weapon": "throwing"
@@ -4140,7 +4140,7 @@
         "name": "新高山城",
         "rarity": 6,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "中国",
         "weapon": "crossbow"
@@ -4150,7 +4150,7 @@
         "name": "置塩城",
         "rarity": 5,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "近畿",
         "weapon": "gun"
@@ -4160,8 +4160,8 @@
         "name": "赤穂城",
         "rarity": 4,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "近畿",
         "weapon": "sword"
@@ -4171,7 +4171,7 @@
         "name": "結城城",
         "rarity": 4,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "関東",
         "weapon": "spear"
@@ -4181,7 +4181,7 @@
         "name": "唐津城",
         "rarity": 3,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "九州",
         "weapon": "hammer"
@@ -4191,7 +4191,7 @@
         "name": "トームペア城",
         "rarity": 4,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "海外",
         "weapon": "shield"
@@ -4201,7 +4201,7 @@
         "name": "美作一ノ瀬城",
         "rarity": 4,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "中国",
         "weapon": "gaunlets"
@@ -4211,7 +4211,7 @@
         "name": "千賀地氏城",
         "rarity": 4,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "近畿",
         "weapon": "throwing"
@@ -4221,7 +4221,7 @@
         "name": "葛根城",
         "rarity": 4,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "東北",
         "weapon": "bow"
@@ -4231,7 +4231,7 @@
         "name": "椿尾上城",
         "rarity": 3,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "近畿",
         "weapon": "gun"
@@ -4241,7 +4241,7 @@
         "name": "多気城",
         "rarity": 3,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "関東",
         "weapon": "crossbow"
@@ -4251,7 +4251,7 @@
         "name": "洲本城",
         "rarity": 4,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "近畿",
         "weapon": "cannon"
@@ -4261,7 +4261,7 @@
         "name": "一条小山城",
         "rarity": 4,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "甲信越",
         "weapon": "dancing"
@@ -4271,7 +4271,7 @@
         "name": "佐倉城",
         "rarity": 3,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "関東",
         "weapon": "spell"
@@ -4281,7 +4281,7 @@
         "name": "浪岡城",
         "rarity": 4,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "東北",
         "weapon": "bell"
@@ -4291,7 +4291,7 @@
         "name": "日暮城",
         "rarity": 4,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "九州",
         "weapon": "staff"
@@ -4301,7 +4301,7 @@
         "name": "神辺城",
         "rarity": 4,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "中国",
         "weapon": "oonusa"
@@ -4311,7 +4311,7 @@
         "name": "［正月］五稜郭",
         "rarity": 7,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "北海道",
         "weapon": "cannon"
@@ -4321,7 +4321,7 @@
         "name": "［正月］宇都宮城",
         "rarity": 5,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "関東",
         "weapon": "spell"
@@ -4331,8 +4331,8 @@
         "name": "［正月］小田原城",
         "rarity": 7,
         "terrains": [
-            "平山",
-            "水"
+            "hill",
+            "water"
         ],
         "location": "関東",
         "weapon": "gun"
@@ -4342,7 +4342,7 @@
         "name": "［正月］竹田城",
         "rarity": 6,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "近畿",
         "weapon": "spell"
@@ -4352,7 +4352,7 @@
         "name": "［正月］柳川城",
         "rarity": 5,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "九州",
         "weapon": "crossbow"
@@ -4362,7 +4362,7 @@
         "name": "都於郡城",
         "rarity": 6,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "九州",
         "weapon": "dancing"
@@ -4372,7 +4372,7 @@
         "name": "徳丹城",
         "rarity": 4,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "東北",
         "weapon": "spell"
@@ -4382,7 +4382,7 @@
         "name": "二条亭",
         "rarity": 7,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "近畿",
         "weapon": "spear"
@@ -4392,7 +4392,7 @@
         "name": "黒井城",
         "rarity": 6,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "近畿",
         "weapon": "hammer"
@@ -4402,7 +4402,7 @@
         "name": "エーリューズニル",
         "rarity": 7,
         "terrains": [
-            "地"
+            "hell"
         ],
         "location": "その他",
         "weapon": "throwing"
@@ -4412,7 +4412,7 @@
         "name": "アーケシュフース城",
         "rarity": 7,
         "terrains": [
-            "水"
+            "water"
         ],
         "location": "海外",
         "weapon": "cannon"
@@ -4422,7 +4422,7 @@
         "name": "白帝城",
         "rarity": 6,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "海外",
         "weapon": "book"
@@ -4432,7 +4432,7 @@
         "name": "魚津城",
         "rarity": 5,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "北陸",
         "weapon": "crossbow"
@@ -4442,8 +4442,8 @@
         "name": "［バレンタイン］大洲城",
         "rarity": 5,
         "terrains": [
-            "平山",
-            "水"
+            "hill",
+            "water"
         ],
         "location": "中国",
         "weapon": "hammer"
@@ -4453,8 +4453,8 @@
         "name": "［バレンタイン］シャンボール城",
         "rarity": 7,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "海外",
         "weapon": "spear"
@@ -4464,7 +4464,7 @@
         "name": "［バレンタイン］城塞都市カルカソンヌ",
         "rarity": 7,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "海外",
         "weapon": "shield"
@@ -4474,8 +4474,8 @@
         "name": "［バレンタイン］小倉城",
         "rarity": 6,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "九州",
         "weapon": "cannon"
@@ -4485,8 +4485,8 @@
         "name": "［バレンタイン］高島城",
         "rarity": 5,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "甲信越",
         "weapon": "bell"
@@ -4496,7 +4496,7 @@
         "name": "志波城",
         "rarity": 5,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "東北",
         "weapon": "crossbow"
@@ -4506,7 +4506,7 @@
         "name": "アテナイ・アクロポリス",
         "rarity": 7,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "海外",
         "weapon": "staff"
@@ -4516,7 +4516,7 @@
         "name": "鮫ヶ尾城",
         "rarity": 6,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "甲信越",
         "weapon": "crossbow"
@@ -4526,7 +4526,7 @@
         "name": "箕輪城",
         "rarity": 5,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "関東",
         "weapon": "sword"
@@ -4536,7 +4536,7 @@
         "name": "足利学校",
         "rarity": 5,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "関東",
         "weapon": "book"
@@ -4546,7 +4546,7 @@
         "name": "バベルの塔",
         "rarity": 7,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "その他",
         "weapon": "cannon"
@@ -4556,7 +4556,7 @@
         "name": "勝幡城",
         "rarity": 6,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "東海",
         "weapon": "spear"
@@ -4566,7 +4566,7 @@
         "name": "要害山城",
         "rarity": 6,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "甲信越",
         "weapon": "hammer"
@@ -4576,7 +4576,7 @@
         "name": "甲府城",
         "rarity": 7,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "甲信越",
         "weapon": "book"
@@ -4586,7 +4586,7 @@
         "name": "墨俣一夜城",
         "rarity": 7,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "東海",
         "weapon": "oonusa"
@@ -4596,7 +4596,7 @@
         "name": "唐沢山城",
         "rarity": 6,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "関東",
         "weapon": "sword"
@@ -4606,7 +4606,7 @@
         "name": "若桜鬼ヶ城",
         "rarity": 5,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "中国",
         "weapon": "spell"
@@ -4616,7 +4616,7 @@
         "name": "玉縄城",
         "rarity": 6,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "関東",
         "weapon": "dancing"
@@ -4626,8 +4626,8 @@
         "name": "栗橋城",
         "rarity": 5,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "関東",
         "weapon": "crossbow"
@@ -4637,7 +4637,7 @@
         "name": "月山城",
         "rarity": 7,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "中国",
         "weapon": "throwing"
@@ -4647,7 +4647,7 @@
         "name": "伊豆下田城",
         "rarity": 6,
         "terrains": [
-            "水"
+            "water"
         ],
         "location": "東海",
         "weapon": "gaunlets"
@@ -4657,8 +4657,8 @@
         "name": "カステル・ヴェッキオ",
         "rarity": 5,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "海外",
         "weapon": "dancing"
@@ -4668,8 +4668,8 @@
         "name": "江尻城",
         "rarity": 4,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "東海",
         "weapon": "spear"
@@ -4679,7 +4679,7 @@
         "name": "ラピュータ",
         "rarity": 7,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "その他",
         "weapon": "gun"
@@ -4689,7 +4689,7 @@
         "name": "カステル・ヌオーヴォ",
         "rarity": 6,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "海外",
         "weapon": "hammer"
@@ -4699,7 +4699,7 @@
         "name": "城塞都市ルシュノフ",
         "rarity": 5,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "海外",
         "weapon": "book"
@@ -4709,8 +4709,8 @@
         "name": "城塞都市ドゥブロヴニク",
         "rarity": 7,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "海外",
         "weapon": "cannon"
@@ -4720,7 +4720,7 @@
         "name": "鞠智城",
         "rarity": 6,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "九州",
         "weapon": "sword"
@@ -4730,7 +4730,7 @@
         "name": "湯築城",
         "rarity": 5,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "四国",
         "weapon": "spell"
@@ -4740,7 +4740,7 @@
         "name": "高鍋城",
         "rarity": 5,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "九州",
         "weapon": "book"
@@ -4750,7 +4750,7 @@
         "name": "ストラホフ修道院",
         "rarity": 7,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "海外",
         "weapon": "book"
@@ -4760,7 +4760,7 @@
         "name": "コーブルク城",
         "rarity": 6,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "海外",
         "weapon": "shield"
@@ -4770,7 +4770,7 @@
         "name": "リンディスファーン城",
         "rarity": 5,
         "terrains": [
-            "水"
+            "water"
         ],
         "location": "海外",
         "weapon": "bell"
@@ -4780,7 +4780,7 @@
         "name": "城塞都市ローテンブルク",
         "rarity": 6,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "海外",
         "weapon": "whip"
@@ -4790,7 +4790,7 @@
         "name": "［花嫁衣装］山形城",
         "rarity": 5,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "東北",
         "weapon": "sword"
@@ -4800,7 +4800,7 @@
         "name": "［花嫁衣装］チャンドラ・マハル",
         "rarity": 7,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "海外",
         "weapon": "throwing"
@@ -4810,8 +4810,8 @@
         "name": "［花嫁衣装］萩城",
         "rarity": 6,
         "terrains": [
-            "平山",
-            "水"
+            "hill",
+            "water"
         ],
         "location": "中国",
         "weapon": "gun"
@@ -4821,7 +4821,7 @@
         "name": "［花嫁衣装］新田金山城",
         "rarity": 6,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "関東",
         "weapon": "bell"
@@ -4831,7 +4831,7 @@
         "name": "［花嫁衣装］アイリーン・ドナン城",
         "rarity": 5,
         "terrains": [
-            "水"
+            "water"
         ],
         "location": "海外",
         "weapon": "staff"
@@ -4841,7 +4841,7 @@
         "name": "［夏］首里城",
         "rarity": 6,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "沖縄",
         "weapon": "sword"
@@ -4851,7 +4851,7 @@
         "name": "［夏］甘崎城",
         "rarity": 5,
         "terrains": [
-            "水"
+            "water"
         ],
         "location": "四国",
         "weapon": "gaunlets"
@@ -4861,8 +4861,8 @@
         "name": "［夏］安平城",
         "rarity": 7,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "海外",
         "weapon": "gun"
@@ -4872,7 +4872,7 @@
         "name": "［夏］紫禁城",
         "rarity": 7,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "海外",
         "weapon": "gaunlets"
@@ -4882,8 +4882,8 @@
         "name": "［夏］久留米城",
         "rarity": 6,
         "terrains": [
-            "平山",
-            "水"
+            "hill",
+            "water"
         ],
         "location": "九州",
         "weapon": "gun"
@@ -4893,7 +4893,7 @@
         "name": "［夏］立花山城",
         "rarity": 6,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "九州",
         "weapon": "dancing"
@@ -4903,7 +4903,7 @@
         "name": "［夏］柳川城",
         "rarity": 5,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "九州",
         "weapon": "crossbow"
@@ -4913,7 +4913,7 @@
         "name": "［夏］延岡城",
         "rarity": 5,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "九州",
         "weapon": "bell"
@@ -4923,8 +4923,8 @@
         "name": "敦賀城",
         "rarity": 4,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "北陸",
         "weapon": "sword"
@@ -4934,7 +4934,7 @@
         "name": "白鳳城",
         "rarity": 7,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "近畿",
         "weapon": "throwing"
@@ -4944,7 +4944,7 @@
         "name": "佐柿国吉城",
         "rarity": 6,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "北陸",
         "weapon": "crossbow"
@@ -4954,7 +4954,7 @@
         "name": "沼田城",
         "rarity": 5,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "関東",
         "weapon": "bell"
@@ -4964,8 +4964,8 @@
         "name": "不夜城",
         "rarity": 7,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "海外",
         "weapon": "gaunlets"
@@ -4975,7 +4975,7 @@
         "name": "エゲル城",
         "rarity": 6,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "海外",
         "weapon": "whip"
@@ -4985,8 +4985,8 @@
         "name": "名島城",
         "rarity": 5,
         "terrains": [
-            "平山",
-            "水"
+            "hill",
+            "water"
         ],
         "location": "九州",
         "weapon": "spell"
@@ -4996,7 +4996,7 @@
         "name": "［肝試し］三木城",
         "rarity": 5,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "近畿",
         "weapon": "hammer"
@@ -5006,7 +5006,7 @@
         "name": "［肝試し］足利氏館",
         "rarity": 7,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "関東",
         "weapon": "spell"
@@ -5016,7 +5016,7 @@
         "name": "［肝試し］川越城",
         "rarity": 6,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "関東",
         "weapon": "bell"
@@ -5026,8 +5026,8 @@
         "name": "［肝試し］平戸城",
         "rarity": 6,
         "terrains": [
-            "平山",
-            "水"
+            "hill",
+            "water"
         ],
         "location": "九州",
         "weapon": "spell"
@@ -5037,7 +5037,7 @@
         "name": "津軽鷹岡城",
         "rarity": 6,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "東北",
         "weapon": "spear"
@@ -5047,7 +5047,7 @@
         "name": "近江望月城",
         "rarity": 5,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "近畿",
         "weapon": "throwing"
@@ -5057,7 +5057,7 @@
         "name": "プファルツ城",
         "rarity": 5,
         "terrains": [
-            "水"
+            "water"
         ],
         "location": "海外",
         "weapon": "cannon"
@@ -5067,7 +5067,7 @@
         "name": "ホッホオスターヴィッツ城",
         "rarity": 7,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "海外",
         "weapon": "shield"
@@ -5077,7 +5077,7 @@
         "name": "モースハム城",
         "rarity": 6,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "海外",
         "weapon": "whip"
@@ -5087,8 +5087,8 @@
         "name": "大津城",
         "rarity": 5,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "近畿",
         "weapon": "hammer"
@@ -5098,7 +5098,7 @@
         "name": "霞城",
         "rarity": 7,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "東北",
         "weapon": "gun"
@@ -5108,7 +5108,7 @@
         "name": "桑名城",
         "rarity": 6,
         "terrains": [
-            "水"
+            "water"
         ],
         "location": "近畿",
         "weapon": "spear"
@@ -5118,7 +5118,7 @@
         "name": "［お月見］備中高松城",
         "rarity": 5,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "中国",
         "weapon": "sword"
@@ -5128,7 +5128,7 @@
         "name": "月の都",
         "rarity": 7,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "その他",
         "weapon": "bow"
@@ -5138,7 +5138,7 @@
         "name": "［お月見］新宮城",
         "rarity": 6,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "近畿",
         "weapon": "spell"
@@ -5148,7 +5148,7 @@
         "name": "［お月見］津城",
         "rarity": 6,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "近畿",
         "weapon": "hammer"
@@ -5158,8 +5158,8 @@
         "name": "冬宮殿",
         "rarity": 7,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "海外",
         "weapon": "book"
@@ -5169,7 +5169,7 @@
         "name": "大宮城",
         "rarity": 6,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "東海",
         "weapon": "oonusa"
@@ -5179,7 +5179,7 @@
         "name": "岩剣城",
         "rarity": 6,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "九州",
         "weapon": "sword"
@@ -5189,7 +5189,7 @@
         "name": "［ハロウィン］平遥古城",
         "rarity": 5,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "海外",
         "weapon": "gaunlets"
@@ -5199,7 +5199,7 @@
         "name": "［ハロウィン］ブラン城",
         "rarity": 7,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "海外",
         "weapon": "sword"
@@ -5209,7 +5209,7 @@
         "name": "［ハロウィン］ヴェルサイユ宮殿",
         "rarity": 7,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "海外",
         "weapon": "staff"
@@ -5219,8 +5219,8 @@
         "name": "［ハロウィン］安平古堡",
         "rarity": 6,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "海外",
         "weapon": "cannon"
@@ -5230,7 +5230,7 @@
         "name": "リヒテンシュタイン城",
         "rarity": 7,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "海外",
         "weapon": "spear"
@@ -5240,8 +5240,8 @@
         "name": "シャンティイ城",
         "rarity": 6,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "海外",
         "weapon": "book"
@@ -5251,7 +5251,7 @@
         "name": "リープ城",
         "rarity": 5,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "海外",
         "weapon": "whip"
@@ -5261,7 +5261,7 @@
         "name": "ベリー・ポメロイ城",
         "rarity": 4,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "海外",
         "weapon": "whip"
@@ -5271,8 +5271,8 @@
         "name": "城塞都市コトル",
         "rarity": 7,
         "terrains": [
-            "山",
-            "水"
+            "mountain",
+            "water"
         ],
         "location": "海外",
         "weapon": "bell"
@@ -5282,7 +5282,7 @@
         "name": "真岡城",
         "rarity": 6,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "関東",
         "weapon": "gaunlets"
@@ -5292,7 +5292,7 @@
         "name": "大野城",
         "rarity": 5,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "九州",
         "weapon": "oonusa"
@@ -5302,7 +5302,7 @@
         "name": "胆沢城",
         "rarity": 6,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "東北",
         "weapon": "spell"
@@ -5312,7 +5312,7 @@
         "name": "カルルシュテイン城",
         "rarity": 7,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "海外",
         "weapon": "book"
@@ -5322,8 +5322,8 @@
         "name": "雨城",
         "rarity": 6,
         "terrains": [
-            "平山",
-            "水"
+            "hill",
+            "water"
         ],
         "location": "九州",
         "weapon": "staff"
@@ -5333,7 +5333,7 @@
         "name": "［聖夜］四稜郭",
         "rarity": 5,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "北海道",
         "weapon": "gun"
@@ -5343,7 +5343,7 @@
         "name": "［聖夜］スピシュ城",
         "rarity": 6,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "海外",
         "weapon": "staff"
@@ -5353,7 +5353,7 @@
         "name": "［聖夜］プラハ城",
         "rarity": 7,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "海外",
         "weapon": "staff"
@@ -5363,8 +5363,8 @@
         "name": "［聖夜］フレデリクスボー城",
         "rarity": 6,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "海外",
         "weapon": "bell"
@@ -5374,7 +5374,7 @@
         "name": "［絢爛］大坂城",
         "rarity": 7,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "近畿",
         "weapon": "dancing"
@@ -5384,8 +5384,8 @@
         "name": "［絢爛］福岡城",
         "rarity": 7,
         "terrains": [
-            "平山",
-            "水"
+            "hill",
+            "water"
         ],
         "location": "九州",
         "weapon": "crossbow"
@@ -5395,7 +5395,7 @@
         "name": "［絢爛］小谷城",
         "rarity": 7,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "近畿",
         "weapon": "spear"
@@ -5405,7 +5405,7 @@
         "name": "花巻城",
         "rarity": 5,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "東北",
         "weapon": "gaunlets"
@@ -5415,7 +5415,7 @@
         "name": "［正月］福山城",
         "rarity": 6,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "中国",
         "weapon": "sword"
@@ -5425,7 +5425,7 @@
         "name": "［正月］一条小山城",
         "rarity": 5,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "甲信越",
         "weapon": "dancing"
@@ -5435,7 +5435,7 @@
         "name": "［正月］甲府城",
         "rarity": 7,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "甲信越",
         "weapon": "book"
@@ -5445,8 +5445,8 @@
         "name": "［正月］小峯城",
         "rarity": 7,
         "terrains": [
-            "平山",
-            "水"
+            "hill",
+            "water"
         ],
         "location": "関東",
         "weapon": "throwing"
@@ -5456,7 +5456,7 @@
         "name": "［正月］天童城",
         "rarity": 6,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "東北",
         "weapon": "bell"
@@ -5466,7 +5466,7 @@
         "name": "マチュ・ピチュ",
         "rarity": 7,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "海外",
         "weapon": "dancing"
@@ -5476,7 +5476,7 @@
         "name": "七飯台場",
         "rarity": 6,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "北海道",
         "weapon": "gaunlets"
@@ -5486,8 +5486,8 @@
         "name": "飯沼城",
         "rarity": 5,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "関東",
         "weapon": "throwing"
@@ -5497,8 +5497,8 @@
         "name": "鬼ヶ島",
         "rarity": 7,
         "terrains": [
-            "平山",
-            "水"
+            "hill",
+            "water"
         ],
         "location": "その他",
         "weapon": "hammer"
@@ -5508,8 +5508,8 @@
         "name": "グラーフェンステーン",
         "rarity": 6,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "海外",
         "weapon": "whip"
@@ -5519,7 +5519,7 @@
         "name": "［バレンタイン］与板城",
         "rarity": 5,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "甲信越",
         "weapon": "sword"
@@ -5529,7 +5529,7 @@
         "name": "［バレンタイン］十河城",
         "rarity": 6,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "四国",
         "weapon": "throwing"
@@ -5539,7 +5539,7 @@
         "name": "［バレンタイン］成都城",
         "rarity": 7,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "海外",
         "weapon": "gaunlets"
@@ -5549,8 +5549,8 @@
         "name": "［バレンタイン］シュノンソー城",
         "rarity": 6,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "海外",
         "weapon": "staff"
@@ -5560,8 +5560,8 @@
         "name": "小丸山城",
         "rarity": 5,
         "terrains": [
-            "平山",
-            "水"
+            "hill",
+            "water"
         ],
         "location": "北陸",
         "weapon": "spear"
@@ -5571,7 +5571,7 @@
         "name": "ムーア城",
         "rarity": 5,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "海外",
         "weapon": "whip"
@@ -5581,7 +5581,7 @@
         "name": "蜂ヶ峰城",
         "rarity": 7,
         "terrains": [
-            "山"
+            "mountain"
         ],
         "location": "甲信越",
         "weapon": "oonusa"
@@ -5591,7 +5591,7 @@
         "name": "湯島聖堂",
         "rarity": 6,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "関東",
         "weapon": "book"
@@ -5601,7 +5601,7 @@
         "name": "鷹城",
         "rarity": 7,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "四国",
         "weapon": "spear"
@@ -5611,8 +5611,8 @@
         "name": "麋城",
         "rarity": 6,
         "terrains": [
-            "平",
-            "水"
+            "plain",
+            "water"
         ],
         "location": "東海",
         "weapon": "gun"
@@ -5622,7 +5622,7 @@
         "name": "元和江戸城",
         "rarity": 6,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "関東",
         "weapon": "oonusa"
@@ -5632,7 +5632,7 @@
         "name": "寛永江戸城",
         "rarity": 7,
         "terrains": [
-            "平"
+            "plain"
         ],
         "location": "関東",
         "weapon": "whip"
@@ -5642,7 +5642,7 @@
         "name": "白鷺城",
         "rarity": 7,
         "terrains": [
-            "平山"
+            "hill"
         ],
         "location": "近畿",
         "weapon": "scythe"
@@ -5652,7 +5652,7 @@
         "name": "前田利家",
         "rarity": 6,
         "terrains": [
-            "無"
+            "none"
         ],
         "location": "北陸",
         "weapon": "spear"
@@ -5662,7 +5662,7 @@
         "name": "黒田長政",
         "rarity": 6,
         "terrains": [
-            "無"
+            "none"
         ],
         "location": "九州",
         "weapon": "cannon"
@@ -5672,7 +5672,7 @@
         "name": "鹿目まどか",
         "rarity": 7,
         "terrains": [
-            "無"
+            "none"
         ],
         "location": "異界",
         "weapon": "other"
@@ -5682,7 +5682,7 @@
         "name": "暁美ほむら",
         "rarity": 6,
         "terrains": [
-            "無"
+            "none"
         ],
         "location": "異界",
         "weapon": "other"
@@ -5692,7 +5692,7 @@
         "name": "巴マミ",
         "rarity": 6,
         "terrains": [
-            "無"
+            "none"
         ],
         "location": "異界",
         "weapon": "other"
@@ -5702,7 +5702,7 @@
         "name": "佐倉杏子",
         "rarity": 6,
         "terrains": [
-            "無"
+            "none"
         ],
         "location": "異界",
         "weapon": "other"
@@ -5712,7 +5712,7 @@
         "name": "美樹さやか",
         "rarity": 5,
         "terrains": [
-            "無"
+            "none"
         ],
         "location": "異界",
         "weapon": "other"
@@ -5722,7 +5722,7 @@
         "name": "アクア",
         "rarity": 7,
         "terrains": [
-            "無"
+            "none"
         ],
         "location": "異界",
         "weapon": "other"
@@ -5732,7 +5732,7 @@
         "name": "めぐみん",
         "rarity": 6,
         "terrains": [
-            "無"
+            "none"
         ],
         "location": "異界",
         "weapon": "other"
@@ -5742,7 +5742,7 @@
         "name": "ダクネス",
         "rarity": 6,
         "terrains": [
-            "無"
+            "none"
         ],
         "location": "異界",
         "weapon": "other"
@@ -5752,7 +5752,7 @@
         "name": "ウィズ",
         "rarity": 6,
         "terrains": [
-            "無"
+            "none"
         ],
         "location": "異界",
         "weapon": "other"
@@ -5762,7 +5762,7 @@
         "name": "ゆんゆん",
         "rarity": 5,
         "terrains": [
-            "無"
+            "none"
         ],
         "location": "異界",
         "weapon": "other"
@@ -5772,7 +5772,7 @@
         "name": "紅月カレン",
         "rarity": 7,
         "terrains": [
-            "無"
+            "none"
         ],
         "location": "異界",
         "weapon": "other"
@@ -5782,7 +5782,7 @@
         "name": "アーニャ・アールストレイム",
         "rarity": 6,
         "terrains": [
-            "無"
+            "none"
         ],
         "location": "異界",
         "weapon": "other"
@@ -5792,7 +5792,7 @@
         "name": "C.C.",
         "rarity": 5,
         "terrains": [
-            "無"
+            "none"
         ],
         "location": "異界",
         "weapon": "other"
@@ -5802,7 +5802,7 @@
         "name": "牧瀬紅莉栖",
         "rarity": 7,
         "terrains": [
-            "無"
+            "none"
         ],
         "location": "異界",
         "weapon": "other"
@@ -5812,7 +5812,7 @@
         "name": "阿万音鈴羽",
         "rarity": 6,
         "terrains": [
-            "無"
+            "none"
         ],
         "location": "異界",
         "weapon": "other"
@@ -5822,7 +5822,7 @@
         "name": "フェイリス",
         "rarity": 5,
         "terrains": [
-            "無"
+            "none"
         ],
         "location": "異界",
         "weapon": "other"
