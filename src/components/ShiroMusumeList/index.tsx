@@ -2,23 +2,85 @@
  * @format
  */
 
-import { useContext } from "react";
+import { useContext, useState } from "react";
 import { makeStyles } from "@material-ui/core/styles";
 import GlobalContext from "../../GlobalContext";
 import ShiroMusumeItem from "./ShiroMusumeItem";
+import ShiroMusumeFilter from "./ShiroMusumeFilter";
 
 export default function ShiroMusumeList() {
   const classes = useStyles();
   const context = useContext(GlobalContext);
 
+  const [rarityFilter, setRarityFilter] = useState([]);
+  const [terrainFilter, setTerrainFilter] = useState([]);
+  const [weaponFilter, setWeaponFilter] = useState([]);
+  const [locationFilter, setLocationFilter] = useState([]);
+
+  const rarities = [];
+  for (var r = 1; r <= 7; r++) {
+    rarities.push({
+      id: r.toString(),
+      name: "★ " + r.toString(),
+    });
+  }
+
+  function createSelectionHandler(filter, setter) {
+    return (function(id) {
+      const needsPush = !filter.includes(id);
+      const newFilter = filter.filter(f => (f !== id));
+      if (needsPush)
+        newFilter.push(id);
+      setter(newFilter);
+    });
+  }
+
   return (
     <div className={classes.container}>
       <div className={classes.filtersContainer}>
+        <ShiroMusumeFilter
+          filters={context.terrains}
+          selections={terrainFilter}
+          imageUriBase="/terrain_images"
+          onSelect={createSelectionHandler(terrainFilter, setTerrainFilter)}
+        />
+        <div className={classes.divider} />
+        <ShiroMusumeFilter
+          filters={context.weapons}
+          selections={weaponFilter}
+          imageUriBase="/weapon_images"
+          backgroundColor="darkgray"
+          onSelect={createSelectionHandler(weaponFilter, setWeaponFilter)}
+        />
+        <div className={classes.divider} />
+        <ShiroMusumeFilter
+          filters={rarities}
+          selections={rarityFilter}
+          backgroundColor="rgb(200, 120, 60)"
+          onSelect={createSelectionHandler(rarityFilter, setRarityFilter)}
+        />
+        <div className={classes.divider} />
+        <ShiroMusumeFilter
+          filters={context.locations}
+          selections={locationFilter}
+          backgroundColor="rgb(80, 100, 160)"
+          onSelect={createSelectionHandler(locationFilter, setLocationFilter)}
+        />
       </div>
       <div className={classes.itemsContainer}>
-        {context.musumes.map((musume) => (
-          <ShiroMusumeItem key={musume.id} musume={musume} />
-        ))}
+        {context.musumes.filter(musume => {
+            if (terrainFilter.length === 0) return true;
+            return musume.terrains.filter(t=>terrainFilter.includes(t)).length !== 0;
+          }).filter(musume => (
+            weaponFilter.length === 0 || weaponFilter.includes(musume.weapon)
+          )).filter(musume => (
+            rarityFilter.length === 0 || rarityFilter.includes(musume.rarity.toString())
+          )).filter(musume => (
+            locationFilter.length === 0 || locationFilter.includes(musume.location)
+          )).map((musume) => (
+            <ShiroMusumeItem key={musume.id} musume={musume} />
+          )
+        )}
       </div>
     </div>
   );
@@ -34,13 +96,28 @@ const useStyles = makeStyles({
   },
   filtersContainer: {
     minHeight: "0px",
-    minWidth: "20px",
+    minWidth: "40px",
     height: "100%",
-    width: "20px",
+    width: "40px",
     borderRightStyle: "solid",
     borderRightColor: "gray",
     borderRightWidth: "1px",
     overflowY: "auto",
+    overflowX: "hidden",
+    display: "flex",
+    flexDirection: "column",
+    alignItems: "center",
+    "&::-webkit-scrollbar": {
+      width: "0px"
+    },
+  },
+  divider: {
+    marginTop: "3px",
+    marginBottom: "3px",
+    minHeight: "1px",
+    height: "1px",
+    backgroundColor: "transparent",
+    width: "100%",
   },
   itemsContainer: {
     minHeight: "0px",
