@@ -23,7 +23,6 @@ export default function ShiroMusumeList() {
 const useStyles = makeStyles({
   container: {
     minHeight: "0px",
-    height: "100px",
     width: "100%",
     flex: "1",
     overflowY: "auto",
