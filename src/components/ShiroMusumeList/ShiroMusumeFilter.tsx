@@ -5,12 +5,19 @@
 import { makeStyles } from "@material-ui/core/styles";
 import clsx from "clsx";
 
+interface Props {
+  filters: Array<{id: string, name: string, color: string}>;
+  selections: Array<string>;
+  onSelect: (id: string) => void;
+  imageUriBase?: string;
+}
+
 export default function ShiroMusumeFilter({
   filters,
   selections,
   imageUriBase,
   onSelect,
-}) {
+}: Props) {
   const classes = useStyles();
 
   return (

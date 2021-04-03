@@ -43,8 +43,8 @@ export function GlobalContextProvider({ children }: Props) {
     setOwns(newOwns);
 
     const formData = new FormData();
-    formData.set("id", id);
-    formData.set("own", own ? 1 : 0);
+    formData.set("id", id.toString());
+    formData.set("own", own ? "1" : "0");
     try {
       const response = await fetch(
         `${process.env.NEXT_PUBLIC_BACKEND_BASE}/set_own.php`,

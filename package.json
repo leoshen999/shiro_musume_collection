@@ -10,7 +10,8 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "start": "next dev"
+    "start": "next dev",
+    "build": "next build && next export"
   },
   "dependencies": {
     "@material-ui/core": "^4.11.3",

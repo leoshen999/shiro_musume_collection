@@ -12,7 +12,22 @@ function paddingStr(num, size) {
   return s.substr(s.length - size);
 }
 
-export default function ShiroMusumeItem({ musume, weaponIdToTypeMapping }) {
+interface Props {
+  musume: {
+    id: number;
+    name: string;
+    rarity: number;
+    terrains: Array<string>;
+    location: string;
+    weapon: string;
+  },
+  weaponIdToTypeMapping: {[id: string]: string};
+}
+
+export default function ShiroMusumeItem({
+  musume,
+  weaponIdToTypeMapping
+}: Props) {
   const context = useContext(GlobalContext);
   const classes = useStyles();
 
@@ -106,6 +121,9 @@ const useStyles = makeStyles({
   },
   textContainerOther: {
     backgroundColor: "rgb(255, 255, 160)",
+  },
+  musumeId: {
+    textAlign: "center",
   },
   musumeName: {
     textAlign: "center",
