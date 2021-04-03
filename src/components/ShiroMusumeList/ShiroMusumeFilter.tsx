@@ -9,7 +9,6 @@ export default function ShiroMusumeFilter({
   filters,
   selections,
   imageUriBase,
-  backgroundColor,
   onSelect,
 }) {
   const classes = useStyles();
@@ -22,7 +21,7 @@ export default function ShiroMusumeFilter({
           className={clsx(classes.rowContainer, {
             [classes.selected]: selections.includes(f.id),
           })}
-          style={{backgroundColor: backgroundColor}}
+          style={{backgroundColor: f.color}}
           onClick={() => {onSelect(f.id);}}
         >
           {imageUriBase !== undefined ? (

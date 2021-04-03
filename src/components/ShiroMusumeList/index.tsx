@@ -22,6 +22,7 @@ export default function ShiroMusumeList() {
     rarities.push({
       id: r.toString(),
       name: "★ " + r.toString(),
+      color: "rgb(200, 120, 60)",
     });
   }
 
@@ -41,7 +42,6 @@ export default function ShiroMusumeList() {
         <ShiroMusumeFilter
           filters={context.terrains}
           selections={terrainFilter}
-          imageUriBase="/terrain_images"
           onSelect={createSelectionHandler(terrainFilter, setTerrainFilter)}
         />
         <div className={classes.divider} />
@@ -49,21 +49,18 @@ export default function ShiroMusumeList() {
           filters={context.weapons}
           selections={weaponFilter}
           imageUriBase="/weapon_images"
-          backgroundColor="darkgray"
           onSelect={createSelectionHandler(weaponFilter, setWeaponFilter)}
         />
         <div className={classes.divider} />
         <ShiroMusumeFilter
           filters={rarities}
           selections={rarityFilter}
-          backgroundColor="rgb(200, 120, 60)"
           onSelect={createSelectionHandler(rarityFilter, setRarityFilter)}
         />
         <div className={classes.divider} />
         <ShiroMusumeFilter
           filters={context.locations}
           selections={locationFilter}
-          backgroundColor="rgb(80, 100, 160)"
           onSelect={createSelectionHandler(locationFilter, setLocationFilter)}
         />
       </div>
