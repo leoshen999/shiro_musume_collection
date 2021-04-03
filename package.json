@@ -11,7 +11,7 @@
   "private": true,
   "scripts": {
     "start": "next dev",
-    "build": "next build && next export"
+    "build": "NEXT_PUBLIC_BACKEND_BASE=./backend next build && next export && node tools/export_backend.js"
   },
   "dependencies": {
     "@material-ui/core": "^4.11.3",
@@ -25,6 +25,7 @@
     "@types/node": "^14.14.37",
     "@types/react": "^17.0.3",
     "fs": "^0.0.1-security",
+    "fs-extra": "^9.1.0",
     "request": "^2.88.2",
     "typescript": "^4.2.3"
   }

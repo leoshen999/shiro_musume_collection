@@ -32,7 +32,7 @@ export function GlobalContextProvider({ children }: Props) {
   useEffect(() => {
     (async function() {
       setOwns(await fetchJson(`${process.env.NEXT_PUBLIC_BACKEND_BASE}/get_all_owns.php`));
-      setMusumes(await fetchJson("/musumes.json"));
+      setMusumes(await fetchJson("musumes.json"));
     })();
   }, []);
 

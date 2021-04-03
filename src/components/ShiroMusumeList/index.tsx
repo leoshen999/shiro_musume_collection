@@ -56,7 +56,7 @@ export default function ShiroMusumeList() {
         <ShiroMusumeFilter
           filters={weapons}
           selections={weaponFilter}
-          imageUriBase="/weapon_images"
+          imageUriBase="weapon_images"
           onSelect={createSelectionHandler(weaponFilter, setWeaponFilter)}
         />
         <div className={classes.divider} />
