@@ -7,6 +7,9 @@ import { makeStyles } from "@material-ui/core/styles";
 import GlobalContext from "../../GlobalContext";
 import ShiroMusumeItem from "./ShiroMusumeItem";
 import ShiroMusumeFilter from "./ShiroMusumeFilter";
+import terrains from "../../resources/terrains.json";
+import locations from "../../resources/locations.json";
+import weapons from "../../resources/weapons.json";
 
 export default function ShiroMusumeList() {
   const classes = useStyles();
@@ -36,17 +39,22 @@ export default function ShiroMusumeList() {
     });
   }
 
+  const weaponIdToTypeMapping = {};
+  weapons.forEach(wp => {
+    weaponIdToTypeMapping[wp.id] = wp.type;
+  });
+
   return (
     <div className={classes.container}>
       <div className={classes.filtersContainer}>
         <ShiroMusumeFilter
-          filters={context.terrains}
+          filters={terrains}
           selections={terrainFilter}
           onSelect={createSelectionHandler(terrainFilter, setTerrainFilter)}
         />
         <div className={classes.divider} />
         <ShiroMusumeFilter
-          filters={context.weapons}
+          filters={weapons}
           selections={weaponFilter}
           imageUriBase="/weapon_images"
           onSelect={createSelectionHandler(weaponFilter, setWeaponFilter)}
@@ -59,7 +67,7 @@ export default function ShiroMusumeList() {
         />
         <div className={classes.divider} />
         <ShiroMusumeFilter
-          filters={context.locations}
+          filters={locations}
           selections={locationFilter}
           onSelect={createSelectionHandler(locationFilter, setLocationFilter)}
         />
@@ -75,7 +83,11 @@ export default function ShiroMusumeList() {
           )).filter(musume => (
             locationFilter.length === 0 || locationFilter.includes(musume.location)
           )).map((musume) => (
-            <ShiroMusumeItem key={musume.id} musume={musume} />
+            <ShiroMusumeItem
+              key={musume.id}
+              musume={musume}
+              weaponIdToTypeMapping={weaponIdToTypeMapping}
+            />
           )
         )}
       </div>

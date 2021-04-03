@@ -12,7 +12,7 @@ function paddingStr(num, size) {
   return s.substr(s.length - size);
 }
 
-export default function ShiroMusumeItem({ musume }) {
+export default function ShiroMusumeItem({ musume, weaponIdToTypeMapping }) {
   const context = useContext(GlobalContext);
   const classes = useStyles();
 
@@ -24,8 +24,8 @@ export default function ShiroMusumeItem({ musume }) {
   }
 
   let type = "other";
-  if (musume.weapon in context.weaponIdToTypeMapping)
-    type = context.weaponIdToTypeMapping[musume.weapon];
+  if (musume.weapon in weaponIdToTypeMapping)
+    type = weaponIdToTypeMapping[musume.weapon];
 
   const idStr = paddingStr(musume.id, 4);
 
