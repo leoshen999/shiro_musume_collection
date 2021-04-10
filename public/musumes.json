@@ -5648,6 +5648,56 @@
         "weapon": "scythe"
     },
     {
+        "id": 554,
+        "name": "ペレシュ城",
+        "rarity": 5,
+        "terrains": [
+            "plain"
+        ],
+        "location": "kaigai",
+        "weapon": "book"
+    },
+    {
+        "id": 555,
+        "name": "［学園］苗木城",
+        "rarity": 5,
+        "terrains": [
+            "mountain"
+        ],
+        "location": "toukai",
+        "weapon": "sword"
+    },
+    {
+        "id": 556,
+        "name": "［学園］金亀城",
+        "rarity": 7,
+        "terrains": [
+            "hill"
+        ],
+        "location": "kinki",
+        "weapon": "cannon"
+    },
+    {
+        "id": 557,
+        "name": "［学園］聚楽城",
+        "rarity": 7,
+        "terrains": [
+            "hill"
+        ],
+        "location": "kinki",
+        "weapon": "spear"
+    },
+    {
+        "id": 558,
+        "name": "［学園］岡城",
+        "rarity": 6,
+        "terrains": [
+            "mountain"
+        ],
+        "location": "kyuushuu",
+        "weapon": "crossbow"
+    },
+    {
         "id": 801,
         "name": "前田利家",
         "rarity": 6,
