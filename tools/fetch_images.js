@@ -20,14 +20,15 @@ if (!fs.existsSync(target_dir))
 
 (async function() {
   for (const musume of musumes) {
+    const target_path = target_dir + padding_str(musume.id, 4) + ".png";
+    if (fs.existsSync(target_path)) continue;
+
     process.stdout.write("Fetch " + padding_str(musume.id, 4) + " " + musume.name + " ... ");
     const url =
       "https://image.swiki.jp/img0/?host=scre&page=%E7%94%BB%E5%83%8F%E3%81%A7%E4%B8%80%E8%A6%A7RE&src=" + encodeURIComponent(musume.name) + ".png";
-    request(url).pipe(
-      fs.createWriteStream(target_dir + padding_str(musume.id, 4) + ".png")
-    );
+    request(url).pipe(fs.createWriteStream(target_path));
     process.stdout.write("done\n");
-    await sleep(10 * 1000);
+    await sleep(3 * 1000);
   }
 })();
 
