@@ -5282,7 +5282,8 @@
         "name": "真岡城",
         "rarity": 6,
         "terrains": [
-            "hill"
+            "hill",
+            "water"
         ],
         "location": "kantou",
         "weapon": "gaunlets"
@@ -5698,6 +5699,275 @@
         "weapon": "crossbow"
     },
     {
+        "id": 559,
+        "name": "徳川伏見城",
+        "rarity": 7,
+        "terrains": [
+          "hill"
+        ],
+        "location": "kinki",
+        "weapon": "oonusa"
+    },
+    {
+        "id": 560,
+        "name": "チャフティツェ城",
+        "rarity": 7,
+        "terrains": [
+          "mountain"
+        ],
+        "location": "kaigai",
+        "weapon": "whip"
+    },
+    {
+        "id": 561,
+        "name": "エカテリーナ宮殿",
+        "rarity": 6,
+        "terrains": [
+          "plain"
+        ],
+        "location": "kaigai",
+        "weapon": "cannon"
+    },
+    {
+        "id": 562,
+        "name": "宇佐山城",
+        "rarity": 5,
+        "terrains": [
+          "mountain"
+        ],
+        "location": "kinki",
+        "weapon": "spear"
+    },
+    {
+        "id": 563,
+        "name": "アラゴネーゼ城",
+        "rarity": 7,
+        "terrains": [
+          "mountain",
+          "water"
+        ],
+        "location": "kaigai",
+        "weapon": "whip"
+    },
+    {
+        "id": 564,
+        "name": "城塞都市ニネヴェ",
+        "rarity": 6,
+        "terrains": [
+          "hill"
+        ],
+        "location": "kaigai",
+        "weapon": "book"
+    },
+    {
+        "id": 565,
+        "name": "［絢爛］彦根城",
+        "rarity": 7,
+        "terrains": [
+          "hill"
+        ],
+        "location": "kinki",
+        "weapon": "spear"
+    },
+    {
+        "id": 566,
+        "name": "［絢爛］岡豊城",
+        "rarity": 7,
+        "terrains": [
+          "mountain"
+        ],
+        "location": "shigoku",
+        "weapon": "bow"
+    },
+    {
+        "id": 567,
+        "name": "［絢爛］津山城",
+        "rarity": 7,
+        "terrains": [
+          "hill"
+        ],
+        "location": "chuugoku",
+        "weapon": "hammer"
+    },
+    {
+        "id": 568,
+        "name": "ロケト城",
+        "rarity": 5,
+        "terrains": [
+          "hill",
+          "water"
+        ],
+        "location": "kaigai",
+        "weapon": "whip"
+    },
+    {
+        "id": 569,
+        "name": "［花嫁衣装］鹿児島城",
+        "rarity": 5,
+        "terrains": [
+          "hill",
+          "water"
+        ],
+        "location": "kyuushuu",
+        "weapon": "gun"
+    },
+    {
+        "id": 570,
+        "name": "［花嫁衣装］シャンティイ城",
+        "rarity": 7,
+        "terrains": [
+          "plain",
+          "water"
+        ],
+        "location": "kaigai",
+        "weapon": "book"
+    },
+    {
+        "id": 571,
+        "name": "［花嫁衣装］二条亭",
+        "rarity": 7,
+        "terrains": [
+          "plain"
+        ],
+        "location": "kinki",
+        "weapon": "spear"
+    },
+    {
+        "id": 572,
+        "name": "［花嫁衣装］フォンテーヌブロー宮殿",
+        "rarity": 6,
+        "terrains": [
+          "hill"
+        ],
+        "location": "kaigai",
+        "weapon": "crossbow"
+    },
+    {
+        "id": 573,
+        "name": "エルツ城",
+        "rarity": 6,
+        "terrains": [
+          "mountain"
+        ],
+        "location": "kaigai",
+        "weapon": "scythe"
+    },
+    {
+        "id": 574,
+        "name": "［夏］三原城",
+        "rarity": 5,
+        "terrains": [
+          "hill",
+          "water"
+        ],
+        "location": "chuugoku",
+        "weapon": "crossbow"
+    },
+    {
+        "id": 575,
+        "name": "［夏］ノイシュヴァンシュタイン城",
+        "rarity": 7,
+        "terrains": [
+          "mountain"
+        ],
+        "location": "kaigai",
+        "weapon": "shield"
+    },
+    {
+        "id": 576,
+        "name": "［夏］ペテルゴフ宮殿",
+        "rarity": 7,
+        "terrains": [
+          "plain",
+          "water"
+        ],
+        "location": "kaigai",
+        "weapon": "hammer"
+    },
+    {
+        "id": 577,
+        "name": "［夏］千賀地氏城",
+        "rarity": 6,
+        "terrains": [
+          "hill"
+        ],
+        "location": "kinki",
+        "weapon": "throwing"
+    },
+    {
+        "id": 578,
+        "name": "［夏］肥前名護屋城",
+        "rarity": 7,
+        "terrains": [
+          "hill"
+        ],
+        "location": "kyuushuu",
+        "weapon": "dancing"
+    },
+    {
+        "id": 579,
+        "name": "［夏］雑賀城",
+        "rarity": 6,
+        "terrains": [
+          "hill",
+          "water"
+        ],
+        "location": "kinki",
+        "weapon": "gun"
+    },
+    {
+        "id": 580,
+        "name": "［夏］白帝城",
+        "rarity": 7,
+        "terrains": [
+          "mountain"
+        ],
+        "location": "kaigai",
+        "weapon": "book"
+    },
+    {
+        "id": 581,
+        "name": "［夏］エゲル城",
+        "rarity": 6,
+        "terrains": [
+          "mountain"
+        ],
+        "location": "kaigai",
+        "weapon": "whip"
+    },
+    {
+        "id": 582,
+        "name": "アンジェ城",
+        "rarity": 6,
+        "terrains": [
+          "plain",
+          "water"
+        ],
+        "location": "kaigai",
+        "weapon": "shield"
+    },
+    {
+        "id": 583,
+        "name": "クリンタ城",
+        "rarity": 7,
+        "terrains": [
+          "hell"
+        ],
+        "location": "sonohoka",
+        "weapon": "crossbow"
+    },
+    {
+        "id": 584,
+        "name": "［裏］大宰府",
+        "rarity": 7,
+        "terrains": [
+          "hell",
+          "plain"
+        ],
+        "location": "sonohoka",
+        "weapon": "sword"
+    },
+    {
         "id": 801,
         "name": "前田利家",
         "rarity": 6,
@@ -5716,6 +5986,26 @@
         ],
         "location": "kyuushuu",
         "weapon": "cannon"
+    },
+    {
+        "id": 803,
+        "name": "毛利元就",
+        "rarity": 6,
+        "terrains": [
+          "none"
+        ],
+        "location": "chuugoku",
+        "weapon": "bow"
+    },
+    {
+        "id": 804,
+        "name": "シュテファン",
+        "rarity": 6,
+        "terrains": [
+          "none"
+        ],
+        "location": "kaigai",
+        "weapon": "shield"
     },
     {
         "id": 901,
