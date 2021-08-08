@@ -59,7 +59,7 @@ export default function ShiroMusumeItem({
         alt={musume.name}
         onClick={handleClick}
       />
-      <div
+      <a
         className={clsx(classes.textContainer, {
           [classes.textContainerOwn]: own,
           [classes.textContainerMelee]: type === "melee",
@@ -67,10 +67,12 @@ export default function ShiroMusumeItem({
           [classes.textContainerBoth]: type === "both",
           [classes.textContainerOther]: type === "other",
         })}
+        href={"https://scre.swiki.jp/index.php?" + musume.name}
+        target="_blank"
       >
         <div className={classes.musumeId}>{idStr}</div>
         <div className={classes.musumeName}>{musume.name}</div>
-      </div>
+      </a>
     </div>
   );
 }
@@ -106,6 +108,8 @@ const useStyles = makeStyles({
     padding: "2px",
     filter: "grayscale(40%) brightness(70%)",
     transitionDuration: "0.3s",
+    textDecoration: "none",
+    color: "black",
   },
   textContainerOwn: {
     filter: "none",
