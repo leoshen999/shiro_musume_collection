@@ -5,6 +5,7 @@
   {"id": "shield", "name": "盾", "color": "rgb(28, 81, 5)", "type": "melee"},
   {"id": "gaunlets", "name": "拳", "color": "rgb(163, 73, 164)", "type": "melee"},
   {"id": "scythe", "name": "鎌", "color": "rgb(22, 44, 44)", "type": "melee"},
+  {"id": "mace", "name": "棍", "color": "rgb(91, 247, 54)", "type": "melee"},
   {"id": "bow", "name": "弓", "color": "rgb(38, 86, 208)", "type": "ranged"},
   {"id": "crossbow", "name": "石", "color": "rgb(48, 43, 178)", "type": "ranged"},
   {"id": "gun", "name": "鉄", "color": "rgb(12, 156, 148)", "type": "ranged"},
