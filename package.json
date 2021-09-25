@@ -14,19 +14,19 @@
     "build": "NEXT_PUBLIC_BACKEND_BASE=./backend next build && next export && node tools/export_backend.js"
   },
   "dependencies": {
-    "@material-ui/core": "^4.11.3",
+    "@material-ui/core": "^4.12.3",
     "clsx": "^1.1.1",
-    "next": "^10.0.9",
+    "next": "^11.1.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
   "devDependencies": {
     "@tsconfig/recommended": "^1.0.1",
-    "@types/node": "^14.14.37",
-    "@types/react": "^17.0.3",
+    "@types/node": "^16.9.6",
+    "@types/react": "^17.0.24",
     "fs": "^0.0.1-security",
-    "fs-extra": "^9.1.0",
+    "fs-extra": "^10.0.0",
     "request": "^2.88.2",
-    "typescript": "^4.2.3"
+    "typescript": "^4.4.3"
   }
 }
