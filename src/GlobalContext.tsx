@@ -1,7 +1,3 @@
-/**
- * @format
- */
-
 import React, { useState, useEffect } from "react";
 
 interface GlobalContextType {
@@ -30,16 +26,19 @@ export function GlobalContextProvider({ children }: Props) {
   const [owns, setOwns] = useState<Array<number>>([]);
 
   useEffect(() => {
-    (async function() {
-      setOwns(await fetchJson(`${process.env.NEXT_PUBLIC_BACKEND_BASE}/get_all_owns.php`));
+    (async function () {
+      setOwns(
+        await fetchJson(
+          `${process.env.NEXT_PUBLIC_BACKEND_BASE}/get_all_owns.php`
+        )
+      );
       setMusumes(await fetchJson("musumes.json"));
     })();
   }, []);
 
   async function handleChangeOwn(id: number, own: boolean) {
-    const newOwns = owns.filter(currentId => (currentId !== id));
-    if (own)
-      newOwns.push(id);
+    const newOwns = owns.filter((currentId) => currentId !== id);
+    if (own) newOwns.push(id);
     setOwns(newOwns);
 
     const formData = new FormData();

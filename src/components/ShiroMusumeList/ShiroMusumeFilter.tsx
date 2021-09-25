@@ -1,12 +1,8 @@
-/**
- * @format
- */
-
 import { makeStyles } from "@material-ui/core/styles";
 import clsx from "clsx";
 
 interface Props {
-  filters: Array<{id: string, name: string, color: string}>;
+  filters: Array<{ id: string; name: string; color: string }>;
   selections: Array<string>;
   onSelect: (id: string) => void;
   imageUriBase?: string;
@@ -22,14 +18,16 @@ export default function ShiroMusumeFilter({
 
   return (
     <div>
-      {filters.map(f=>(
+      {filters.map((f) => (
         <div
           key={f.id}
           className={clsx(classes.rowContainer, {
             [classes.selected]: selections.includes(f.id),
           })}
-          style={{backgroundColor: f.color}}
-          onClick={() => {onSelect(f.id);}}
+          style={{ backgroundColor: f.color }}
+          onClick={() => {
+            onSelect(f.id);
+          }}
         >
           {imageUriBase !== undefined ? (
             <img
@@ -37,9 +35,7 @@ export default function ShiroMusumeFilter({
               src={imageUriBase + "/" + f.id + ".png"}
             />
           ) : (
-            <div className={classes.txt}>
-              {f.name}
-            </div>
+            <div className={classes.txt}>{f.name}</div>
           )}
         </div>
       ))}
@@ -74,5 +70,5 @@ const useStyles = makeStyles({
   txt: {
     whiteSpace: "nowrap",
     color: "white",
-  }
+  },
 });

@@ -11,7 +11,8 @@
   "private": true,
   "scripts": {
     "start": "next dev",
-    "build": "NEXT_PUBLIC_BACKEND_BASE=./backend next build && next export && node tools/export_backend.js"
+    "build": "NEXT_PUBLIC_BACKEND_BASE=./backend next build && next export && node tools/export_backend.js",
+    "prettier": "prettier --write pages src"
   },
   "dependencies": {
     "@material-ui/core": "^4.12.3",
@@ -26,6 +27,7 @@
     "@types/react": "^17.0.24",
     "fs": "^0.0.1-security",
     "fs-extra": "^10.0.0",
+    "prettier": "^2.4.1",
     "request": "^2.88.2",
     "typescript": "^4.4.3"
   }

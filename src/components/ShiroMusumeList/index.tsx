@@ -1,7 +1,3 @@
-/**
- * @format
- */
-
 import { useContext, useState } from "react";
 import { makeStyles } from "@material-ui/core/styles";
 import GlobalContext from "../../GlobalContext";
@@ -30,17 +26,16 @@ export default function ShiroMusumeList() {
   }
 
   function createSelectionHandler(filter, setter) {
-    return (function(id) {
+    return function (id) {
       const needsPush = !filter.includes(id);
-      const newFilter = filter.filter(f => (f !== id));
-      if (needsPush)
-        newFilter.push(id);
+      const newFilter = filter.filter((f) => f !== id);
+      if (needsPush) newFilter.push(id);
       setter(newFilter);
-    });
+    };
   }
 
   const weaponIdToTypeMapping = {};
-  weapons.forEach(wp => {
+  weapons.forEach((wp) => {
     weaponIdToTypeMapping[wp.id] = wp.type;
   });
 
@@ -73,23 +68,35 @@ export default function ShiroMusumeList() {
         />
       </div>
       <div className={classes.itemsContainer}>
-        {context.musumes.filter(musume => {
+        {context.musumes
+          .filter((musume) => {
             if (terrainFilter.length === 0) return true;
-            return musume.terrains.filter(t=>terrainFilter.includes(t)).length !== 0;
-          }).filter(musume => (
-            weaponFilter.length === 0 || weaponFilter.includes(musume.weapon)
-          )).filter(musume => (
-            rarityFilter.length === 0 || rarityFilter.includes(musume.rarity.toString())
-          )).filter(musume => (
-            locationFilter.length === 0 || locationFilter.includes(musume.location)
-          )).map((musume) => (
+            return (
+              musume.terrains.filter((t) => terrainFilter.includes(t))
+                .length !== 0
+            );
+          })
+          .filter(
+            (musume) =>
+              weaponFilter.length === 0 || weaponFilter.includes(musume.weapon)
+          )
+          .filter(
+            (musume) =>
+              rarityFilter.length === 0 ||
+              rarityFilter.includes(musume.rarity.toString())
+          )
+          .filter(
+            (musume) =>
+              locationFilter.length === 0 ||
+              locationFilter.includes(musume.location)
+          )
+          .map((musume) => (
             <ShiroMusumeItem
               key={musume.id}
               musume={musume}
               weaponIdToTypeMapping={weaponIdToTypeMapping}
             />
-          )
-        )}
+          ))}
       </div>
     </div>
   );
@@ -117,7 +124,7 @@ const useStyles = makeStyles({
     flexDirection: "column",
     alignItems: "center",
     "&::-webkit-scrollbar": {
-      width: "0px"
+      width: "0px",
     },
   },
   divider: {

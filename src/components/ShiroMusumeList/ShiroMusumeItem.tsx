@@ -1,7 +1,3 @@
-/**
- * @format
- */
-
 import { useState, useContext } from "react";
 import { makeStyles } from "@material-ui/core/styles";
 import clsx from "clsx";
@@ -20,22 +16,19 @@ interface Props {
     terrains: Array<string>;
     location: string;
     weapon: string;
-  },
-  weaponIdToTypeMapping: {[id: string]: string};
+  };
+  weaponIdToTypeMapping: { [id: string]: string };
 }
 
 export default function ShiroMusumeItem({
   musume,
-  weaponIdToTypeMapping
+  weaponIdToTypeMapping,
 }: Props) {
   const context = useContext(GlobalContext);
   const classes = useStyles();
 
   function handleClick() {
-    context.onChangeOwn(
-      musume.id,
-      !context.owns.includes(musume.id)
-    );
+    context.onChangeOwn(musume.id, !context.owns.includes(musume.id));
   }
 
   let type = "other";
@@ -47,10 +40,7 @@ export default function ShiroMusumeItem({
   const own = context.owns.includes(musume.id);
 
   return (
-    <div
-      className={clsx(classes.container, {
-      })}
-    >
+    <div className={clsx(classes.container, {})}>
       <img
         className={clsx(classes.musumeIcon, {
           [classes.musumeIconOwn]: own,
@@ -121,7 +111,8 @@ const useStyles = makeStyles({
     backgroundColor: "rgb(160, 255, 255)",
   },
   textContainerBoth: {
-    backgroundImage: "linear-gradient(to right, rgb(255, 180, 180), rgb(255, 180, 180), rgb(160, 255, 255), rgb(160, 255, 255))",
+    backgroundImage:
+      "linear-gradient(to right, rgb(255, 180, 180), rgb(255, 180, 180), rgb(160, 255, 255), rgb(160, 255, 255))",
   },
   textContainerOther: {
     backgroundColor: "rgb(255, 255, 160)",
