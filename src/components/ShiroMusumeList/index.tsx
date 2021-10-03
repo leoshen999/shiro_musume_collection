@@ -21,7 +21,7 @@ export default function ShiroMusumeList() {
     rarities.push({
       id: r.toString(),
       name: "★ " + r.toString(),
-      color: "rgb(200, 120, 60)",
+      color: "#e0815e",
     });
   }
 

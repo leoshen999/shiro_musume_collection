@@ -120,7 +120,7 @@ const useStyles = makeStyles({
     transitionDuration: "0.3s",
   },
   musumeIconOwn: {
-    filter: "none",
+    filter: "saturate(85%)",
   },
   textContainer: {
     display: "flex",
@@ -137,17 +137,17 @@ const useStyles = makeStyles({
     filter: "none",
   },
   textContainerMelee: {
-    backgroundColor: "rgb(255, 180, 180)",
+    backgroundColor: "#f7c9d4",
   },
   textContainerRanged: {
-    backgroundColor: "rgb(160, 255, 255)",
+    backgroundColor: "#cbeaf6",
   },
   textContainerBoth: {
     backgroundImage:
-      "linear-gradient(to right, rgb(255, 180, 180), rgb(255, 180, 180), rgb(160, 255, 255), rgb(160, 255, 255))",
+      "linear-gradient(to right, #f7c9d4, #f7c9d4, #cbeaf6, #cbeaf6)",
   },
   textContainerOther: {
-    backgroundColor: "rgb(255, 255, 160)",
+    backgroundColor: "#f6f6ca",
   },
   musumeId: {
     textAlign: "center",

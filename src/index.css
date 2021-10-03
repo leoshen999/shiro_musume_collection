@@ -18,4 +18,5 @@ body,
   display: flex;
   flex-direction: column;
   flex: 1;
+  background-color: #e6e6e6;
 }

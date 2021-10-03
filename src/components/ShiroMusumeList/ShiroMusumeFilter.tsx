@@ -61,7 +61,7 @@ const useStyles = makeStyles({
     transitionDuration: "0.3s",
   },
   selected: {
-    filter: "none",
+    filter: "saturate(70%)",
   },
   img: {
     height: "auto",
