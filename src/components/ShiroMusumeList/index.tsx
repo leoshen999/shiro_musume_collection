@@ -141,5 +141,11 @@ const useStyles = makeStyles({
     height: "100%",
     flex: "1",
     overflowY: "auto",
+    "&::-webkit-scrollbar-thumb": {
+      backgroundColor: "#888888",
+    },
+    "&::-webkit-scrollbar": {
+      width: "6px",
+    },
   },
 });
