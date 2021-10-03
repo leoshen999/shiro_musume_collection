@@ -45,6 +45,7 @@ export default function ShiroMusumeItem({
         className={classes.container}
         href={"https://scre.swiki.jp/index.php?" + musume.name}
         target="_blank"
+        rel="noreferrer"
       >
         <img
           className={clsx(classes.musumeIcon, classes.musumeIconOwn)}
@@ -89,6 +90,7 @@ export default function ShiroMusumeItem({
         })}
         href={"https://scre.swiki.jp/index.php?" + musume.name}
         target="_blank"
+        rel="noreferrer"
       >
         <div className={classes.musumeId}>{idStr}</div>
         <div className={classes.musumeName}>{musume.name}</div>

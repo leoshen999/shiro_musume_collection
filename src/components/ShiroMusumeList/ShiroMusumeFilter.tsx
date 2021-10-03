@@ -33,6 +33,7 @@ export default function ShiroMusumeFilter({
             <img
               className={classes.img}
               src={imageUriBase + "/" + f.id + ".png"}
+              alt=""
             />
           ) : (
             <div className={classes.txt}>{f.name}</div>

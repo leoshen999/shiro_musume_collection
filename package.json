@@ -12,7 +12,8 @@
   "scripts": {
     "start": "next dev",
     "build": "node tools/build.js",
-    "prettier": "prettier --write pages src"
+    "prettier": "prettier --write pages src",
+    "lint": "next lint"
   },
   "dependencies": {
     "@material-ui/core": "^4.12.3",
@@ -28,6 +29,8 @@
     "@types/react": "^17.0.26",
     "chalk": "^4.1.2",
     "child_process": "^1.0.2",
+    "eslint": "7.32.0",
+    "eslint-config-next": "11.1.2",
     "fs": "^0.0.1-security",
     "fs-extra": "^10.0.0",
     "path": "^0.12.7",
