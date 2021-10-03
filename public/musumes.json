@@ -5968,6 +5968,168 @@
         "weapon": "sword"
     },
     {
+        "id": 585,
+        "name": "［肝試し］前橋城",
+        "rarity": 5,
+        "terrains": [
+          "plain"
+        ],
+        "location": "kantou",
+        "weapon": "gun"
+    },
+    {
+        "id": 586,
+        "name": "［肝試し］伊予松山城",
+        "rarity": 7,
+        "terrains": [
+          "hill"
+        ],
+        "location": "shigoku",
+        "weapon": "spear"
+    },
+    {
+        "id": 587,
+        "name": "［肝試し］白河小峰城",
+        "rarity": 7,
+        "terrains": [
+          "hill"
+        ],
+        "location": "touhoku",
+        "weapon": "crossbow"
+    },
+    {
+        "id": 588,
+        "name": "［肝試し］岩殿山城",
+        "rarity": 6,
+        "terrains": [
+          "mountain"
+        ],
+        "location": "koushinetsu",
+        "weapon": "spell"
+    },
+    {
+        "id": 589,
+        "name": "バルディ城",
+        "rarity": 5,
+        "terrains": [
+          "mountain"
+        ],
+        "location": "kaigai",
+        "weapon": "scythe"
+    },
+    {
+        "id": 590,
+        "name": "ノッティンガム城",
+        "rarity": 7,
+        "terrains": [
+          "hill"
+        ],
+        "location": "kaigai",
+        "weapon": "whip"
+    },
+    {
+        "id": 591,
+        "name": "ブダ城",
+        "rarity": 7,
+        "terrains": [
+          "plain"
+        ],
+        "location": "kaigai",
+        "weapon": "mace"
+    },
+    {
+        "id": 592,
+        "name": "高田城",
+        "rarity": 6,
+        "terrains": [
+          "plain",
+          "water"
+        ],
+        "location": "koushinetsu",
+        "weapon": "spell"
+    },
+    {
+        "id": 593,
+        "name": "基肄城",
+        "rarity": 6,
+        "terrains": [
+          "mountain"
+        ],
+        "location": "kyuushuu",
+        "weapon": "dancing"
+    },
+    {
+        "id": 594,
+        "name": "ラムリー城",
+        "rarity": 5,
+        "terrains": [
+          "plain"
+        ],
+        "location": "kaigai",
+        "weapon": "scythe"
+    },
+    {
+        "id": 595,
+        "name": "千方窟",
+        "rarity": 7,
+        "terrains": [
+          "mountain"
+        ],
+        "location": "kinki",
+        "weapon": "throwing"
+    },
+    {
+        "id": 596,
+        "name": "日出城",
+        "rarity": 6,
+        "terrains": [
+          "hill",
+          "water"
+        ],
+        "location": "kyuushuu",
+        "weapon": "hammer"
+    },
+    {
+        "id": 597,
+        "name": "オリュンポス宮殿",
+        "rarity": 7,
+        "terrains": [
+          "mountain"
+        ],
+        "location": "sonohoka",
+        "weapon": "scythe"
+    },
+    {
+        "id": 598,
+        "name": "メヘラーンガル城",
+        "rarity": 7,
+        "terrains": [
+          "mountain"
+        ],
+        "location": "kaigai",
+        "weapon": "gun"
+    },
+    {
+        "id": 599,
+        "name": "天神山城",
+        "rarity": 6,
+        "terrains": [
+          "mountain"
+        ],
+        "location": "chuugoku",
+        "weapon": "bow"
+    },
+    {
+        "id": 600,
+        "name": "トルツェルツ城",
+        "rarity": 5,
+        "terrains": [
+          "mountain"
+        ],
+        "location": "kaigai",
+        "weapon": "throwing"
+    },
+    {
         "id": 801,
         "name": "前田利家",
         "rarity": 6,
