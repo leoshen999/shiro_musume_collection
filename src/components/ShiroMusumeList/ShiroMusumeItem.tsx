@@ -39,6 +39,36 @@ export default function ShiroMusumeItem({
 
   const own = context.owns.includes(musume.id);
 
+  if (process.env.NEXT_PUBLIC_READ_ONLY_MODE === "true") {
+    return (
+      <a
+        className={classes.container}
+        href={"https://scre.swiki.jp/index.php?" + musume.name}
+        target="_blank"
+      >
+        <img
+          className={clsx(classes.musumeIcon, classes.musumeIconOwn)}
+          src={"musume_images/" + idStr + ".png"}
+          alt={musume.name}
+          onClick={handleClick}
+        />
+        <div
+          className={clsx(
+            classes.textContainer,
+            classes.textContainerOwn,
+            type === "melee" && classes.textContainerMelee,
+            type === "ranged" && classes.textContainerRanged,
+            type === "both" && classes.textContainerBoth,
+            type === "other" && classes.textContainerOther
+          )}
+        >
+          <div className={classes.musumeId}>{idStr}</div>
+          <div className={classes.musumeName}>{musume.name}</div>
+        </div>
+      </a>
+    );
+  }
+
   return (
     <div className={clsx(classes.container, {})}>
       <img
@@ -79,6 +109,8 @@ const useStyles = makeStyles({
     borderRadius: "4px",
     margin: "3px",
     overflow: "hidden",
+    textDecoration: "none",
+    color: "black",
   },
   musumeIcon: {
     width: "72px",
