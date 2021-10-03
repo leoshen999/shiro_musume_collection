@@ -11,7 +11,7 @@
   "private": true,
   "scripts": {
     "start": "next dev",
-    "build": "NEXT_PUBLIC_BACKEND_BASE=./backend next build && next export && node tools/export_backend.js",
+    "build": "node tools/build.js",
     "prettier": "prettier --write pages src"
   },
   "dependencies": {
@@ -25,8 +25,11 @@
     "@tsconfig/recommended": "^1.0.1",
     "@types/node": "^16.9.6",
     "@types/react": "^17.0.24",
+    "chalk": "^4.1.2",
+    "child_process": "^1.0.2",
     "fs": "^0.0.1-security",
     "fs-extra": "^10.0.0",
+    "path": "^0.12.7",
     "prettier": "^2.4.1",
     "request": "^2.88.2",
     "typescript": "^4.4.3"
