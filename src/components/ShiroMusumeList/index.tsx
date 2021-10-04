@@ -124,7 +124,7 @@ const useStyles = makeStyles({
     flexDirection: "column",
     alignItems: "center",
     "&::-webkit-scrollbar": {
-      width: "0px",
+      display: "none",
     },
   },
   divider: {
@@ -144,8 +144,12 @@ const useStyles = makeStyles({
     "&::-webkit-scrollbar-thumb": {
       backgroundColor: "#888888",
     },
+    "&::-webkit-scrollbar-thumb:hover": {
+      backgroundColor: "#707070",
+    },
     "&::-webkit-scrollbar": {
-      width: "6px",
+      width: "8px",
+      backgroundColor: "#cdcdcd",
     },
   },
 });
