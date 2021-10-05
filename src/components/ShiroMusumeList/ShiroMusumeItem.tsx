@@ -122,7 +122,7 @@ const useStyles = makeStyles({
     transitionDuration: "0.3s",
   },
   musumeIconOwn: {
-    filter: "saturate(85%)",
+    filter: "none",
   },
   textContainer: {
     display: "flex",
