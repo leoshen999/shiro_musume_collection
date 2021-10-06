@@ -248,6 +248,7 @@ const useStyles = makeStyles({
     overflowY: "auto",
     boxSizing: "border-box",
     padding: "3px",
+    textAlign: "center",
     "&::-webkit-scrollbar-thumb": {
       backgroundColor: "#888888",
     },

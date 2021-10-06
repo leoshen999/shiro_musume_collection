@@ -42,13 +42,13 @@ export default function ShiroMusumeItem({
   if (process.env.NEXT_PUBLIC_READ_ONLY_MODE === "true") {
     return (
       <a
-        className={classes.container}
+        className={clsx(classes.container, classes.containerReadOnly)}
         href={"https://scre.swiki.jp/index.php?" + musume.name}
         target="_blank"
         rel="noreferrer"
       >
         <img
-          className={clsx(classes.musumeIcon, classes.musumeIconOwn)}
+          className={clsx(classes.musumeIcon, classes.musumeIconReadOnly)}
           src={"musume_images/" + idStr + ".png"}
           alt={musume.name}
           onClick={handleClick}
@@ -56,7 +56,7 @@ export default function ShiroMusumeItem({
         <div
           className={clsx(
             classes.textContainer,
-            classes.textContainerOwn,
+            classes.textContainerReadOnly,
             type === "melee" && classes.textContainerMelee,
             type === "ranged" && classes.textContainerRanged,
             type === "both" && classes.textContainerBoth,
@@ -71,23 +71,23 @@ export default function ShiroMusumeItem({
   }
 
   return (
-    <div className={clsx(classes.container, {})}>
+    <div className={classes.container}>
       <img
-        className={clsx(classes.musumeIcon, {
-          [classes.musumeIconOwn]: own,
-        })}
+        className={clsx(classes.musumeIcon, own && classes.musumeIconOwn)}
         src={"musume_images/" + idStr + ".png"}
         alt={musume.name}
         onClick={handleClick}
       />
       <a
-        className={clsx(classes.textContainer, {
-          [classes.textContainerOwn]: own,
-          [classes.textContainerMelee]: type === "melee",
-          [classes.textContainerRanged]: type === "ranged",
-          [classes.textContainerBoth]: type === "both",
-          [classes.textContainerOther]: type === "other",
-        })}
+        className={clsx(
+          classes.textContainer,
+          classes.textContainerWritable,
+          own && classes.textContainerOwn,
+          type === "melee" && classes.textContainerMelee,
+          type === "ranged" && classes.textContainerRanged,
+          type === "both" && classes.textContainerBoth,
+          type === "other" && classes.textContainerOther
+        )}
         href={"https://scre.swiki.jp/index.php?" + musume.name}
         target="_blank"
         rel="noreferrer"
@@ -112,17 +112,39 @@ const useStyles = makeStyles({
     margin: "3px",
     overflow: "hidden",
     textDecoration: "none",
-    color: "black",
+    color: "#323232",
+  },
+  containerReadOnly: {
+    transition: "0.2s",
+    "&:hover": {
+      boxShadow: "0px 0px 10px 2px rgba(136, 136, 136, 0.7)",
+    },
+    "&:hover $textContainer": {
+      color: "black",
+      textShadow: "0px 0px 1px rgba(50, 50, 50, 0.5)",
+    },
   },
   musumeIcon: {
     width: "72px",
     height: "72px",
     cursor: "pointer",
-    filter: "grayscale(75%) brightness(30%)",
     transition: "0.2s",
+    filter: "grayscale(75%) brightness(30%)",
+    "&:hover": {
+      filter: "grayscale(75%) brightness(40%)",
+    },
   },
   musumeIconOwn: {
+    filter: "brightness(90%)",
+    "&:hover": {
+      filter: "none",
+    },
+  },
+  musumeIconReadOnly: {
     filter: "none",
+    "&:hover": {
+      filter: "none",
+    },
   },
   textContainer: {
     display: "flex",
@@ -133,7 +155,16 @@ const useStyles = makeStyles({
     filter: "grayscale(40%) brightness(70%)",
     transition: "0.2s",
     textDecoration: "none",
-    color: "black",
+    color: "#323232",
+  },
+  textContainerReadOnly: {
+    filter: "none",
+  },
+  textContainerWritable: {
+    "&:hover": {
+      color: "black",
+      textShadow: "0px 0px 1px rgba(50, 50, 50, 0.5)",
+    },
   },
   textContainerOwn: {
     filter: "none",
