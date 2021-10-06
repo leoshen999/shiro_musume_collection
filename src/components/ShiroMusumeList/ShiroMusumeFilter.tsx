@@ -17,7 +17,7 @@ export default function ShiroMusumeFilter({
   const classes = useStyles();
 
   return (
-    <div>
+    <div className={classes.container}>
       {filters.map((f) => (
         <div
           key={f.id}
@@ -45,6 +45,14 @@ export default function ShiroMusumeFilter({
 }
 
 const useStyles = makeStyles({
+  container: {
+    display: "flex",
+    flexDirection: "column",
+    "@media (max-width: 768px)": {
+      display: "block",
+      lineHeight: "1",
+    },
+  },
   rowContainer: {
     width: "35px",
     height: "22px",
@@ -52,17 +60,22 @@ const useStyles = makeStyles({
     flexDirection: "column",
     alignItems: "center",
     justifyContent: "center",
-    marginTop: "3px",
-    marginBottom: "3px",
+    marginTop: "1px",
+    marginBottom: "1px",
     overflowX: "hidden",
     borderRadius: "5px",
-    filter: "brightness(60%)",
+    filter: "saturate(100%) brightness(60%)",
     userSelect: "none",
     cursor: "pointer",
-    transitionDuration: "0.3s",
+    transition: "0.2s",
+    "@media (max-width: 768px)": {
+      display: "inline-flex",
+      marginLeft: "2px",
+      marginRight: "2px",
+    },
   },
   selected: {
-    filter: "saturate(70%)",
+    filter: "saturate(70%) brightness(100%)",
   },
   img: {
     height: "auto",
