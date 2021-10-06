@@ -119,7 +119,7 @@ const useStyles = makeStyles({
     height: "72px",
     cursor: "pointer",
     filter: "grayscale(75%) brightness(30%)",
-    transitionDuration: "0.3s",
+    transition: "0.2s",
   },
   musumeIconOwn: {
     filter: "none",
@@ -131,7 +131,7 @@ const useStyles = makeStyles({
     width: "100%",
     padding: "2px",
     filter: "grayscale(40%) brightness(70%)",
-    transitionDuration: "0.3s",
+    transition: "0.2s",
     textDecoration: "none",
     color: "black",
   },
