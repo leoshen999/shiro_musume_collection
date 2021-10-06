@@ -238,6 +238,7 @@ const useStyles = makeStyles({
     flex: "1",
     overflowY: "auto",
     boxSizing: "border-box",
+    padding: "3px",
     "&::-webkit-scrollbar-thumb": {
       backgroundColor: "#888888",
     },
