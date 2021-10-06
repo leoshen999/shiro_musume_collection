@@ -53,8 +53,11 @@ export default function ShiroMusumeList() {
 
   return (
     <div className={classes.container}>
-      {isMobileLayout && isDrawerOpened && (
-        <div className={classes.mask} onClick={handleCloseDrawer}></div>
+      {isMobileLayout && (
+        <div
+          className={clsx(classes.mask, isDrawerOpened && classes.maskShown)}
+          onClick={handleCloseDrawer}
+        ></div>
       )}
       <div
         className={clsx(
@@ -175,6 +178,7 @@ const useStyles = makeStyles({
   filtersContainerOpened: {
     top: "0",
     bottom: "auto",
+    backgroundColor: "#e6e6e6",
   },
   filtersScrollContainer: {
     display: "flex",
@@ -253,5 +257,13 @@ const useStyles = makeStyles({
     left: "0",
     width: "100vw",
     height: "100vh",
+    backgroundColor: "rgba(0, 0, 0, 0.5)",
+    transition: "opacity 0.2s",
+    visibility: "hidden",
+    opacity: "0",
+  },
+  maskShown: {
+    visibility: "visible",
+    opacity: "1",
   },
 });
