@@ -4,6 +4,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
   font-size: 10px;
   font-family: "Noto Sans JP", sans-serif;
+  color: #666666;
 }
 
 html {

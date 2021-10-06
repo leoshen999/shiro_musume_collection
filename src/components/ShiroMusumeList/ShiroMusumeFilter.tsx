@@ -64,10 +64,13 @@ const useStyles = makeStyles({
     marginBottom: "1px",
     overflowX: "hidden",
     borderRadius: "5px",
-    filter: "saturate(100%) brightness(60%)",
+    filter: "brightness(60%)",
     userSelect: "none",
     cursor: "pointer",
     transition: "0.2s",
+    "&:hover": {
+      filter: "brightness(75%)",
+    },
     "@media (max-width: 768px)": {
       display: "inline-flex",
       marginLeft: "2px",
@@ -75,7 +78,10 @@ const useStyles = makeStyles({
     },
   },
   selected: {
-    filter: "saturate(70%) brightness(100%)",
+    filter: "brightness(95%)",
+    "&:hover": {
+      filter: "brightness(105%)",
+    },
   },
   img: {
     height: "auto",

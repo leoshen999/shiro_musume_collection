@@ -106,7 +106,7 @@ const useStyles = makeStyles({
     alignItems: "center",
     width: "72px",
     borderStyle: "solid",
-    borderColor: "gray",
+    borderColor: "#888888",
     borderWidth: "1px",
     borderRadius: "4px",
     margin: "3px",
