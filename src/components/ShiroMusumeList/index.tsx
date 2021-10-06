@@ -107,6 +107,7 @@ export default function ShiroMusumeList() {
                 <polygon points="440.189,92.085 256.019,276.255 71.83,92.085 0,163.915 256.019,419.915 512,163.915"></polygon>
               </g>
             </svg>
+            <div className={classes.filterButtonText}>絞込</div>
           </div>
         )}
       </div>
@@ -213,8 +214,9 @@ const useStyles = makeStyles({
   filterButtonContainer: {
     height: "25px",
     display: "flex",
-    flexDirection: "column",
+    flexDirection: "row",
     alignItems: "center",
+    justifyContent: "center",
     transition: "0.2s",
     cursor: "pointer",
     "&:hover": {
@@ -229,9 +231,14 @@ const useStyles = makeStyles({
     width: "25px",
     height: "25px",
     transition: "0.2s",
+    marginRight: "10px",
   },
   filterIconOpened: {
     transform: "rotate(180deg)",
+  },
+  filterButtonText: {
+    fontSize: "14px",
+    lineHeight: "1",
   },
   itemsContainer: {
     minHeight: "0px",
