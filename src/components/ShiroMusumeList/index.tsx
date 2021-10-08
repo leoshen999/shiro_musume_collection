@@ -332,6 +332,7 @@ const useStyles = makeStyles({
     paddingTop: "5px",
     paddingBottom: "5px",
     boxSizing: "border-box",
+    scrollbarWidth: "none",
     "&::-webkit-scrollbar": {
       display: "none",
     },
@@ -395,6 +396,8 @@ const useStyles = makeStyles({
     boxSizing: "border-box",
     padding: "3px",
     textAlign: "center",
+    scrollbarWidth: "thin",
+    scrollbarColor: "#888888 #cdcdcd",
     "&::-webkit-scrollbar-thumb": {
       backgroundColor: "#888888",
     },
@@ -402,7 +405,7 @@ const useStyles = makeStyles({
       backgroundColor: "#707070",
     },
     "&::-webkit-scrollbar": {
-      width: "8px",
+      width: "4px",
       backgroundColor: "#cdcdcd",
     },
     "@media (max-width: 768px)": {
