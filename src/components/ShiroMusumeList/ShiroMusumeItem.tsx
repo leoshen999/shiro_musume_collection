@@ -49,7 +49,12 @@ export default function ShiroMusumeItem({
       >
         <img
           className={clsx(classes.musumeIcon, classes.musumeIconReadOnly)}
-          src={"musume_images/" + idStr + ".png"}
+          src={
+            process.env.NEXT_PUBLIC_FRONTEND_BASE +
+            "/musume_images/" +
+            idStr +
+            ".png"
+          }
           alt={musume.name}
           onClick={handleClick}
         />

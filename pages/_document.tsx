@@ -34,7 +34,10 @@ export default class RootDocument extends Document {
       <Html>
         <Head>
           <meta charSet="utf-8" />
-          <meta property="og:image" content="https://leoshen999.github.io/shiro_musume_collection/og.png" />
+          <meta
+            property="og:image"
+            content={process.env.NEXT_PUBLIC_FRONTEND_BASE + "/og.png"}
+          />
           <meta property="og:type" content="website" />
           <meta property="og:title" content="城プロRE：城娘図鑑" />
           <meta
@@ -46,7 +49,10 @@ export default class RootDocument extends Document {
             href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap"
             rel="stylesheet"
           />
-          <link rel="shortcut icon" href="./favicon.ico" />
+          <link
+            rel="shortcut icon"
+            href={process.env.NEXT_PUBLIC_FRONTEND_BASE + "/favicon.ico"}
+          />
         </Head>
         <body>
           <Main />

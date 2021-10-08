@@ -6,9 +6,7 @@ var path = require("path");
 
 var PROJECT_ROOT = path.join(__dirname, "..");
 
-var env_var = Object.assign({}, process.env, {
-  NEXT_PUBLIC_BACKEND_BASE: "./backend",
-});
+var env_var = Object.assign({}, process.env, {});
 
 process.chdir(PROJECT_ROOT);
 

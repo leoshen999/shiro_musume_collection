@@ -34,7 +34,9 @@ export function GlobalContextProvider({ children }: Props) {
           )
         );
       }
-      setMusumes(await fetchJson("musumes.json"));
+      setMusumes(
+        await fetchJson(process.env.NEXT_PUBLIC_FRONTEND_BASE + "/musumes.json")
+      );
     })();
   }, []);
 
