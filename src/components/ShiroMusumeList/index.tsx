@@ -136,16 +136,18 @@ export default function ShiroMusumeList() {
 
   return (
     <div className={classes.container}>
-      {isMobileLayout && (
-        <div
-          className={clsx(classes.mask, isDrawerOpened && classes.maskShown)}
-          onClick={handleCloseDrawer}
-        ></div>
-      )}
+      <div
+        className={clsx(
+          classes.mask,
+          isDrawerOpened && classes.maskShown,
+          classes.mobileOnly
+        )}
+        onClick={handleCloseDrawer}
+      ></div>
       <div
         className={clsx(
           classes.filtersContainer,
-          isMobileLayout && isDrawerOpened && classes.filtersContainerOpened
+          isDrawerOpened && classes.filtersContainerOpened
         )}
       >
         <div className={classes.filtersScrollContainer}>
@@ -185,37 +187,39 @@ export default function ShiroMusumeList() {
               setLocationFilter
             )}
           />
-          {isMobileLayout && (
-            <>
-              <div className={clsx(classes.divider, classes.dividerWider)} />
-              <ShiroMusumeFilter
-                filters={sorters.flat()}
-                selections={[sorter]}
-                onSelect={handleSelectSorter}
-              />
-            </>
-          )}
-        </div>
-        {isMobileLayout && (
           <div
-            className={classes.filterButtonContainer}
-            onClick={isDrawerOpened ? handleCloseDrawer : handleOpenDrawer}
-          >
-            <div className={classes.filterButtonText}>絞込</div>
-            <svg
-              viewBox="0 0 512 512"
-              className={clsx(
-                classes.filterIcon,
-                isDrawerOpened && classes.filterIconOpened
-              )}
-            >
-              <g>
-                <polygon points="440.189,92.085 256.019,276.255 71.83,92.085 0,163.915 256.019,419.915 512,163.915"></polygon>
-              </g>
-            </svg>
-            <div className={classes.filterButtonText}>表示順</div>
+            className={clsx(
+              classes.divider,
+              classes.dividerWider,
+              classes.mobileOnly
+            )}
+          />
+          <div className={classes.mobileOnly}>
+            <ShiroMusumeFilter
+              filters={sorters.flat()}
+              selections={[sorter]}
+              onSelect={handleSelectSorter}
+            />
           </div>
-        )}
+        </div>
+        <div
+          className={clsx(classes.filterButtonContainer, classes.mobileOnly)}
+          onClick={isDrawerOpened ? handleCloseDrawer : handleOpenDrawer}
+        >
+          <div className={classes.filterButtonText}>絞込</div>
+          <svg
+            viewBox="0 0 512 512"
+            className={clsx(
+              classes.filterIcon,
+              isDrawerOpened && classes.filterIconOpened
+            )}
+          >
+            <g>
+              <polygon points="440.189,92.085 256.019,276.255 71.83,92.085 0,163.915 256.019,419.915 512,163.915"></polygon>
+            </g>
+          </svg>
+          <div className={classes.filterButtonText}>表示順</div>
+        </div>
       </div>
       <div className={classes.itemsContainer}>
         {context.musumes
@@ -249,27 +253,26 @@ export default function ShiroMusumeList() {
             />
           ))}
       </div>
-      {!isMobileLayout && (
-        <div
-          className={clsx(
-            classes.filtersContainer,
-            classes.filtersContainerOnRight
-          )}
-        >
-          <div className={classes.filtersScrollContainer}>
-            {sorters.map((st, key) => (
-              <Fragment key={key}>
-                {key !== 0 && <div className={classes.divider} />}
-                <ShiroMusumeFilter
-                  filters={st}
-                  selections={[sorter]}
-                  onSelect={handleSelectSorter}
-                />
-              </Fragment>
-            ))}
-          </div>
+      <div
+        className={clsx(
+          classes.filtersContainer,
+          classes.filtersContainerOnRight,
+          classes.desktopOnly
+        )}
+      >
+        <div className={classes.filtersScrollContainer}>
+          {sorters.map((st, key) => (
+            <Fragment key={key}>
+              {key !== 0 && <div className={classes.divider} />}
+              <ShiroMusumeFilter
+                filters={st}
+                selections={[sorter]}
+                onSelect={handleSelectSorter}
+              />
+            </Fragment>
+          ))}
         </div>
-      )}
+      </div>
     </div>
   );
 }
@@ -314,8 +317,10 @@ const useStyles = makeStyles({
     borderLeftWidth: "1px",
   },
   filtersContainerOpened: {
-    transform: "translateY(0)",
-    backgroundColor: "#e6e6e6",
+    "@media (max-width: 768px)": {
+      transform: "translateY(0)",
+      backgroundColor: "#e6e6e6",
+    },
   },
   filtersScrollContainer: {
     display: "flex",
@@ -418,5 +423,15 @@ const useStyles = makeStyles({
   maskShown: {
     visibility: "visible",
     opacity: "1",
+  },
+  desktopOnly: {
+    "@media (max-width: 768px)": {
+      display: "none",
+    },
+  },
+  mobileOnly: {
+    "@media (min-width: 769px)": {
+      display: "none",
+    },
   },
 });
