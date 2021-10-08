@@ -187,7 +187,7 @@ export default function ShiroMusumeList() {
           />
           {isMobileLayout && (
             <>
-              <div className={classes.divider} />
+              <div className={clsx(classes.divider, classes.dividerWider)} />
               <ShiroMusumeFilter
                 filters={sorters.flat()}
                 selections={[sorter]}
@@ -331,7 +331,6 @@ const useStyles = makeStyles({
       display: "none",
     },
     "@media (max-width: 768px)": {
-      alignItems: "flex-start",
       padding: "5px",
       height: "auto",
     },
@@ -342,6 +341,14 @@ const useStyles = makeStyles({
     minHeight: "1px",
     height: "1px",
     backgroundColor: "transparent",
+    width: "100%",
+  },
+  dividerWider: {
+    marginTop: "8px",
+    marginBottom: "8px",
+    minHeight: "1px",
+    height: "1px",
+    backgroundColor: "rgba(136, 136, 136, 0.5)",
     width: "100%",
   },
   filterButtonContainer: {

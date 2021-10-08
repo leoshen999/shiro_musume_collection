@@ -51,6 +51,7 @@ const useStyles = makeStyles({
     "@media (max-width: 768px)": {
       display: "block",
       lineHeight: "1",
+      textAlign: "center",
     },
   },
   rowContainer: {
