@@ -1,4 +1,4 @@
-import { useContext, useState } from "react";
+import { Fragment, useContext, useState } from "react";
 import { makeStyles } from "@material-ui/core/styles";
 import clsx from "clsx";
 import useMediaQuery from "@material-ui/core/useMediaQuery";
@@ -19,6 +19,7 @@ export default function ShiroMusumeList() {
   const [terrainFilter, setTerrainFilter] = useState([]);
   const [weaponFilter, setWeaponFilter] = useState([]);
   const [locationFilter, setLocationFilter] = useState([]);
+  const [sorter, setSorter] = useState<string>("id_asc");
 
   const rarities = [];
   for (var r = 1; r <= 7; r++) {
@@ -29,13 +30,57 @@ export default function ShiroMusumeList() {
     });
   }
 
-  function createSelectionHandler(filter, setter) {
+  const sorters = [
+    [
+      { id: "id_asc", name: "No.▲", color: "#274a78" },
+      { id: "id_desc", name: "No.▼", color: "#274a78" },
+    ],
+    [
+      { id: "terrain_asc", name: "属性▲", color: "#007b43" },
+      { id: "terrain_desc", name: "属性▼", color: "#007b43" },
+    ],
+    [
+      { id: "weapon_asc", name: "武器▲", color: "#eb6238" },
+      { id: "weapon_desc", name: "武器▼", color: "#eb6238" },
+    ],
+    [
+      { id: "rarity_asc", name: "★▲", color: "#e6b422" },
+      { id: "rarity_desc", name: "★▼", color: "#e6b422" },
+    ],
+    [
+      { id: "breast_asc", name: "胸▲", color: "#824880" },
+      { id: "breast_desc", name: "胸▼", color: "#824880" },
+    ],
+    [
+      { id: "age_asc", name: "年齢▲", color: "#2792c3" },
+      { id: "age_desc", name: "年齢▼", color: "#2792c3" },
+    ],
+  ];
+
+  function createFilterSelectionHandler(filter, setter) {
     return function (id) {
       const needsPush = !filter.includes(id);
       const newFilter = filter.filter((f) => f !== id);
       if (needsPush) newFilter.push(id);
       setter(newFilter);
     };
+  }
+
+  function handleSelectSorter(s) {
+    if (s === "breast_asc") {
+      alert("ちっぱい検索機能あるわけがないだろ！");
+      return;
+    } else if (s === "breast_desc") {
+      alert("もしかして巨乳すき変態殿？");
+      return;
+    } else if (s === "age_asc") {
+      alert("ロリコンか！おまわりさんこっちです");
+      return;
+    } else if (s === "age_desc") {
+      alert("失礼な！女性の年齢は内緒だよ！");
+      return;
+    }
+    setSorter(s);
   }
 
   function handleOpenDrawer(e) {
@@ -50,6 +95,44 @@ export default function ShiroMusumeList() {
   weapons.forEach((wp) => {
     weaponIdToTypeMapping[wp.id] = wp.type;
   });
+
+  const weaponIdToIndex = {};
+  weapons.forEach((wp, idx) => {
+    weaponIdToIndex[wp.id] = idx;
+  });
+  const terrainIdToIndex = {};
+  terrains.forEach((tr, idx) => {
+    terrainIdToIndex[tr.id] = idx;
+  });
+  const idxMult = sorter.endsWith("_desc") ? -1 : 1;
+
+  let getIdx = function () {
+    return -1;
+  };
+  if (sorter.startsWith("rarity_")) {
+    getIdx = function (m) {
+      return m.rarity;
+    };
+  } else if (sorter.startsWith("weapon_")) {
+    getIdx = function (m) {
+      return weaponIdToIndex[m.weapon];
+    };
+  } else if (sorter.startsWith("terrain_")) {
+    getIdx = function (m) {
+      return m.terrains.length > 0
+        ? terrainIdToIndex[m.terrains[0]]
+        : 999999999;
+    };
+  } else if (sorter.startsWith("id_")) {
+    getIdx = function (m) {
+      return m.id;
+    };
+  }
+  const compareFunc = function (m1, m2) {
+    const i1 = getIdx(m1);
+    const i2 = getIdx(m2);
+    return i1 !== i2 ? idxMult * (i1 - i2) : m1.id - m2.id;
+  };
 
   return (
     <div className={classes.container}>
@@ -69,33 +152,56 @@ export default function ShiroMusumeList() {
           <ShiroMusumeFilter
             filters={terrains}
             selections={terrainFilter}
-            onSelect={createSelectionHandler(terrainFilter, setTerrainFilter)}
+            onSelect={createFilterSelectionHandler(
+              terrainFilter,
+              setTerrainFilter
+            )}
           />
           <div className={classes.divider} />
           <ShiroMusumeFilter
             filters={weapons}
             selections={weaponFilter}
             imageUriBase="weapon_images"
-            onSelect={createSelectionHandler(weaponFilter, setWeaponFilter)}
+            onSelect={createFilterSelectionHandler(
+              weaponFilter,
+              setWeaponFilter
+            )}
           />
           <div className={classes.divider} />
           <ShiroMusumeFilter
             filters={rarities}
             selections={rarityFilter}
-            onSelect={createSelectionHandler(rarityFilter, setRarityFilter)}
+            onSelect={createFilterSelectionHandler(
+              rarityFilter,
+              setRarityFilter
+            )}
           />
           <div className={classes.divider} />
           <ShiroMusumeFilter
             filters={locations}
             selections={locationFilter}
-            onSelect={createSelectionHandler(locationFilter, setLocationFilter)}
+            onSelect={createFilterSelectionHandler(
+              locationFilter,
+              setLocationFilter
+            )}
           />
+          {isMobileLayout && (
+            <>
+              <div className={classes.divider} />
+              <ShiroMusumeFilter
+                filters={sorters.flat()}
+                selections={[sorter]}
+                onSelect={handleSelectSorter}
+              />
+            </>
+          )}
         </div>
         {isMobileLayout && (
           <div
             className={classes.filterButtonContainer}
             onClick={isDrawerOpened ? handleCloseDrawer : handleOpenDrawer}
           >
+            <div className={classes.filterButtonText}>絞込</div>
             <svg
               viewBox="0 0 512 512"
               className={clsx(
@@ -107,7 +213,7 @@ export default function ShiroMusumeList() {
                 <polygon points="440.189,92.085 256.019,276.255 71.83,92.085 0,163.915 256.019,419.915 512,163.915"></polygon>
               </g>
             </svg>
-            <div className={classes.filterButtonText}>絞込</div>
+            <div className={classes.filterButtonText}>表示順</div>
           </div>
         )}
       </div>
@@ -134,6 +240,7 @@ export default function ShiroMusumeList() {
               locationFilter.length === 0 ||
               locationFilter.includes(musume.location)
           )
+          .sort(compareFunc)
           .map((musume) => (
             <ShiroMusumeItem
               key={musume.id}
@@ -142,6 +249,27 @@ export default function ShiroMusumeList() {
             />
           ))}
       </div>
+      {!isMobileLayout && (
+        <div
+          className={clsx(
+            classes.filtersContainer,
+            classes.filtersContainerOnRight
+          )}
+        >
+          <div className={classes.filtersScrollContainer}>
+            {sorters.map((st, key) => (
+              <Fragment key={key}>
+                {key !== 0 && <div className={classes.divider} />}
+                <ShiroMusumeFilter
+                  filters={st}
+                  selections={[sorter]}
+                  onSelect={handleSelectSorter}
+                />
+              </Fragment>
+            ))}
+          </div>
+        </div>
+      )}
     </div>
   );
 }
@@ -180,6 +308,11 @@ const useStyles = makeStyles({
       transform: "translateY(calc(25px - 100%))",
     },
   },
+  filtersContainerOnRight: {
+    borderRightStyle: "none",
+    borderLeftStyle: "solid",
+    borderLeftWidth: "1px",
+  },
   filtersContainerOpened: {
     transform: "translateY(0)",
     backgroundColor: "#e6e6e6",
@@ -216,7 +349,6 @@ const useStyles = makeStyles({
     display: "flex",
     flexDirection: "row",
     alignItems: "center",
-    justifyContent: "center",
     transition: "0.2s",
     cursor: "pointer",
     "&:hover": {
@@ -230,6 +362,7 @@ const useStyles = makeStyles({
     minHeight: "25px",
     width: "25px",
     height: "25px",
+    marginLeft: "10px",
     marginRight: "10px",
   },
   filterIconOpened: {
@@ -238,6 +371,8 @@ const useStyles = makeStyles({
   filterButtonText: {
     fontSize: "14px",
     lineHeight: "1",
+    flex: 1,
+    textAlign: "center",
   },
   itemsContainer: {
     minHeight: "0px",
