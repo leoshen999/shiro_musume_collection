@@ -1,12 +1,9 @@
 import React, { useState, useEffect } from "react";
-
 interface GlobalContextType {
-  musumes: Array<any>;
   owns: Array<number>;
   onChangeOwn: (number, boolean) => void;
 }
 export const GlobalContext = React.createContext<GlobalContextType>({
-  musumes: [],
   owns: [],
   onChangeOwn: () => {},
 });
@@ -22,7 +19,6 @@ interface Props {
   children: React.ReactNode;
 }
 export function GlobalContextProvider({ children }: Props) {
-  const [musumes, setMusumes] = useState<Array<any>>([]);
   const [owns, setOwns] = useState<Array<number>>([]);
 
   useEffect(() => {
@@ -34,9 +30,6 @@ export function GlobalContextProvider({ children }: Props) {
           )
         );
       }
-      setMusumes(
-        await fetchJson(process.env.NEXT_PUBLIC_FRONTEND_BASE + "/musumes.json")
-      );
     })();
   }, []);
 
@@ -68,7 +61,6 @@ export function GlobalContextProvider({ children }: Props) {
   return (
     <GlobalContext.Provider
       value={{
-        musumes,
         owns,
         onChangeOwn: handleChangeOwn,
       }}

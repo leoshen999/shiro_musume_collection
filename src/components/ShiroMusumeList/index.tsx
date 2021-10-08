@@ -8,6 +8,7 @@ import ShiroMusumeFilter from "./ShiroMusumeFilter";
 import terrains from "../../resources/terrains.json";
 import locations from "../../resources/locations.json";
 import weapons from "../../resources/weapons.json";
+import musumes from "../../resources/musumes.json";
 
 export default function ShiroMusumeList() {
   const classes = useStyles();
@@ -224,7 +225,7 @@ export default function ShiroMusumeList() {
         </div>
       </div>
       <div className={classes.itemsContainer}>
-        {context.musumes
+        {musumes
           .filter((musume) => {
             if (terrainFilter.length === 0) return true;
             return (

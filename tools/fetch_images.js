@@ -12,7 +12,7 @@ function sleep(ms) {
   });
 }
 
-var musumes = JSON.parse(fs.readFileSync(__dirname + "/../public/musumes.json", "utf8"));
+var musumes = JSON.parse(fs.readFileSync(__dirname + "/../src/resources/musumes.json", "utf8"));
 
 var target_dir = __dirname + "/../public/musume_images/";
 if (!fs.existsSync(target_dir))
