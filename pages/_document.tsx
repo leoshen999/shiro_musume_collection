@@ -34,6 +34,13 @@ export default class RootDocument extends Document {
       <Html>
         <Head>
           <meta charSet="utf-8" />
+          <meta property="og:image" content="./og.png" />
+          <meta property="og:type" content="website" />
+          <meta property="og:title" content="城プロRE：城娘図鑑" />
+          <meta
+            property="og:description"
+            content="ブラウザゲーム城プロREのキャラ検索ツールです。絞込や表示順などの設定ご利用いただけます。"
+          />
           <link rel="preconnect" href="https://fonts.gstatic.com" />
           <link
             href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap"
