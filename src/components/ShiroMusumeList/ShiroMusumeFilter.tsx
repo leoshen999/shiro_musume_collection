@@ -68,7 +68,7 @@ const useStyles = makeStyles({
     filter: "brightness(60%)",
     userSelect: "none",
     cursor: "pointer",
-    transition: "0.2s",
+    transition: "filter 0.2s",
     "&:hover": {
       filter: "brightness(75%)",
     },

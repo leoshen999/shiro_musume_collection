@@ -115,7 +115,7 @@ const useStyles = makeStyles({
     color: "#323232",
   },
   containerReadOnly: {
-    transition: "0.2s",
+    transition: "box-shadow 0.2s",
     "&:hover": {
       boxShadow: "0px 0px 10px 2px rgba(136, 136, 136, 0.7)",
     },
@@ -128,7 +128,7 @@ const useStyles = makeStyles({
     width: "72px",
     height: "72px",
     cursor: "pointer",
-    transition: "0.2s",
+    transition: "filter 0.2s",
     filter: "grayscale(75%) brightness(30%)",
     "&:hover": {
       filter: "grayscale(75%) brightness(40%)",
@@ -153,7 +153,7 @@ const useStyles = makeStyles({
     width: "100%",
     padding: "2px",
     filter: "grayscale(40%) brightness(70%)",
-    transition: "0.2s",
+    transition: "text-shadow 0.2s, color 0.2s",
     textDecoration: "none",
     color: "#323232",
   },

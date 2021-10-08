@@ -294,7 +294,7 @@ const useStyles = makeStyles({
     flexDirection: "column",
     alignItems: "stretch",
     "@media (max-width: 768px)": {
-      transition: "0.2s",
+      transition: "transform 0.2s",
       position: "fixed",
       width: "100%",
       height: "auto",
@@ -356,7 +356,7 @@ const useStyles = makeStyles({
     display: "flex",
     flexDirection: "row",
     alignItems: "center",
-    transition: "0.2s",
+    transition: "background-color 0.2s",
     cursor: "pointer",
     "&:hover": {
       backgroundColor: "rgba(0, 0, 0, 0.1)",
