@@ -34,7 +34,7 @@ export default class RootDocument extends Document {
       <Html>
         <Head>
           <meta charSet="utf-8" />
-          <meta property="og:image" content="./og.png" />
+          <meta property="og:image" content="https://leoshen999.github.io/shiro_musume_collection/og.png" />
           <meta property="og:type" content="website" />
           <meta property="og:title" content="城プロRE：城娘図鑑" />
           <meta
