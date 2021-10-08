@@ -230,11 +230,10 @@ const useStyles = makeStyles({
     minHeight: "25px",
     width: "25px",
     height: "25px",
-    transition: "0.2s",
     marginRight: "10px",
   },
   filterIconOpened: {
-    transform: "rotate(180deg)",
+    transform: "scaleY(-1)",
   },
   filterButtonText: {
     fontSize: "14px",
