@@ -106,7 +106,7 @@ export default function ShiroMusumeList() {
   });
   const idxMult = sorter.endsWith("_desc") ? -1 : 1;
 
-  let getIdx = function () {
+  let getIdx: (any) => number = function () {
     return -1;
   };
   if (sorter.startsWith("rarity_")) {
