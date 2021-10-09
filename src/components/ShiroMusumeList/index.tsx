@@ -58,6 +58,13 @@ export default function ShiroMusumeList() {
     ],
   ];
 
+  function handleFilterAll() {
+    setRarityFilter([]);
+    setTerrainFilter([]);
+    setWeaponFilter([]);
+    setLocationFilter([]);
+  }
+
   function createFilterSelectionHandler(filter, setter) {
     return function (id) {
       const needsPush = !filter.includes(id);
@@ -135,6 +142,15 @@ export default function ShiroMusumeList() {
     return i1 !== i2 ? idxMult * (i1 - i2) : m1.id - m2.id;
   };
 
+  const all = [{ id: "all", name: "すべて", color: "#595857" }];
+  const allFilter =
+    terrainFilter.length === 0 &&
+    weaponFilter.length === 0 &&
+    rarityFilter.length === 0 &&
+    locationFilter.length === 0
+      ? ["all"]
+      : [];
+
   return (
     <div className={classes.container}>
       <div
@@ -152,6 +168,19 @@ export default function ShiroMusumeList() {
         )}
       >
         <div className={classes.filtersScrollContainer}>
+          {
+            // TODO: adjust the layout for `all` filter in mobile mode
+            false && (
+              <>
+                <ShiroMusumeFilter
+                  filters={all}
+                  selections={allFilter}
+                  onSelect={handleFilterAll}
+                />
+                <div className={classes.divider} />
+              </>
+            )
+          }
           <ShiroMusumeFilter
             filters={terrains}
             selections={terrainFilter}
