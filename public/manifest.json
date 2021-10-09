@@ -41,7 +41,7 @@
     }
   ],
   "short_name": "城娘図鑑",
-  "start_url": "https://leoshen999.github.io/shiro_musume_collection/",
+  "start_url": "/",
   "theme_color": "#e6e6e6",
   "scope": "/"
 }
