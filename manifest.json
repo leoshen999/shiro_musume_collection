@@ -41,7 +41,7 @@
     }
   ],
   "short_name": "城娘図鑑",
-  "start_url": "/",
+  "start_url": "./",
   "theme_color": "#e6e6e6",
-  "scope": "/"
+  "scope": "."
 }
