@@ -1,0 +1,47 @@
+{
+  "background_color": "#e6e6e6",
+  "categories": ["entertainment", "games", "utilities"],
+  "description": "ブラウザゲーム城プロREのキャラ検索ツールです。絞込や表示順などの設定ご利用いただけます。",
+  "dir": "ltr",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "https://leoshen999.github.io/shiro_musume_collection/logo192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://leoshen999.github.io/shiro_musume_collection/logo512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "lang": "jp",
+  "name": "城プロRE：城娘図鑑",
+  "screenshots": [
+    {
+      "src": "https://leoshen999.github.io/shiro_musume_collection/screenshots/mobile_01.png",
+      "sizes": "822x1646",
+      "type": "image/png"
+    },
+    {
+      "src": "https://leoshen999.github.io/shiro_musume_collection/screenshots/mobile_02.png",
+      "sizes": "822x1646",
+      "type": "image/png"
+    },
+    {
+      "src": "https://leoshen999.github.io/shiro_musume_collection/screenshots/desktop_01.png",
+      "sizes": "1280x720",
+      "type": "image/png"
+    },
+    {
+      "src": "https://leoshen999.github.io/shiro_musume_collection/screenshots/desktop_02.png",
+      "sizes": "1280x720",
+      "type": "image/png"
+    }
+  ],
+  "short_name": "城娘図鑑",
+  "start_url": "https://leoshen999.github.io/shiro_musume_collection/",
+  "theme_color": "#e6e6e6",
+  "scope": "/"
+}

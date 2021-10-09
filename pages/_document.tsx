@@ -53,6 +53,10 @@ export default class RootDocument extends Document {
             rel="shortcut icon"
             href={process.env.NEXT_PUBLIC_FRONTEND_BASE + "/favicon.ico"}
           />
+          <link
+            rel="manifest"
+            href={process.env.NEXT_PUBLIC_FRONTEND_BASE + "/manifest.json"}
+          />
         </Head>
         <body>
           <Main />
