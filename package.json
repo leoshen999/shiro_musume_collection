@@ -12,7 +12,7 @@
   "scripts": {
     "start": "next dev",
     "build": "node tools/build.js",
-    "prettier": "prettier --write pages src",
+    "prettier": "prettier --write pages src public tools",
     "lint": "next lint"
   },
   "dependencies": {
