@@ -194,7 +194,7 @@ export default function ShiroMusumeList() {
             filters={weapons}
             selections={weaponFilter}
             imageUriBase={
-              process.env.NEXT_PUBLIC_FRONTEND_BASE + "/weapon_images"
+              process.env.NEXT_PUBLIC_FRONTEND_BASE + "weapon_images/"
             }
             onSelect={createFilterSelectionHandler(
               weaponFilter,

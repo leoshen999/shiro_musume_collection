@@ -32,7 +32,7 @@ export default function ShiroMusumeFilter({
           {imageUriBase !== undefined ? (
             <img
               className={classes.img}
-              src={imageUriBase + "/" + f.id + ".png"}
+              src={imageUriBase + f.id + ".png"}
               alt=""
             />
           ) : (

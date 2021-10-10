@@ -26,7 +26,7 @@ export function GlobalContextProvider({ children }: Props) {
       if (process.env.NEXT_PUBLIC_READ_ONLY_MODE !== "true") {
         setOwns(
           await fetchJson(
-            `${process.env.NEXT_PUBLIC_BACKEND_BASE}/get_all_owns.php`
+            `${process.env.NEXT_PUBLIC_BACKEND_BASE}get_all_owns.php`
           )
         );
       }
@@ -44,7 +44,7 @@ export function GlobalContextProvider({ children }: Props) {
     formData.set("own", own ? "1" : "0");
     try {
       const response = await fetch(
-        `${process.env.NEXT_PUBLIC_BACKEND_BASE}/set_own.php`,
+        `${process.env.NEXT_PUBLIC_BACKEND_BASE}set_own.php`,
         {
           method: "POST",
           body: formData,

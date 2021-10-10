@@ -36,7 +36,7 @@ export default class RootDocument extends Document {
           <meta charSet="utf-8" />
           <meta
             property="og:image"
-            content={process.env.NEXT_PUBLIC_FRONTEND_BASE + "/og.png"}
+            content={process.env.NEXT_PUBLIC_FRONTEND_BASE + "og.png"}
           />
           <meta property="og:type" content="website" />
           <meta property="og:title" content="城プロRE：城娘図鑑" />
@@ -51,11 +51,11 @@ export default class RootDocument extends Document {
           />
           <link
             rel="shortcut icon"
-            href={process.env.NEXT_PUBLIC_FRONTEND_BASE + "/favicon.ico"}
+            href={process.env.NEXT_PUBLIC_FRONTEND_BASE + "favicon.ico"}
           />
           <link
             rel="manifest"
-            href={process.env.NEXT_PUBLIC_FRONTEND_BASE + "/manifest.json"}
+            href={process.env.NEXT_PUBLIC_FRONTEND_BASE + "manifest.json"}
           />
         </Head>
         <body>

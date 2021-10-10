@@ -1,13 +1,14 @@
 import { useEffect } from "react";
 import type { AppProps } from "next/app";
 
+import "../src/ensureCorrectLocationPath.js";
 import "../src/index.css";
 import { GlobalContextProvider } from "../src/GlobalContext";
 
 function setupServiceWorker() {
   if (!navigator.serviceWorker) return;
   navigator.serviceWorker.register(
-    process.env.NEXT_PUBLIC_FRONTEND_BASE + "/sw.js"
+    process.env.NEXT_PUBLIC_FRONTEND_BASE + "sw.js"
   );
 }
 
