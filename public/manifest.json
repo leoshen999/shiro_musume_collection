@@ -6,12 +6,12 @@
   "display": "standalone",
   "icons": [
     {
-      "src": "https://leoshen999.github.io/shiro_musume_collection/logo192.png",
+      "src": "./logo192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://leoshen999.github.io/shiro_musume_collection/logo512.png",
+      "src": "./logo512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
@@ -20,22 +20,22 @@
   "name": "城プロRE：城娘図鑑",
   "screenshots": [
     {
-      "src": "https://leoshen999.github.io/shiro_musume_collection/screenshots/mobile_01.png",
+      "src": "./screenshots/mobile_01.png",
       "sizes": "822x1646",
       "type": "image/png"
     },
     {
-      "src": "https://leoshen999.github.io/shiro_musume_collection/screenshots/mobile_02.png",
+      "src": "./screenshots/mobile_02.png",
       "sizes": "822x1646",
       "type": "image/png"
     },
     {
-      "src": "https://leoshen999.github.io/shiro_musume_collection/screenshots/desktop_01.png",
+      "src": "./screenshots/desktop_01.png",
       "sizes": "1280x720",
       "type": "image/png"
     },
     {
-      "src": "https://leoshen999.github.io/shiro_musume_collection/screenshots/desktop_02.png",
+      "src": "./screenshots/desktop_02.png",
       "sizes": "1280x720",
       "type": "image/png"
     }
