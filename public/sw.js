@@ -1,9 +1,13 @@
+var kAppSrcTimestamp = XXX_APP_SRC_TIMESTAMP_XXX;
+
 var kAppSrcCacheNamePrefix = "shiro_musume_collection_app_src_";
-var kAppSrcCacheName = kAppSrcCacheNamePrefix + XXX_APP_SRC_TIMESTAMP_XXX;
+var kAppSrcCacheName = kAppSrcCacheNamePrefix + kAppSrcTimestamp;
 var kAppSrcFileList = XXX_APP_SRC_FILE_LIST_XXX;
 
 var kDynamicResCacheName = "shiro_musume_collection_dynamic_res";
 var kDynamicResDir = XXX_DYNAMIC_RES_DIR_XXX;
+
+var kTimestampHeaderName = "X-Shiro-Musume-Collection-Timestamp";
 
 self.addEventListener("install", (e) => {
   // Push this service worker to activate.
@@ -54,19 +58,43 @@ self.addEventListener("fetch", (e) => {
     var cache = await caches.open(cacheName);
     var cacheResp = await cache.match(e.request);
 
-    // Fetch from network and write to cache.
-    var fetchPromise = (async () => {
+    if (cacheName === kAppSrcCacheName) {
+      // For app src, use cache and skip network if it is in cache.
+      if (cacheResp) return cacheResp;
+
+      // Otherwise, fetch then cache.
       var networkResp = await fetch(e.request);
       e.waitUntil(cache.put(e.request, networkResp.clone()));
       return networkResp;
-    })();
+    } else {
+      // For dynamic res, use cache and skip network if it is in cache and new
+      // enough (by timestamp).
+      if (
+        cacheResp &&
+        cacheResp.headers.has(kTimestampHeaderName) &&
+        cacheResp.headers.get(kTimestampHeaderName) === kAppSrcTimestamp
+      )
+        return cacheResp;
 
-    // Use cache if presented. Else, use network.
-    if (cacheResp) {
-      e.waitUntil(fetchPromise);
-      return cacheResp;
+      // Otherwise, perform a stale-while-revalidate strategy.
+      var fetchPromise = (async () => {
+        var networkResp = await fetch(e.request);
+        var newHeaders = new Headers(networkResp.headers);
+        newHeaders.append(kTimestampHeaderName, kAppSrcTimestamp);
+        const newResp = new Response(networkResp.body, {
+          status: networkResp.status,
+          statusText: networkResp.statusText,
+          headers: newHeaders,
+        });
+        e.waitUntil(cache.put(e.request, newResp.clone()));
+        return newResp;
+      })();
+      if (cacheResp) {
+        e.waitUntil(fetchPromise);
+        return cacheResp;
+      }
+      return fetchPromise;
     }
-    return fetchPromise;
   })();
 
   e.respondWith(promise);
