@@ -4800,6 +4800,38 @@
     "weapon": "throwing"
   },
   {
+    "id": 601,
+    "name": "［ハロウィン］トームペア城",
+    "rarity": 5,
+    "terrains": ["hill"],
+    "location": "kaigai",
+    "weapon": "shield"
+  },
+  {
+    "id": 602,
+    "name": "［ハロウィン］コンシェルジュリー",
+    "rarity": 7,
+    "terrains": ["plain", "water"],
+    "location": "kaigai",
+    "weapon": "sword"
+  },
+  {
+    "id": 603,
+    "name": "［ハロウィン］クロンボー城",
+    "rarity": 7,
+    "terrains": ["plain", "water"],
+    "location": "kaigai",
+    "weapon": "gun"
+  },
+  {
+    "id": 604,
+    "name": "［ハロウィン］モースハム城",
+    "rarity": 6,
+    "terrains": ["hill"],
+    "location": "kaigai",
+    "weapon": "whip"
+  },
+  {
     "id": 801,
     "name": "前田利家",
     "rarity": 6,
