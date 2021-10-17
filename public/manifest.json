@@ -6,13 +6,25 @@
   "display": "standalone",
   "icons": [
     {
-      "src": "./logo192.png",
+      "src": "./imgs/icon_auto_192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "./logo512.png",
+      "src": "./imgs/icon_auto_512.png",
       "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "./imgs/icon_maskable_192.png",
+      "sizes": "192x192",
+      "purpose": "maskable",
+      "type": "image/png"
+    },
+    {
+      "src": "./imgs/icon_maskable_512.png",
+      "sizes": "512x512",
+      "purpose": "maskable",
       "type": "image/png"
     }
   ],
@@ -20,22 +32,22 @@
   "name": "城プロRE：城娘図鑑",
   "screenshots": [
     {
-      "src": "./screenshots/mobile_01.png",
+      "src": "./imgs/screenshot_mobile_01.png",
       "sizes": "822x1646",
       "type": "image/png"
     },
     {
-      "src": "./screenshots/mobile_02.png",
+      "src": "./imgs/screenshot_mobile_02.png",
       "sizes": "822x1646",
       "type": "image/png"
     },
     {
-      "src": "./screenshots/desktop_01.png",
+      "src": "./imgs/screenshot_desktop_01.png",
       "sizes": "1280x720",
       "type": "image/png"
     },
     {
-      "src": "./screenshots/desktop_02.png",
+      "src": "./imgs/screenshot_desktop_02.png",
       "sizes": "1280x720",
       "type": "image/png"
     }

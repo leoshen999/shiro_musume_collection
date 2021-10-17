@@ -13,3 +13,4 @@ Support dark mode.
 Ensure cached data is new enough (by hash).
 Handle the error in service worker in devel env.
 New UI for mobile mode.
+Use a configurable og:image and og:url.

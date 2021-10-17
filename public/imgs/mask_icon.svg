@@ -1,0 +1,19 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="512px" height="512px" viewBox="0 0 512 512" xml:space="preserve">
+<g>
+  <polygon points="139.672,59.266 108.531,140.406 403.469,140.406 372.328,59.266 	" style="fill: black;"></polygon>
+  <polygon points="88.297,207 57.156,288.141 454.859,288.141 423.719,207 	" style="fill: black;"></polygon>
+  <polygon points="48.016,374.906 12.594,512 499.406,512 464,374.906 	" style="fill: black;"></polygon>
+  <rect x="109.953" y="231.875" width="32.453" height="154.563" style="fill: black;"></rect>
+  <rect x="369.594" y="231.875" width="32.453" height="154.563" style="fill: black;"></rect>
+  <rect x="144.438" y="85.844" width="32.453" height="154.563" style="fill: black;"></rect>
+  <rect x="335.109" y="85.844" width="32.453" height="154.563" style="fill: black;"></rect>
+  <path d="M180.078,20.125c-15.516,2.391-2.578,23.719,14.203,22.516l2.594,26.078c0,0-44.578-1.188-44.578-31.406
+    c0-25.469,23.906-27.844,23.906-27.844L190.406,0v13.031l7.75,9.484L180.078,20.125z" style="fill: black;"></path>
+  <path d="M331.922,20.125c15.516,2.391,2.594,23.719-14.203,22.516l-2.578,26.078c0,0,44.563-1.188,44.563-31.406
+    c0-25.469-23.906-27.844-23.906-27.844L321.578,0v13.031l-7.734,9.484L331.922,20.125z" style="fill: black;"></path>
+  <rect x="239.766" y="156.375" width="32.469" height="32.438" style="fill: black;"></rect>
+  <rect x="192.781" y="314.578" width="32.453" height="32.453" style="fill: black;"></rect>
+  <rect x="286.766" y="314.578" width="32.453" height="32.453" style="fill: black;"></rect>
+</g>
+</svg>
+
