@@ -33,7 +33,7 @@ fse.copySync("backend", "out/backend");
 
 console.log(chalk.green("Update cache info for service worker"));
 
-var app_src_files = ["", "imgs/favicon.ico"];
+var app_src_files = [""];
 
 function addFilesToSrc(dir) {
   var dirents = fs.readdirSync("out/" + dir, { withFileTypes: true });
