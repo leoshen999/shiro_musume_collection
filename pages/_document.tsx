@@ -89,6 +89,11 @@ export default class RootDocument extends Document {
           <meta name="apple-mobile-web-app-status-bar-style" content="black" />
           <meta name="format-detection" content="telephone=no" />
 
+          {/* Twitter */}
+          <meta name="twitter:card" content="summary_large_image" />
+          <meta name="twitter:site" content="@leoshen365" />
+          <meta name="twitter:creator" content="@leoshen365" />
+
           {/* Web fonts */}
           <link rel="preconnect" href="https://fonts.gstatic.com" />
           <link
