@@ -67,6 +67,8 @@ const useStyles = makeStyles({
     borderRadius: "5px",
     filter: "brightness(60%)",
     userSelect: "none",
+    "-webkit-user-select": "none",
+    "-ms-user-select": "none",
     cursor: "pointer",
     transition: "filter 0.2s",
     "&:hover": {

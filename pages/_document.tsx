@@ -31,7 +31,7 @@ export default class RootDocument extends Document {
 
   render() {
     return (
-      <Html>
+      <Html lang="ja">
         <Head>
           {/* Web manifest */}
           <link

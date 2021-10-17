@@ -45,7 +45,7 @@ export default function ShiroMusumeItem({
         className={clsx(classes.container, classes.containerReadOnly)}
         href={"https://scre.swiki.jp/index.php?" + musume.name}
         target="_blank"
-        rel="noreferrer"
+        rel="noreferrer noopener"
       >
         <img
           className={clsx(classes.musumeIcon, classes.musumeIconReadOnly)}
@@ -95,7 +95,7 @@ export default function ShiroMusumeItem({
         )}
         href={"https://scre.swiki.jp/index.php?" + musume.name}
         target="_blank"
-        rel="noreferrer"
+        rel="noreferrer noopener"
       >
         <div className={classes.musumeId}>{idStr}</div>
         <div className={classes.musumeName}>{musume.name}</div>
@@ -115,7 +115,7 @@ const useStyles = makeStyles({
     borderWidth: "1px",
     borderRadius: "4px",
     margin: "3px",
-    overflow: "clip",
+    overflow: "hidden",
     textDecoration: "none",
     color: "#323232",
   },
