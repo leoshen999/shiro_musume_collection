@@ -44,7 +44,6 @@ export default class RootDocument extends Document {
           {/* Icons */}
           <link
             rel="shortcut icon"
-            type="image/x-icon"
             href={process.env.NEXT_PUBLIC_FRONTEND_BASE + "imgs/favicon.ico"}
           />
           <link
